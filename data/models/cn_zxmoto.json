@@ -47,9 +47,10 @@
       "body_style": "body:sport",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2025–present",
-      "note": "820RR赛事版本，曾代表张雪机车征战WSBK并夺冠，整车国产化率高达87%，是国产赛事仿赛的标杆",
-      "verified": "verified"
+      "years": "2026–present",
+      "note": "2026中国摩博会发布的旗舰公路仿赛版本，818.8cc直列三缸；全国统一指导价138000元，预计2026年12月交付。",
+      "verified": "verified",
+      "source_url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqvrx7690124.shtml"
     },
     {
       "id": "model:zxmoto:820r",
@@ -82,8 +83,9 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2026–present",
-      "note": "张雪机车820平台第三款市售车型，中量级探险车，兼顾公路与非铺装路面骑行",
-      "verified": "verified"
+      "note": "2026中国摩博会发布的818.8cc直列三缸ADV，提供突击版与旅行版；兼顾公路与非铺装路面骑行。",
+      "verified": "verified",
+      "source_url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqvrx7690124.shtml"
     },
     {
       "id": "model:zxmoto:500f",
@@ -99,8 +101,45 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2026–present",
-      "note": "张雪机车500cc直列四缸复古街车，填补品牌在四缸复古细分市场的车型空白",
-      "verified": "verified"
+      "note": "2026中国摩博会发布2027款；470cc直列四缸复古街车升级电子油门、散热与座垫，售价30580元。",
+      "verified": "verified",
+      "source_url": "https://www.12365auto.com/motorcycle/20260920/576005.shtml"
+    },
+    {
+      "id": "model:zxmoto:820rr-rc",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820RR-RC",
+        "zh-CN": "820RR-RC 赛道版",
+        "zh-TW": "820RR-RC 賽道版",
+        "ja": "820RR-RC サーキット仕様"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026中国摩博会发布的赛道专用820RR版本，不具备道路行驶资质；采用电子油门、三段可调TCS及钛合金直排系统，售价128000元。",
+      "verified": "verified",
+      "source_url": "https://m.ithome.com/html/1004414.htm"
+    },
+    {
+      "id": "model:zxmoto:600v",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "600V",
+        "zh-CN": "600V 运动巡航车",
+        "zh-TW": "600V 運動巡航車",
+        "ja": "600V スポーツクルーザー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026中国摩博会发布的张雪机车首款巡航车；578cc水冷V型双缸，最大功率45kW、峰值扭矩61N·m，售价27980元。",
+      "verified": "verified",
+      "source_url": "https://www.ithome.com/1/004/404.htm"
     },
     {
       "id": "model:zxmoto:500rr",

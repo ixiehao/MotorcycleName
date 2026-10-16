@@ -237,6 +237,60 @@
       "years": "2026–present",
       "note": "奔达新一代2026款灰石250，换装全新发动机并多项升级，售价维持16980元，入门Bobber市场现象级车型",
       "verified": "verified"
+    },
+    {
+      "id": "model:benda:gypsy-3-manual",
+      "brand": "Benda",
+      "names": {
+        "en": "Gypsy 3 (Manual)",
+        "zh-CN": "吉普赛3 手动版",
+        "zh-TW": "吉普賽3 手動版",
+        "ja": "ジプシー3（マニュアル）"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "concept",
+      "years": "2026–present",
+      "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的手动挡版本。厂家尚未公布上市时间。",
+      "verified": "verified",
+      "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
+    },
+    {
+      "id": "model:benda:gypsy-3-cvt",
+      "brand": "Benda",
+      "names": {
+        "en": "Gypsy 3 (CVT)",
+        "zh-CN": "吉普赛3 CVT版",
+        "zh-TW": "吉普賽3 CVT版",
+        "ja": "ジプシー3（CVT）"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "concept",
+      "years": "2026–present",
+      "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的CVT版本，面向城市通勤使用场景。厂家尚未公布上市时间。",
+      "verified": "verified",
+      "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
+    },
+    {
+      "id": "model:benda:gypsy-5",
+      "brand": "Benda",
+      "names": {
+        "en": "Gypsy 5",
+        "zh-CN": "吉普赛5",
+        "zh-TW": "吉普賽5",
+        "ja": "ジプシー5"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "concept",
+      "years": "2026–present",
+      "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；499cc平台、Bobber风格并配备空气悬挂，仅提供手动挡。厂家尚未公布上市时间。",
+      "verified": "verified",
+      "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
     }
   ]
 }

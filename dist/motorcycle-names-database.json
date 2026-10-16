@@ -2,8 +2,8 @@
   "schema_version": "1.0.0",
   "meta": {
     "schema_version": "1.0.0",
-    "database_version": "1.1.0",
-    "updated": "2026-08-29",
+    "database_version": "1.1.1",
+    "updated": "2026-10-16",
     "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
     "repository": "https://github.com/ixiehao/motorcycle-name",
     "languages": [
@@ -18,7 +18,7 @@
       "glossary_categories": 10,
       "glossary_terms": 116,
       "brands": 90,
-      "models": 1585,
+      "models": 1592,
       "cross_market_aliases": 77
     },
     "sources": [
@@ -6201,6 +6201,60 @@
         "verified": "verified"
       },
       {
+        "id": "model:benda:gypsy-3-cvt",
+        "brand": "Benda",
+        "names": {
+          "en": "Gypsy 3 (CVT)",
+          "zh-CN": "吉普赛3 CVT版",
+          "zh-TW": "吉普賽3 CVT版",
+          "ja": "ジプシー3（CVT）"
+        },
+        "segment": "class:disp:400cc",
+        "body_style": "body:cruiser",
+        "powertrain": "pt:ice",
+        "status": "concept",
+        "years": "2026–present",
+        "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的CVT版本，面向城市通勤使用场景。厂家尚未公布上市时间。",
+        "verified": "verified",
+        "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
+      },
+      {
+        "id": "model:benda:gypsy-3-manual",
+        "brand": "Benda",
+        "names": {
+          "en": "Gypsy 3 (Manual)",
+          "zh-CN": "吉普赛3 手动版",
+          "zh-TW": "吉普賽3 手動版",
+          "ja": "ジプシー3（マニュアル）"
+        },
+        "segment": "class:disp:400cc",
+        "body_style": "body:cruiser",
+        "powertrain": "pt:ice",
+        "status": "concept",
+        "years": "2026–present",
+        "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的手动挡版本。厂家尚未公布上市时间。",
+        "verified": "verified",
+        "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
+      },
+      {
+        "id": "model:benda:gypsy-5",
+        "brand": "Benda",
+        "names": {
+          "en": "Gypsy 5",
+          "zh-CN": "吉普赛5",
+          "zh-TW": "吉普賽5",
+          "ja": "ジプシー5"
+        },
+        "segment": "class:disp:600cc",
+        "body_style": "body:bobber",
+        "powertrain": "pt:ice",
+        "status": "concept",
+        "years": "2026–present",
+        "note": "奔达在2026中国摩博会首秀的全新美式巡航系列；499cc平台、Bobber风格并配备空气悬挂，仅提供手动挡。厂家尚未公布上市时间。",
+        "verified": "verified",
+        "source_url": "https://www.bendamotor.cn/ConsultationDetails/8ff3e529b65f11f1814502428b871a41"
+      },
+      {
         "id": "model:benda:huishi-300",
         "brand": "Benda",
         "names": {
@@ -11505,6 +11559,24 @@
         "verified": "verified"
       },
       {
+        "id": "model:honda:cb500-super-four",
+        "brand": "Honda",
+        "names": {
+          "en": "CB500 SUPER FOUR",
+          "zh-CN": "CB500 SUPER FOUR 四缸街车",
+          "zh-TW": "CB500 SUPER FOUR 四缸街車",
+          "ja": "CB500 SUPER FOUR"
+        },
+        "segment": "class:disp:600cc",
+        "body_style": "body:naked",
+        "powertrain": "pt:ice",
+        "status": "current",
+        "years": "2025–present",
+        "note": "2025中国摩博会全球首发，2026年在中国上市；搭载502cc直列四缸发动机及Honda E-Clutch电控离合。",
+        "verified": "verified",
+        "source_url": "https://www.honda.com.cn/news/1397.html"
+      },
+      {
         "id": "model:honda:cb500f",
         "brand": "Honda",
         "names": {
@@ -11809,6 +11881,24 @@
         "years": "2013–present",
         "note": "CBR家族入门仿赛，471cc双缸，骑姿舒适兼顾日常，新手跑车首选",
         "verified": "verified"
+      },
+      {
+        "id": "model:honda:cbr500r-four",
+        "brand": "Honda",
+        "names": {
+          "en": "CBR500R FOUR",
+          "zh-CN": "CBR500R FOUR 四缸仿赛",
+          "zh-TW": "CBR500R FOUR 四缸仿賽",
+          "ja": "CBR500R FOUR"
+        },
+        "segment": "class:disp:600cc",
+        "body_style": "body:sport",
+        "powertrain": "pt:ice",
+        "status": "current",
+        "years": "2025–present",
+        "note": "2025中国摩博会与CB500 SUPER FOUR同步全球首发，2026年在中国上市；采用502cc直列四缸发动机与全整流罩设计。",
+        "verified": "verified",
+        "source_url": "https://www.honda.com.cn/news/1397.html"
       },
       {
         "id": "model:honda:cbr600f",
@@ -29334,8 +29424,9 @@
         "powertrain": "pt:ice",
         "status": "current",
         "years": "2026–present",
-        "note": "张雪机车500cc直列四缸复古街车，填补品牌在四缸复古细分市场的车型空白",
-        "verified": "verified"
+        "note": "2026中国摩博会发布2027款；470cc直列四缸复古街车升级电子油门、散热与座垫，售价30580元。",
+        "verified": "verified",
+        "source_url": "https://www.12365auto.com/motorcycle/20260920/576005.shtml"
       },
       {
         "id": "model:zxmoto:500rr",
@@ -29353,6 +29444,24 @@
         "years": "2025–present",
         "note": "张雪机车470cc直列四缸仿赛，2026款双摇臂版29980元、单摇臂版33680元，标配弯道ABS等电控，是国产四缸仿赛销量冠军车型",
         "verified": "verified"
+      },
+      {
+        "id": "model:zxmoto:600v",
+        "brand": "ZXMOTO",
+        "names": {
+          "en": "600V",
+          "zh-CN": "600V 运动巡航车",
+          "zh-TW": "600V 運動巡航車",
+          "ja": "600V スポーツクルーザー"
+        },
+        "segment": "class:disp:600cc",
+        "body_style": "body:cruiser",
+        "powertrain": "pt:ice",
+        "status": "current",
+        "years": "2026–present",
+        "note": "2026中国摩博会发布的张雪机车首款巡航车；578cc水冷V型双缸，最大功率45kW、峰值扭矩61N·m，售价27980元。",
+        "verified": "verified",
+        "source_url": "https://www.ithome.com/1/004/404.htm"
       },
       {
         "id": "model:zxmoto:820r",
@@ -29406,6 +29515,24 @@
         "verified": "verified"
       },
       {
+        "id": "model:zxmoto:820rr-rc",
+        "brand": "ZXMOTO",
+        "names": {
+          "en": "820RR-RC",
+          "zh-CN": "820RR-RC 赛道版",
+          "zh-TW": "820RR-RC 賽道版",
+          "ja": "820RR-RC サーキット仕様"
+        },
+        "segment": "class:disp:750cc",
+        "body_style": "body:sport",
+        "powertrain": "pt:ice",
+        "status": "current",
+        "years": "2026–present",
+        "note": "2026中国摩博会发布的赛道专用820RR版本，不具备道路行驶资质；采用电子油门、三段可调TCS及钛合金直排系统，售价128000元。",
+        "verified": "verified",
+        "source_url": "https://m.ithome.com/html/1004414.htm"
+      },
+      {
         "id": "model:zxmoto:820rr-rs",
         "brand": "ZXMOTO",
         "names": {
@@ -29418,9 +29545,10 @@
         "body_style": "body:sport",
         "powertrain": "pt:ice",
         "status": "current",
-        "years": "2025–present",
-        "note": "820RR赛事版本，曾代表张雪机车征战WSBK并夺冠，整车国产化率高达87%，是国产赛事仿赛的标杆",
-        "verified": "verified"
+        "years": "2026–present",
+        "note": "2026中国摩博会发布的旗舰公路仿赛版本，818.8cc直列三缸；全国统一指导价138000元，预计2026年12月交付。",
+        "verified": "verified",
+        "source_url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqvrx7690124.shtml"
       },
       {
         "id": "model:zxmoto:820x",
@@ -29436,8 +29564,9 @@
         "powertrain": "pt:ice",
         "status": "current",
         "years": "2026–present",
-        "note": "张雪机车820平台第三款市售车型，中量级探险车，兼顾公路与非铺装路面骑行",
-        "verified": "verified"
+        "note": "2026中国摩博会发布的818.8cc直列三缸ADV，提供突击版与旅行版；兼顾公路与非铺装路面骑行。",
+        "verified": "verified",
+        "source_url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqvrx7690124.shtml"
       },
       {
         "id": "model:zxmoto:mx250",
@@ -31054,6 +31183,18 @@
     ]
   },
   "pending_verification": {
-    "items": []
+    "items": [
+      {
+        "id": "model:benda:p51-concept",
+        "names": {
+          "en": "P51 Concept",
+          "zh-CN": "P51 概念车",
+          "zh-TW": "P51 概念車",
+          "ja": "P51 コンセプト"
+        },
+        "reason": "已确认于2026中国摩博会首秀，但厂家公开材料尚未给出可用于本库分类的量产状态、排量、车身形式和动力系统完整规格；待官方车型页或技术参数发布后再建正式车型条目。",
+        "source_url": "https://www.bendamotor.cn/ConsultationDetails/4b36b38fabf111f1814502428b871a41"
+      }
+    ]
   }
 }

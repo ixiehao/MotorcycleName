@@ -1,3 +1,15 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "model:benda:p51-concept",
+      "names": {
+        "en": "P51 Concept",
+        "zh-CN": "P51 概念车",
+        "zh-TW": "P51 概念車",
+        "ja": "P51 コンセプト"
+      },
+      "reason": "已确认于2026中国摩博会首秀，但厂家公开材料尚未给出可用于本库分类的量产状态、排量、车身形式和动力系统完整规格；待官方车型页或技术参数发布后再建正式车型条目。",
+      "source_url": "https://www.bendamotor.cn/ConsultationDetails/4b36b38fabf111f1814502428b871a41"
+    }
+  ]
 }

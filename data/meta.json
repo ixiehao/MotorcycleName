@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "database_version": "1.1.0",
-  "updated": "2026-08-29",
+  "database_version": "1.1.1",
+  "updated": "2026-10-16",
   "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
   "repository": "https://github.com/ixiehao/motorcycle-name",
   "languages": ["en", "zh-CN", "zh-TW", "ja"],
@@ -11,7 +11,7 @@
     "glossary_categories": 10,
     "glossary_terms": 116,
     "brands": 90,
-    "models": 1585,
+    "models": 1592,
     "cross_market_aliases": 77
   },
   "sources": [

@@ -19,7 +19,7 @@ Motorcycle names are notoriously inconsistent across markets: the same model shi
 | 项目 / Item | 数量 / Count |
 |---|---|
 | 品牌 / Brands | 90（15 个国家与地区 / 15 countries & regions） |
-| 车型 / Models | 1,585 |
+| 车型 / Models | 1,592 |
 | 分类 / Classes | 41（排量、欧盟驾照、日本分类、车身形式、动力类型 / displacement, EU license, JP category, body style, powertrain） |
 | 术语 / Glossary | 116 条（赛事、安全、电控 / racing, safety, electronics） |
 | 跨市场异名 / Cross-market aliases | 77 |
@@ -88,11 +88,14 @@ Visit the [Motorcycle Name Database](https://ixiehao.github.io/motorcycle-name/)
   "status": "current",
   "years": "2000–present",
   "note": "Short description",
-  "verified": "verified"
+  "verified": "verified",
+  "source_url": "https://manufacturer.example/model"
 }
 ```
 
 `segment`、`body_style`、`powertrain` 引用 `data/motorcycle_classes.json` 中定义的 ID。
+
+`source_url` 为新近录入或更新车型的可选核验链接，应优先使用制造商或展会主办方的页面。
 
 `segment`, `body_style`, and `powertrain` reference IDs defined in `data/motorcycle_classes.json`.
 

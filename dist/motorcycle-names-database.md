@@ -1,7 +1,7 @@
 # 多语言摩托车车名资料库(Multilingual Motorcycle Name Database)
 
-> 更新日期: 2026-08-29<br>
-> 数据库版本: v1.1.0<br>
+> 更新日期: 2026-10-16<br>
+> 数据库版本: v1.1.1<br>
 > 许可证: CC BY-SA 4.0
 
 ---
@@ -9,7 +9,7 @@
 ## 0. 覆盖概览
 
 - 品牌: **90**
-- 车型: **1585**
+- 车型: **1592**
 - 级别分类子类: **41**
 - 术语条目: **116**
 - 跨市场异名: **77**
@@ -664,12 +664,15 @@
 | model:bajaj:pulsar-ns200 | Pulsar NS200 | Pulsar NS200 脉冲星 街车 | Pulsar NS200 脈衝星 街車 | パルサー NS200 | class:disp:250cc | body:naked | pt:ice | current | 2012–present | NS系列运动街车，199.5cc单缸水冷，钢管编织车架，同级性价比之王 |
 | model:bajaj:pulsar-rs200 | Pulsar RS200 | Pulsar RS200 脉冲星 仿赛 | Pulsar RS200 脈衝星 仿賽 | パルサー RS200 | class:disp:250cc | body:sport | pt:ice | current | 2015–present | Pulsar系列唯一的全整流罩仿赛，199.5cc单缸水冷25马力，印度入门仿赛代表 |
 
-### 4.Benda (14款)
+### 4.Benda (17款)
 
 | ID | English | 简体中文 | 繁體中文 | 日本語 | 级别 | 车身 | 动力 | 状态 | 生产年份 | 备注 |
 |----|---------|----------|----------|--------|------|------|------|------|----------|------|
 | model:benda:black-flag-250 | Black Flag 250 | 黑旗250 Bobber | 黑旗250 Bobber | ブラックフラッグ250 | class:disp:250cc | body:bobber | pt:ice | current | 2024–present | 奔达黑旗250，外露V型双缸发动机的入门美式Bobber，奔达巡航家族的新成员 |
 | model:benda:black-flag-600 | Black Flag 600 | 黑旗600 巡航车 | 黑旗600 巡航車 | ブラックフラッグ600 | class:disp:600cc | body:cruiser | pt:ice | current | 2026–present | 奔达2026款黑旗600，598.5cc V型四缸水冷巡航，Pro版32800元、Ultra EC版36800元，标配电子离合，Ultra版带空气悬挂 |
+| model:benda:gypsy-3-cvt | Gypsy 3 (CVT) | 吉普赛3 CVT版 | 吉普賽3 CVT版 | ジプシー3（CVT） | class:disp:400cc | body:cruiser | pt:ice | concept | 2026–present | 奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的CVT版本，面向城市通勤使用场景。厂家尚未公布上市时间。 |
+| model:benda:gypsy-3-manual | Gypsy 3 (Manual) | 吉普赛3 手动版 | 吉普賽3 手動版 | ジプシー3（マニュアル） | class:disp:400cc | body:cruiser | pt:ice | concept | 2026–present | 奔达在2026中国摩博会首秀的全新美式巡航系列；368cc平台的手动挡版本。厂家尚未公布上市时间。 |
+| model:benda:gypsy-5 | Gypsy 5 | 吉普赛5 | 吉普賽5 | ジプシー5 | class:disp:600cc | body:bobber | pt:ice | concept | 2026–present | 奔达在2026中国摩博会首秀的全新美式巡航系列；499cc平台、Bobber风格并配备空气悬挂，仅提供手动挡。厂家尚未公布上市时间。 |
 | model:benda:huishi-300 | Rock 300 | 灰石300 巡航车 | 灰石300 巡航車 | ロック300 | class:disp:250cc | body:cruiser | pt:ice | current | 2021–present | 奔达灰石300（Rock 300），V型双缸美式巡航车，在金吉拉300基础上推出，加长轴距更显大气 |
 | model:benda:jinjila-250 | Jinjila 250 | 金吉拉250 巡航车 | 金吉拉250 巡航車 | ジンジーラ250 | class:disp:250cc | body:cruiser | pt:ice | current | 2025–present | 奔达2025款金吉拉250，249cc V型双缸水冷，约25.8匹马力，标配ABS+TCS与滑动离合，售价15999元起，入门V缸巡航热门之选 |
 | model:benda:jinjila-250-cvt | Jinjila 250 CVT | 金吉拉250 CVT自动挡巡航车 | 金吉拉250 CVT 自動擋巡航車 | ジンジーラ250 CVT | class:disp:250cc | body:cruiser | pt:ice | current | 2026–present | 奔达2026款金吉拉250 CVT，249cc V型双缸配自研CVT无级变速，自动挡V缸巡航门槛进一步拉低，售价17980元 |
@@ -1059,7 +1062,7 @@
 | model:hero:xpulse-200 | Xpulse 200 | Xpulse 200 探险两用车 | Xpulse 200 探險兩用車 | エクスパルス200 | class:disp:250cc | body:dual-sport | pt:ice | current | 2019–present | Hero首款探险两用摩托车，199.6cc单缸油冷，21/18寸辐条轮，印度入门ADV首选 |
 | model:hero:xtreme-160r | Xtreme 160R | Xtreme 160R 运动街车 | Xtreme 160R 運動街車 | エクストリーム160R | class:disp:250cc | body:naked | pt:ice | current | 2020–present | Hero入门运动街车，163cc单缸风冷，激进外观配轻量化车架，主打年轻市场 |
 
-### 4.Honda (123款)
+### 4.Honda (125款)
 
 | ID | English | 简体中文 | 繁體中文 | 日本語 | 级别 | 车身 | 动力 | 状态 | 生产年份 | 备注 |
 |----|---------|----------|----------|--------|------|------|------|------|----------|------|
@@ -1082,6 +1085,7 @@
 | model:honda:cb400ss | CB400SS | CB400SS 单缸复古街车 | CB400SS 單缸復古街車 | CB400SS | class:disp:400cc | body:naked | pt:ice | discontinued | 2000–2008 | 397cc风冷单缸复古街车，简约设计+电启动，日本驾校常备车型，单缸爱好者经典之选 |
 | model:honda:cb450 | CB450 | CB450 黑色轰炸机 双缸街车 | CB450 黑色轟炸機 雙缸街車 | CB450ブラックボンバー | class:disp:400cc | body:naked | pt:ice | discontinued | 1965–1974 | 世界首款DOHC双缸摩托车，绰号黑色轰炸机，1960年代日系性能代表 |
 | model:honda:cb500-four | CB500 Four | CB500 Four 四缸街车 | CB500 Four 四缸街車 | CB500フォア | class:disp:600cc | body:naked | pt:ice | discontinued | 1971–1978 | 498cc四缸街车，CB750 Four的小排量普及版，1970年代四缸浪潮成员 |
+| model:honda:cb500-super-four | CB500 SUPER FOUR | CB500 SUPER FOUR 四缸街车 | CB500 SUPER FOUR 四缸街車 | CB500 SUPER FOUR | class:disp:600cc | body:naked | pt:ice | current | 2025–present | 2025中国摩博会全球首发，2026年在中国上市；搭载502cc直列四缸发动机及Honda E-Clutch电控离合。 |
 | model:honda:cb500f | CB500F | CB500F 中量级街车 | CB500F 中量級街車 | CB500F | class:disp:600cc | body:naked | pt:ice | current | 2013–present | 471cc并列双缸中量级街车，500平台销量主力，亲民好骑适合新手进阶 |
 | model:honda:cb500x | CB500X | CB500X 探险车 | CB500X 探險車 | CB500X | class:disp:600cc | body:adventure | pt:ice | current | 2013–present | CB500同平台ADV，长行程悬挂，2024年升级为NX500，入门探险性价比之选 |
 | model:honda:cb550-four | CB550 Four | CB550 Four 四缸街车 | CB550 Four 四缸街車 | CB550フォア | class:disp:600cc | body:naked | pt:ice | discontinued | 1974–1977 | 544cc四缸街车，CB500 Four的扩缸后继，1970年代UJM风格代表 |
@@ -1100,6 +1104,7 @@
 | model:honda:cbr250rr | CBR250RR | CBR250RR 双缸仿赛 | CBR250RR 雙缸仿賽 | CBR250RR | class:disp:250cc | body:sport | pt:ice | current | 2016–present | 250cc并列双缸仿赛，日本/东南亚市场专属，高转速性能取向 |
 | model:honda:cbr400rr | CBR400RR | CBR400RR 仿赛（已停产） | CBR400RR 仿賽（已停產） | CBR400RR | class:disp:400cc | body:sport | pt:ice | discontinued | 1986–1994 | Fireblade小弟，经典四缸400cc仿赛，日本泡沫经济时期名车 |
 | model:honda:cbr500r | CBR500R | CBR500R 跑车 | CBR500R 跑車 | CBR500R | class:disp:600cc | body:sport | pt:ice | current | 2013–present | CBR家族入门仿赛，471cc双缸，骑姿舒适兼顾日常，新手跑车首选 |
+| model:honda:cbr500r-four | CBR500R FOUR | CBR500R FOUR 四缸仿赛 | CBR500R FOUR 四缸仿賽 | CBR500R FOUR | class:disp:600cc | body:sport | pt:ice | current | 2025–present | 2025中国摩博会与CB500 SUPER FOUR同步全球首发，2026年在中国上市；采用502cc直列四缸发动机与全整流罩设计。 |
 | model:honda:cbr600f | CBR600F | CBR600F 中量级仿赛 | CBR600F 中量級仿賽 | CBR600F | class:disp:600cc | body:sport | pt:ice | discontinued | 1987–2006 | 600cc四缸仿赛常青树，美版称Hurricane，F系列历经四代成为中量级标杆 |
 | model:honda:cbr600rr | CBR600RR | CBR600RR 中量级仿赛 | CBR600RR 中量級仿賽 | CBR600RR | class:disp:600cc | body:sport | pt:ice | current | 2003–present | 中量级四缸仿赛标杆，WorldSSP赛事常胜军，赛道取向强烈 |
 | model:honda:cbr650r | CBR650R | CBR650R 跑车 | CBR650R 跑車 | CBR650R | class:disp:600cc | body:sport | pt:ice | current | 2019–present | CB650R同平台跑车版，全整流罩，兼顾日常与赛道性能 |
@@ -2370,18 +2375,20 @@
 | model:yingang:xunluozhe-150 | Xunluozhe 150 | 巡逻者150 边三轮 | 巡邏者150 邊三輪 | シュンロージャ150 | class:disp:250cc | body:trike | pt:ice | current | 2018–present | 银钢巡逻者150，150cc边三轮中资历较老的车型，通勤与休闲兼顾 |
 | model:yingang:yingang-500 | Yingang 500 | 银钢500 边三轮 | 銀鋼500 邊三輪 | インガン500 | class:disp:600cc | body:trike | pt:ice | current | 2021–present | 银钢500，国产首款ADV风格大排量边三轮，填补国产大排量挎子市场空白 |
 
-### 4.ZXMOTO (10款)
+### 4.ZXMOTO (12款)
 
 | ID | English | 简体中文 | 繁體中文 | 日本語 | 级别 | 车身 | 动力 | 状态 | 生产年份 | 备注 |
 |----|---------|----------|----------|--------|------|------|------|------|----------|------|
 | model:zxmoto:450rally | 450Rally | 450Rally 拉力车 | 450Rally 拉力車 | 450Rally | class:disp:600cc | body:adventure | pt:ice | current | 2026–present | 张雪机车2026年7月上市的450cc硬派拉力车，用于试水拉力市场，为后续ADV车型布局铺路 |
-| model:zxmoto:500f | 500F | 500F 四缸复古车 | 500F 四缸復古車 | 500F | class:disp:600cc | body:naked | pt:ice | current | 2026–present | 张雪机车500cc直列四缸复古街车，填补品牌在四缸复古细分市场的车型空白 |
+| model:zxmoto:500f | 500F | 500F 四缸复古车 | 500F 四缸復古車 | 500F | class:disp:600cc | body:naked | pt:ice | current | 2026–present | 2026中国摩博会发布2027款；470cc直列四缸复古街车升级电子油门、散热与座垫，售价30580元。 |
 | model:zxmoto:500rr | 500RR 2026 | 500RR 四缸仿赛（2026款） | 500RR 四缸仿賽（2026款） | 500RR 2026 | class:disp:600cc | body:sport | pt:ice | current | 2025–present | 张雪机车470cc直列四缸仿赛，2026款双摇臂版29980元、单摇臂版33680元，标配弯道ABS等电控，是国产四缸仿赛销量冠军车型 |
+| model:zxmoto:600v | 600V | 600V 运动巡航车 | 600V 運動巡航車 | 600V スポーツクルーザー | class:disp:600cc | body:cruiser | pt:ice | current | 2026–present | 2026中国摩博会发布的张雪机车首款巡航车；578cc水冷V型双缸，最大功率45kW、峰值扭矩61N·m，售价27980元。 |
 | model:zxmoto:820r | 820R | 820R 运动街车 | 820R 運動街車 | 820R | class:disp:750cc | body:naked | pt:ice | current | 2026–present | 张雪机车820平台运动街车，与820RR-R同平台，整备质量仅188kg，轻量化表现突出 |
 | model:zxmoto:820rr | 820RR | 820RR 仿赛 | 820RR 仿賽 | 820RR | class:disp:750cc | body:sport | pt:ice | current | 2026–present | 张雪机车首款量产仿赛，820cc三缸水冷，轻量化设计，2026年3月正式上市，被誉为国产最强三缸仿赛 |
 | model:zxmoto:820rr-r | 820RR-R | 820RR-R 高性能仿赛 | 820RR-R 高性能仿賽 | 820RR-R | class:disp:750cc | body:sport | pt:ice | current | 2026–present | 820RR的高配版仿赛，赛道化配置升级，与820R街车同时发布，定价4万级别 |
-| model:zxmoto:820rr-rs | 820RR-RS | 820RR-RS 赛事版 | 820RR-RS 賽事版 | 820RR-RS | class:disp:750cc | body:sport | pt:ice | current | 2025–present | 820RR赛事版本，曾代表张雪机车征战WSBK并夺冠，整车国产化率高达87%，是国产赛事仿赛的标杆 |
-| model:zxmoto:820x | 820X | 820X 探险车 | 820X 探險車 | 820X | class:disp:750cc | body:adventure | pt:ice | current | 2026–present | 张雪机车820平台第三款市售车型，中量级探险车，兼顾公路与非铺装路面骑行 |
+| model:zxmoto:820rr-rc | 820RR-RC | 820RR-RC 赛道版 | 820RR-RC 賽道版 | 820RR-RC サーキット仕様 | class:disp:750cc | body:sport | pt:ice | current | 2026–present | 2026中国摩博会发布的赛道专用820RR版本，不具备道路行驶资质；采用电子油门、三段可调TCS及钛合金直排系统，售价128000元。 |
+| model:zxmoto:820rr-rs | 820RR-RS | 820RR-RS 赛事版 | 820RR-RS 賽事版 | 820RR-RS | class:disp:750cc | body:sport | pt:ice | current | 2026–present | 2026中国摩博会发布的旗舰公路仿赛版本，818.8cc直列三缸；全国统一指导价138000元，预计2026年12月交付。 |
+| model:zxmoto:820x | 820X | 820X 探险车 | 820X 探險車 | 820X | class:disp:750cc | body:adventure | pt:ice | current | 2026–present | 2026中国摩博会发布的818.8cc直列三缸ADV，提供突击版与旅行版；兼顾公路与非铺装路面骑行。 |
 | model:zxmoto:mx250 | MX250 | MX250 场地越野车 | MX250 場地越野車 | MX250 | class:disp:250cc | body:motocross | pt:ice | current | 2026–present | 张雪机车首款场地越野摩托，2026年4月30日发布，干重仅102kg，最大功率30kW，KYB全可调减震，纯场地竞技车型不可上牌 |
 | model:zxmoto:mx450 | MX450 | MX450 场地越野车 | MX450 場地越野車 | MX450 | class:disp:600cc | body:motocross | pt:ice | current | 2026–present | 张雪机车450cc水冷场地越野车，2026年4月与MX250同期上市，为可上牌版本 |
 

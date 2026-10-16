@@ -203,6 +203,11 @@ def main():
             missing = missing_languages(names)
             if missing:
                 errors.append(f"车型 {mid} 缺少语言键 {missing} (@ {src})")
+        source_url = m.get("source_url")
+        if source_url is not None and (
+            not isinstance(source_url, str) or not re.fullmatch(r"https?://[^\s]+", source_url)
+        ):
+            errors.append(f"车型 {mid} source_url 必须是 HTTP(S) URL (@ {src})")
         # segment / body_style / powertrain 引用
         for ref in ("segment", "body_style", "powertrain"):
             v = m.get(ref)

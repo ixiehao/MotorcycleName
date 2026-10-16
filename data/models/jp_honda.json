@@ -2090,6 +2090,42 @@
       "years": "2000–2008",
       "note": "223cc风冷单缸复古街车，FTR250的后继车型，Flat Track风格设计，日本本土人气单缸",
       "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb500-super-four",
+      "brand": "Honda",
+      "names": {
+        "en": "CB500 SUPER FOUR",
+        "zh-CN": "CB500 SUPER FOUR 四缸街车",
+        "zh-TW": "CB500 SUPER FOUR 四缸街車",
+        "ja": "CB500 SUPER FOUR"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025中国摩博会全球首发，2026年在中国上市；搭载502cc直列四缸发动机及Honda E-Clutch电控离合。",
+      "verified": "verified",
+      "source_url": "https://www.honda.com.cn/news/1397.html"
+    },
+    {
+      "id": "model:honda:cbr500r-four",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR500R FOUR",
+        "zh-CN": "CBR500R FOUR 四缸仿赛",
+        "zh-TW": "CBR500R FOUR 四缸仿賽",
+        "ja": "CBR500R FOUR"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025中国摩博会与CB500 SUPER FOUR同步全球首发，2026年在中国上市；采用502cc直列四缸发动机与全整流罩设计。",
+      "verified": "verified",
+      "source_url": "https://www.honda.com.cn/news/1397.html"
     }
   ]
 }

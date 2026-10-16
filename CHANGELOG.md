@@ -4,6 +4,12 @@
 
 The format follows [Keep a Changelog](https://keepachangelog.com/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.1] — 2026-10-16
+
+补充 2025、2026 中国摩博会已确认的新车：Honda CB500 SUPER FOUR、CBR500R FOUR，奔达吉普赛系列，以及张雪机车 600V 和 820RR-RC；同时修订张雪机车本届已发布车型的信息。P51 Concept 因公开规格尚不完整，列入待核验清单。新增/更新车型现可带 `source_url`，校验脚本会检查其为有效 HTTP(S) 地址。
+
+Added verified 2025–2026 China International Motorcycle Trade Exhibition entries: Honda CB500 SUPER FOUR and CBR500R FOUR, Benda's Gypsy series, plus ZXMOTO's 600V and 820RR-RC; updated the exhibition information for already listed ZXMOTO models. P51 Concept is tracked as pending until complete public specifications are available. New or updated models can now carry a `source_url`, which validation checks as an HTTP(S) URL.
+
 ## [1.1.0] — 2026-08-29
 
 跨市场异名条目现已具备英语、简体中文、繁体中文和日语主名，并由校验脚本强制检查；合并 Markdown 产物同步展示四种语言。
