@@ -137,7 +137,7 @@
 
       .directory { overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); box-shadow: var(--shadow); }
       table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-      th { padding: .83rem 1rem; color: #536179; background: #f8fafc; border-bottom: 1px solid var(--line); font-size: .66rem; font-weight: 850; letter-spacing: .08em; text-align: left; white-space: nowrap; }
+      th { padding: .83rem 1rem; color: #536179; background: #f8fafc; border-bottom: 1px solid var(--line); font-size: .66rem; font-weight: 850; letter-spacing: .08em; text-align: left; white-space: normal; }
       td { padding: 1rem; border-bottom: 1px solid var(--line); vertical-align: top; font-size: .9rem; line-height: 1.48; overflow-wrap: anywhere; }
       tbody tr:last-child td { border-bottom: 0; }
       tbody tr { transition: background .14s ease; }
@@ -165,8 +165,6 @@
         .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         .filters { grid-template-columns: 1fr 1fr; }
         .reset { width: 100%; }
-        .directory { overflow-x: auto; box-shadow: var(--shadow), inset -18px 0 16px -20px rgba(22,35,61,.8); }
-        table { min-width: 1040px; }
       }
       @media (max-width: 620px) {
         .wrap { width: min(100% - 1.25rem, 1440px); }
@@ -189,7 +187,6 @@
         .filters { grid-template-columns: 1fr; gap: .72rem; padding: .82rem; }
         .language-key { justify-content: flex-start; margin-top: .7rem; }
         .summary { margin-top: 1.3rem; }
-        table { min-width: 970px; }
         td { padding: .9rem; }
       }
     </style>
@@ -327,6 +324,15 @@
         }
 
         function resetPage() { page = 1; render(); }
+        async function requestJson(source) {
+          const controller = new AbortController();
+          const timeout = window.setTimeout(() => controller.abort(), 8000);
+          try {
+            const response = await fetch(source, { cache: "no-cache", signal: controller.signal });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            return await response.json();
+          } finally { window.clearTimeout(timeout); }
+        }
         function updateStats(data) {
           const coverage = data.meta?.coverage || {};
           document.querySelector("#brand-count").textContent = (coverage.brands ?? data.brands?.length ?? 0).toLocaleString();
@@ -339,9 +345,7 @@
           let error;
           for (const source of sources) {
             try {
-              const response = await fetch(source, { cache: "no-cache" });
-              if (!response.ok) throw new Error(`HTTP ${response.status}`);
-              const data = await response.json();
+              const data = await requestJson(source);
               models = data.models?.list || [];
               if (!models.length) throw new Error("empty database");
               const brands = [...new Set(models.map((model) => model.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b));
@@ -352,8 +356,9 @@
               return;
             } catch (caught) { error = caught; }
           }
-          rows.innerHTML = '<tr><td class="empty" colspan="6"><strong>数据暂时不可用</strong>请检查网络连接后重新加载页面。</td></tr>';
+          rows.innerHTML = '<tr><td class="empty" colspan="6"><strong>数据暂时不可用</strong>请检查网络连接后 <button class="page-button" type="button" id="retry">重试</button>。</td></tr>';
           summary.textContent = error ? `Unable to load data: ${error.message}` : "Unable to load data";
+          document.querySelector("#retry")?.addEventListener("click", load, { once: true });
         }
 
         query.addEventListener("input", resetPage);
