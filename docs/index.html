@@ -266,6 +266,7 @@
 
     <script>
       (() => {
+        const previewSource = "./data/motorcycle-names-preview.json";
         const sources = [
           "./data/motorcycle-names-database.json",
           "https://raw.githubusercontent.com/ixiehao/motorcycle-name/main/dist/motorcycle-names-database.json",
@@ -285,6 +286,9 @@
         const pageLabel = document.querySelector("#page-label");
         const footer = document.querySelector("#footer");
         let models = [];
+        let totalModels = 0;
+        let previewActive = false;
+        let fullLoaded = false;
         let page = 1;
 
         const esc = (value) => String(value || "—").replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
@@ -307,7 +311,10 @@
           page = Math.min(page, pages);
           const first = (page - 1) * pageSize;
           const shown = list.slice(first, first + pageSize);
-          summary.innerHTML = `显示 <strong>${list.length.toLocaleString()}</strong> 款车型${list.length !== models.length ? "（符合当前筛选）" : ""} · 共 ${models.length.toLocaleString()} 款`;
+          const countLabel = previewActive
+            ? `先显示 <strong>${list.length.toLocaleString()}</strong> 款预览车型${list.length !== models.length ? "（符合当前筛选）" : ""} · 正在后台加载其余 ${Math.max(0, totalModels - models.length).toLocaleString()} 款…`
+            : `显示 <strong>${list.length.toLocaleString()}</strong> 款车型${list.length !== models.length ? "（符合当前筛选）" : ""} · 共 ${models.length.toLocaleString()} 款`;
+          summary.innerHTML = countLabel;
           pagination.hidden = list.length <= pageSize;
           pageLabel.textContent = `Page ${page} / ${pages}`;
           previous.disabled = page === 1;
@@ -324,9 +331,9 @@
         }
 
         function resetPage() { page = 1; render(); }
-        async function requestJson(source) {
+        async function requestJson(source, timeoutMs = 8000) {
           const controller = new AbortController();
-          const timeout = window.setTimeout(() => controller.abort(), 8000);
+          const timeout = window.setTimeout(() => controller.abort(), timeoutMs);
           try {
             const response = await fetch(source, { cache: "no-cache", signal: controller.signal });
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -341,24 +348,54 @@
           document.querySelector("#alias-count").textContent = (coverage.cross_market_aliases ?? data.models?.cross_market?.length ?? 0).toLocaleString();
         }
 
-        async function load() {
+        function applyData(data, isPreview) {
+          const nextModels = data.models?.list || [];
+          if (!nextModels.length) throw new Error("empty database");
+          const selectedBrand = brand.value;
+          const firstOption = brand.querySelector('option[value=""]')?.outerHTML || '<option value="">全部品牌</option>';
+          const brands = [...new Set(nextModels.map((model) => model.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+          models = nextModels;
+          totalModels = data.preview?.total_models || data.meta?.coverage?.models || nextModels.length;
+          previewActive = isPreview;
+          brand.innerHTML = firstOption + brands.map((item) => `<option value="${esc(item)}">${esc(item)}</option>`).join("");
+          if (brands.includes(selectedBrand)) brand.value = selectedBrand;
+          updateStats(data);
+          footer.textContent = `Data v${data.meta?.database_version || "—"} · Updated ${data.meta?.updated || "—"} · Names are for study, translation, and retrieval; confirm formal naming with the manufacturer.`;
+          render();
+        }
+
+        function showUnavailable(error) {
+          rows.innerHTML = '<tr><td class="empty" colspan="6"><strong>数据暂时不可用</strong>请检查网络连接后 <button class="page-button" type="button" id="retry">重试</button>。</td></tr>';
+          summary.textContent = error ? `Unable to load data: ${error.message}` : "Unable to load data";
+          document.querySelector("#retry")?.addEventListener("click", load, { once: true });
+        }
+
+        async function loadFull() {
           let error;
           for (const source of sources) {
             try {
               const data = await requestJson(source);
-              models = data.models?.list || [];
-              if (!models.length) throw new Error("empty database");
-              const brands = [...new Set(models.map((model) => model.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b));
-              brand.insertAdjacentHTML("beforeend", brands.map((item) => `<option value="${esc(item)}">${esc(item)}</option>`).join(""));
-              updateStats(data);
-              footer.textContent = `Data v${data.meta?.database_version || "—"} · Updated ${data.meta?.updated || "—"} · Names are for study, translation, and retrieval; confirm formal naming with the manufacturer.`;
-              render();
+              applyData(data, false);
+              fullLoaded = true;
               return;
             } catch (caught) { error = caught; }
           }
-          rows.innerHTML = '<tr><td class="empty" colspan="6"><strong>数据暂时不可用</strong>请检查网络连接后 <button class="page-button" type="button" id="retry">重试</button>。</td></tr>';
-          summary.textContent = error ? `Unable to load data: ${error.message}` : "Unable to load data";
-          document.querySelector("#retry")?.addEventListener("click", load, { once: true });
+          if (models.length) {
+            summary.innerHTML = `先显示 <strong>${filtered().length.toLocaleString()}</strong> 款预览车型 · 完整数据暂未加载。<button class="page-button" type="button" id="retry">重试</button>`;
+            document.querySelector("#retry")?.addEventListener("click", loadFull, { once: true });
+            return;
+          }
+          showUnavailable(error);
+        }
+
+        async function load() {
+          void loadFull();
+          try {
+            const preview = await requestJson(previewSource, 3500);
+            if (!fullLoaded) applyData(preview, true);
+          } catch (_) {
+            // The complete-database sources below remain available when the preview is missing.
+          }
         }
 
         query.addEventListener("input", resetPage);
