@@ -30,10 +30,15 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site/data
+          cp -R docs/. _site/
+          cp dist/motorcycle-names-database.json _site/data/motorcycle-names-database.json
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: docs
+          path: _site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
