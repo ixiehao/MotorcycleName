@@ -1,4 +1,4 @@
-# 多语言摩托车车名资料库 / Multilingual Motorcycle Name Database
+# MotorcycleName — 多语言摩托车车名资料库 / Multilingual Motorcycle Name Database
 
 一个经过整理的全球摩托车品牌、车型、术语与分类的多语言参考资料库，面向人类与 AI。每个条目均提供**英语、简体中文、繁体中文、日语**四种语言。
 
@@ -46,6 +46,8 @@ scripts/
   validate.py               数据完整性校验 / Integrity checks
   build.py                  合并 data/ 生成 dist/ / Merges data/ into dist/
 dist/                       构建产物 / Generated outputs (JSON + Markdown)
+website/                    官网源码 / Website source
+docs/                       开发与官网维护 / Development and website guides
 LICENSE                     CC BY-SA 4.0
 ```
 
@@ -115,3 +117,9 @@ Visit the [Motorcycle Name Database](https://ixiehao.github.io/MotorcycleName/) 
 ## 免责声明 / Disclaimer
 
 参见 / See [DISCLAIMER.md](DISCLAIMER.md).
+
+## 开发与维护文档 / Maintainer documentation
+
+[文档索引 / Index](docs/README.md) · [开发与验证 / Development](docs/DEVELOPMENT.md) · [官网维护 / Website](docs/WEBSITE.md)。
+
+官网源码统一位于 `website/`；`docs/` 仅保存维护文档，权威数据目录保持原有结构。

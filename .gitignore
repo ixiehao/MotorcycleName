@@ -11,3 +11,6 @@ __pycache__/
 
 # Local overrides
 *.local.json
+
+# Local website preview artifact
+_site/
