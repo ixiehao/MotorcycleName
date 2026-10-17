@@ -66,9 +66,9 @@ python3 scripts/build.py
 
 ## 在线目录 / Online directory
 
-访问 [Motorcycle Name Database](https://ixiehao.github.io/motorcycle-name/) 可检索四语车型名称，并按品牌和状态筛选。页面从本仓库生成的 `dist/` 数据自动加载。
+访问 [Motorcycle Name Database](https://ixiehao.github.io/MotorcycleName/) 可检索四语车型名称，并按品牌和状态筛选。页面从本仓库生成的 `dist/` 数据自动加载。
 
-Visit the [Motorcycle Name Database](https://ixiehao.github.io/motorcycle-name/) to search model names in four languages and filter by brand or status. The page loads the generated `dist/` data from this repository.
+Visit the [Motorcycle Name Database](https://ixiehao.github.io/MotorcycleName/) to search model names in four languages and filter by brand or status. The page loads the generated `dist/` data from this repository.
 
 ## 车型条目格式 / Model Entry Format
 

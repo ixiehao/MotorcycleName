@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ixiehao.github.io/motorcycle-name/sitemap.xml
+Sitemap: https://ixiehao.github.io/MotorcycleName/sitemap.xml
