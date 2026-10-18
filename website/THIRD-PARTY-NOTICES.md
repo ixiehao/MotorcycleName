@@ -2,7 +2,7 @@
 
 ## Tabler Icons Outline
 
-`tabler-icons.svg` contains unmodified icon paths from [Tabler Icons Outline v3.49.0](https://github.com/tabler/tabler-icons/tree/v3.49.0), licensed under the MIT License.
+`tabler-icons.svg` and `favicon.svg` contain icon paths from [Tabler Icons Outline v3.49.0](https://github.com/tabler/tabler-icons/tree/v3.49.0), licensed under the MIT License. Sprite paths are reused unchanged; the favicon uses the same outline path with project colors.
 
 Copyright (c) 2020-2026 Paweł Kuna
 

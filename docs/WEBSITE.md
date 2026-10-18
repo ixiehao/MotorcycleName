@@ -29,11 +29,12 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory _site
 ## 验证
 
 ```sh
+node --check website/app.js
 node --check website/promotion.js
 git diff --check
 ```
 
-检查英语、简体中文、繁体中文、日语，品牌筛选、搜索、状态、清空条件和窄屏。确认预览 JSON 与完整 JSON 均返回成功，并抽查实际数据。站内脚本有内联部分，需同时检查页面浏览器控制台。
+检查英语、简体中文、繁体中文、日语，品牌筛选、搜索、状态、清空条件和窄屏。确认预览 JSON 与完整 JSON 均返回成功，并抽查实际数据；检查页面控制台无错误。
 
 ## 发布
 
