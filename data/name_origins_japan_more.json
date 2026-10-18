@@ -1,0 +1,43 @@
+{
+  "models": [
+    {
+      "id": "model:honda:cb750-hornet",
+      "summary": {
+        "en": "Hornet refers to the wasp; Honda describes the original model’s body styling as inspired by the insect.",
+        "zh-CN": "“Hornet”意为黄蜂；本田称初代车型的车身线条取意于这种昆虫。",
+        "zh-TW": "「Hornet」意為黃蜂；本田稱初代車型的車身線條取意於這種昆蟲。",
+        "ja": "「Hornet（スズメバチ）」の名は、初代モデルのボディラインが飛ぶ昆虫を思わせることに由来。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "ホーネット600 HORNET 600",
+      "source_url": "https://global.honda/content/dam/site/global-jp/news-new/cq_img/1997/10/2971000b.pdf"
+    },
+    {
+      "id": "model:honda:cb1000-hornet-2025",
+      "summary": {
+        "en": "Hornet refers to the wasp; Honda describes the original model’s body styling as inspired by the insect.",
+        "zh-CN": "“Hornet”意为黄蜂；本田称初代车型的车身线条取意于这种昆虫。",
+        "zh-TW": "「Hornet」意為黃蜂；本田稱初代車型的車身線條取意於這種昆蟲。",
+        "ja": "「Hornet（スズメバチ）」の名は、初代モデルのボディラインが飛ぶ昆虫を思わせることに由来。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "ホーネット600 HORNET 600",
+      "source_url": "https://global.honda/content/dam/site/global-jp/news-new/cq_img/1997/10/2971000b.pdf"
+    },
+    {
+      "id": "model:yamaha:vino",
+      "summary": {
+        "en": "Italian for “wine”; Yamaha says the name expresses a bright, glamorous, refined Latin feel.",
+        "zh-CN": "意大利语意为“葡萄酒”；雅马哈表示此名意在传达明快、华丽、优雅的拉丁气息。",
+        "zh-TW": "意大利語意為「葡萄酒」；山葉表示此名意在傳達明快、華麗、優雅的拉丁氣息。",
+        "ja": "イタリア語で「ワイン」。ヤマハは、ラテンの明るさ・華やかさ・上品さを表現したと説明。"
+      },
+      "source_language": "ja",
+      "canonical_name_column": "en",
+      "source_title": "レトロ感覚と優れた実用機能を調和させた50ccスクーター ヤマハスクーター『Vino』（ビーノ）新発売",
+      "source_url": "https://global.yamaha-motor.com/jp/news/1997/0220/vino.html"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "models": [
+    {
+      "id": "model:suzuki:avenis-125",
+      "summary": {
+        "en": "A blend of “avenue” and “street,” for a scooter that moves freely around the city.",
+        "zh-CN": "由 Avenue（大道）与 Street（街道）组合，寓意自在穿行城市。",
+        "zh-TW": "由 Avenue（大道）與 Street（街道）組合，寓意自在穿行城市。",
+        "ja": "AVENUE（大通り）とSTREET（街路）を組み合わせ、街を自在に移動するイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:address",
+      "summary": {
+        "en": "For the Address name only: a blend of “add” and “dress,” evoking room for clothes and personal style.",
+        "zh-CN": "此合并记录仅解释 Address：由 add + dress 组合，寓意收纳衣物、随处展现风格。",
+        "zh-TW": "此合併記錄僅解釋 Address：由 add + dress 組合，寓意收納衣物、隨處展現風格。",
+        "ja": "この統合レコードではAddressのみを説明。add＋dressの造語で、衣類を収納し装うイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:inazuma",
+      "summary": {
+        "en": "Japanese for “lightning,” evoking power and presence.",
+        "zh-CN": "日语意为“闪电”，取其力量感与气势。",
+        "zh-TW": "日語意為「閃電」，取其力量感與氣勢。",
+        "ja": "「稲妻」の意味。力強さと迫力をイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:vs750-intruder",
+      "summary": {
+        "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+        "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+        "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+        "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:vs800-intruder",
+      "summary": {
+        "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+        "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+        "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+        "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:vs1400-intruder",
+      "summary": {
+        "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+        "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+        "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+        "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:boulevard-intruder",
+      "summary": {
+        "en": "This combined record covers both names: Intruder (“one who enters”) and Boulevard (“main street”).",
+        "zh-CN": "此合并记录含两个名称：Intruder 意为“闯入者”；Boulevard 意为“大道”。",
+        "zh-TW": "此合併記錄含兩個名稱：Intruder 意為「闖入者」；Boulevard 意為「大道」。",
+        "ja": "この統合レコードには2名称を記載。Intruderは「侵入者」、Boulevardは「大通り」の意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:m109r-boulevard",
+      "summary": {
+        "en": "“Boulevard” means a broad avenue, matching the urban image of this cruiser.",
+        "zh-CN": "Boulevard 意为“大道”，呼应这类车型的都会气质。",
+        "zh-TW": "Boulevard 意為「大道」，呼應此類車型的都會氣質。",
+        "ja": "「大通り」の意味。都会的で新しいコンセプトのクルーザーに合う名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gsx400-impulse",
+      "summary": {
+        "en": "“Impulse” means a sudden impact; the original model stood out with then-unusual equipment.",
+        "zh-CN": "Impulse 意为“冲击”，呼应初代车型当时少见的设计。",
+        "zh-TW": "Impulse 意為「衝擊」，呼應初代車型當時少見的設計。",
+        "ja": "「衝撃」の意味。当時珍しい集合マフラーやセパレートハンドルを備えた初代を表す。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:katana",
+      "summary": {
+        "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+        "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+        "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+        "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gsx1100-katana",
+      "summary": {
+        "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+        "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+        "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+        "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gsx250s-katana",
+      "summary": {
+        "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+        "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+        "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+        "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gsx600f-katana",
+      "summary": {
+        "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+        "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+        "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+        "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gsx750f-katana",
+      "summary": {
+        "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+        "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+        "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+        "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:wolf-125-200",
+      "summary": {
+        "en": "“Wolf” evokes strength and speed.",
+        "zh-CN": "Wolf 意为“狼”，取其力量与速度感。",
+        "zh-TW": "Wolf 意為「狼」，取其力量與速度感。",
+        "ja": "Wolfは「オオカミ」。力強さとスピードをイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:colleda-co",
+      "summary": {
+        "en": "“Colleda” is a coined form of the Japanese phrase “kore da” — “this is the one.”",
+        "zh-CN": "Colleda 是日语“これだ”（就是这个）的造词写法。",
+        "zh-TW": "Colleda 是日語「これだ」（就是這個）的造詞寫法。",
+        "ja": "初代コレダは「これだ」という意味を込めて命名。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:colleda-st",
+      "summary": {
+        "en": "“Colleda” is a coined form of the Japanese phrase “kore da” — “this is the one.”",
+        "zh-CN": "Colleda 是日语“これだ”（就是这个）的造词写法。",
+        "zh-TW": "Colleda 是日語「これだ」（就是這個）的造詞寫法。",
+        "ja": "初代コレダは「これだ」という意味を込めて命名。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:ls650-savage",
+      "summary": {
+        "en": "“Savage” means fierce or wild, evoking the vitality of a wild animal.",
+        "zh-CN": "Savage 意为“凶猛、野性”，取意于野兽般的生命力。",
+        "zh-TW": "Savage 意為「兇猛、野性」，取意於野獸般的生命力。",
+        "ja": "「獰猛な」という意味。野生の獣のような生命感をイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:gixxer-sf",
+      "summary": {
+        "en": "“Gixxer” grew from an overseas nickname for Suzuki’s GSX sport bikes.",
+        "zh-CN": "GIXXER 源自海外对铃木 GSX 大型运动摩托的称呼，后成为广泛使用的昵称。",
+        "zh-TW": "GIXXER 源自海外對鈴木 GSX 大型運動摩托的稱呼，後成為廣泛使用的暱稱。",
+        "ja": "海外でGSXを「ジクサー」と呼ぶ愛称から。そのDNAを受け継ぐ名前。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:djebel-250",
+      "summary": {
+        "en": "Djebel means a mountain range, small mountain, or hill; its root is Arabic “jabal.”",
+        "zh-CN": "Djebel 指山脉、小山或丘，词源为阿拉伯语 Jabal。",
+        "zh-TW": "Djebel 指山脈、小山或丘，詞源為阿拉伯語 Jabal。",
+        "ja": "主に北アフリカで「山脈・小山・丘」の意味。語源はアラビア語JABAL。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:choinori",
+      "summary": {
+        "en": "From the Japanese “choi-nori,” meaning a casual, short ride nearby.",
+        "zh-CN": "来自日语“ちょい乗り”，意为轻松骑一小段路。",
+        "zh-TW": "來自日語「ちょい乗り」，意為輕鬆騎一小段路。",
+        "ja": "近距離を気軽に移動する「ちょい乗り」から。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:burgman",
+      "summary": {
+        "en": "“Burgman” suggests an urban man, matching a stylish city scooter.",
+        "zh-CN": "意为“都市中的男人”，呼应适合城市使用的时尚踏板车。",
+        "zh-TW": "意為「都市中的男人」，呼應適合城市使用的時尚速克達。",
+        "ja": "「都会の男」の意味。街で使うスタイリッシュなスクーターをイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:hayabusa-gsx1300r",
+      "summary": {
+        "en": "“Hayabusa” is the peregrine falcon, whose effortless high speed fit Suzuki’s “Ultimate Sport” concept.",
+        "zh-CN": "Hayabusa 即“隼”；其轻松高速飞行的特性契合铃木的 Ultimate Sport 概念。",
+        "zh-TW": "Hayabusa 即「隼」；其輕鬆高速飛行的特性契合鈴木的 Ultimate Sport 概念。",
+        "ja": "隼の飛行特性が、スズキの考える「Ultimate Sport」のコンセプトに合致した。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:bandit",
+      "summary": {
+        "en": "“Bandit” means a bandit or outlaw.",
+        "zh-CN": "Bandit 意为“山贼、无赖汉”。",
+        "zh-TW": "Bandit 意為「山賊、無賴漢」。",
+        "ja": "「山賊、無頼漢」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:vanvan-200",
+      "summary": {
+        "en": "The original VanVan name suggested riding “brrm-brrm” over rough ground, anywhere.",
+        "zh-CN": "初代因能通过崎岖路面，以“到处都能尽情骑行”之意命名。",
+        "zh-TW": "初代因能通過崎嶇路面，以「到處都能盡情騎乘」之意命名。",
+        "ja": "不整地でもどこでも走れるという初代のイメージから名付けられた。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:x6-hustler",
+      "summary": {
+        "en": "“Hustler” means a gambler.",
+        "zh-CN": "Hustler 意为“赌徒”。",
+        "zh-TW": "Hustler 意為「賭徒」。",
+        "ja": "「ギャンブラー」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:ts185",
+      "summary": {
+        "en": "“Hustler” means a gambler.",
+        "zh-CN": "Hustler 意为“赌徒”。",
+        "zh-TW": "Hustler 意為「賭徒」。",
+        "ja": "「ギャンブラー」という意味。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:rg400-gamma",
+      "summary": {
+        "en": "“RG” stands for “Racer of Grand Prix”; Gamma’s initial evokes glory and victory.",
+        "zh-CN": "RG 是 Racer of Grand Prix 的缩写；Gamma 取自表示“荣耀”的希腊语词首字母。",
+        "zh-TW": "RG 是 Racer of Grand Prix 的縮寫；Gamma 取自表示「榮耀」的希臘語詞首字母。",
+        "ja": "RGはRacer of Grand Prixの略。γは「栄光」を意味するギリシャ語の頭文字。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:v-strom",
+      "summary": {
+        "en": "“V” comes from “Versatile”; German “Strom” means a current or flow.",
+        "zh-CN": "V 取自 Versatile（多用途）；德语 Strom 意为“流、流水”。",
+        "zh-TW": "V 取自 Versatile（多用途）；德語 Strom 意為「流、流水」。",
+        "ja": "VはVersatile（多用途）、Stromはドイツ語で「流れ」。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:suzuki:v-strom-800de",
+      "summary": {
+        "en": "“V” comes from “Versatile”; German “Strom” means a current or flow.",
+        "zh-CN": "V 取自 Versatile（多用途）；德语 Strom 意为“流、流水”。",
+        "zh-TW": "V 取自 Versatile（多用途）；德語 Strom 意為「流、流水」。",
+        "ja": "VはVersatile（多用途）、Stromはドイツ語で「流れ」。"
+      },
+      "source_language": "ja",
+      "source_title": "スズキ二輪車 車名の由来",
+      "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+      "canonical_name_column": "en"
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "models": [
+    {
+      "id": "model:honda:dax-st50",
+      "summary": {
+        "en": "Named for its resemblance to a dachshund, with its long body and small wheels.",
+        "zh-CN": "车身细长、轮径较小，形似腊肠犬，因此取名 DAX。",
+        "zh-TW": "車身細長、輪徑較小，形似臘腸犬，因此取名 DAX。",
+        "ja": "小径タイヤと長い車体が胴長のダックスフントに似ていたことから命名。"
+      },
+      "source_language": "en",
+      "source_title": "Styling Design of 2022 Dax 125",
+      "source_url": "https://global.honda/en/RandD/activity/review/archives/technical_review_35/outline/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:super-cub-c100",
+      "summary": {
+        "en": "“Super” was added to “Cub F,” a name whose emblem design was reused for the new model.",
+        "zh-CN": "沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+        "zh-TW": "沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+        "ja": "Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+      },
+      "source_language": "en",
+      "source_title": "Vol.1 The Birth of the Super Cub",
+      "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:super-cub-c125",
+      "summary": {
+        "en": "“Super” was added to “Cub F,” a name whose emblem design was reused for the new model.",
+        "zh-CN": "沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+        "zh-TW": "沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+        "ja": "Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+      },
+      "source_language": "en",
+      "source_title": "Vol.1 The Birth of the Super Cub",
+      "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:cub-c70-c90",
+      "summary": {
+        "en": "For the Super Cub name: “Super” was added to “Cub F,” a name whose emblem design was reused.",
+        "zh-CN": "此聚合记录中的 Super Cub：沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+        "zh-TW": "此聚合記錄中的 Super Cub：沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+        "ja": "この統合レコードのSuper Cubについて説明。Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+      },
+      "source_language": "en",
+      "source_title": "Vol.1 The Birth of the Super Cub",
+      "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:dream-d",
+      "summary": {
+        "en": "The Dream D-Type name reflected Honda’s ambition to become a motorcycle manufacturer.",
+        "zh-CN": "Dream D 型的名称寄托着本田成为摩托车制造商的梦想。",
+        "zh-TW": "Dream D 型的名稱寄託著本田成為摩托車製造商的夢想。",
+        "ja": "Dream D型の名称には、二輪車メーカーを目指すHondaの夢が重ねられた。"
+      },
+      "source_language": "en",
+      "source_title": "The Appearance of a Full-fledged Motorcycle, the Dream D-Type / 1949",
+      "source_url": "https://global.honda/en/heritage/episodes/1949dtype.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:tenere-700",
+      "summary": {
+        "en": "Named for the Ténéré desert region of Niger and Chad; Yamaha also glosses the word as “desert, vast plain.”",
+        "zh-CN": "名称取自尼日尔、乍得一带的特内雷沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+        "zh-TW": "名稱取自尼日爾、查德一帶的特內雷沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+        "ja": "ニジェールとチャドに広がるテネレ砂漠に由来。ヤマハ公式資料では「砂漠・広大な平原」とも説明。"
+      },
+      "source_language": "en",
+      "source_title": "Forty Years of Admiration for the Big Single",
+      "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:tenere-700-world-raid-2026",
+      "summary": {
+        "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+        "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+        "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+        "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+      },
+      "source_language": "en",
+      "source_title": "Forty Years of Admiration for the Big Single",
+      "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:super-tenere-xt1200z",
+      "summary": {
+        "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+        "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+        "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+        "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+      },
+      "source_language": "en",
+      "source_title": "Forty Years of Admiration for the Big Single",
+      "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xtz750",
+      "summary": {
+        "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+        "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+        "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+        "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+      },
+      "source_language": "en",
+      "source_title": "Forty Years of Admiration for the Big Single",
+      "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xtz660",
+      "summary": {
+        "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+        "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+        "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+        "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+      },
+      "source_language": "en",
+      "source_title": "Forty Years of Admiration for the Big Single",
+      "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:chappy",
+      "summary": {
+        "en": "“Chappy” came from O-chappi, Japanese slang describing a vivacious young woman.",
+        "zh-CN": "Chappy 取自日语俗语 O-chappi，用来形容活泼开朗的年轻女性。",
+        "zh-TW": "Chappy 取自日語俗語 O-chappi，用來形容活潑開朗的年輕女性。",
+        "ja": "「チャッピィ」は、活発な若い女性を表す俗語「おチャッピ」に由来。"
+      },
+      "source_language": "en",
+      "source_title": "1965–1974",
+      "source_url": "https://global.yamaha-motor.com/design_technology/design/motordesign-history/history/from1965/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:mate",
+      "summary": {
+        "en": "The Mate name was selected from suggestions submitted by the public.",
+        "zh-CN": "Mate 这个名称由公众投稿建议选出；官方未给出更深的词义解释。",
+        "zh-TW": "Mate 這個名稱由公眾投稿建議選出；官方未提供更深的詞義解釋。",
+        "ja": "Mateの名は一般公募の応募案から選ばれた。公式資料に語義の説明はない。"
+      },
+      "source_language": "en",
+      "source_title": "1965 Mate (U5)",
+      "source_url": "https://global.yamaha-motor.com/showroom/cp/collection/mate_u5/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xv750",
+      "summary": {
+        "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+        "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+        "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+        "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+      },
+      "source_language": "ja",
+      "source_title": "XV750 Special 開発者インタビュー",
+      "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xv250",
+      "summary": {
+        "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+        "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+        "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+        "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+      },
+      "source_language": "ja",
+      "source_title": "XV750 Special 開発者インタビュー",
+      "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xv535",
+      "summary": {
+        "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+        "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+        "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+        "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+      },
+      "source_language": "ja",
+      "source_title": "XV750 Special 開発者インタビュー",
+      "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:yamaha:xv1100",
+      "summary": {
+        "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+        "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+        "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+        "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+      },
+      "source_language": "ja",
+      "source_title": "XV750 Special 開発者インタビュー",
+      "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-250-400",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-650",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-h2-h2r",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-1000sx",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-4rr",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-25r",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-14r",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-500",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-1100sx",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:ninja-7-hybrid",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:gpz900r",
+      "summary": {
+        "en": "Ninja was chosen for the GPZ900R’s North American launch to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时采用 Ninja 名称，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時採用 Ninja 名稱，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:zx-7-zxr750",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:zx-9r",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:zx-12r",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:zx-14",
+      "summary": {
+        "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+        "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+        "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+        "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+      },
+      "source_language": "ja",
+      "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z250-z400",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z650",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z900",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z-h2",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z900rs",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z125-pro",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z500",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1000-z1r",
+      "summary": {
+        "en": "For the Z-series names in this combined record, Z symbolizes the ultimate as the alphabet’s final letter.",
+        "zh-CN": "此聚合记录中的 Z 系列名称：Z 是字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "此聚合記錄中的 Z 系列名稱：Z 是字母表最後一個字母，寓意「終極」。",
+        "ja": "この統合レコードのZ系名称について説明。Zはアルファベットの最後の文字で、究極を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z650-1976",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z750-1977",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z400-z500",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1100",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z7-hybrid",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z2-750rs",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1000-mkii",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1000r-eddie-lawson",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1100-1981",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1100gp",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z300",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z800",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:z1000-2003",
+      "summary": {
+        "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+        "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+        "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+        "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+      },
+      "source_language": "ja",
+      "source_title": "Z(ゼット)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:versys",
+      "summary": {
+        "en": "A coined name combining Vertex, meaning “apex,” and System.",
+        "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+        "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+        "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:versys-x-300",
+      "summary": {
+        "en": "A coined name combining Vertex, meaning “apex,” and System.",
+        "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+        "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+        "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:versys-1100",
+      "summary": {
+        "en": "A coined name combining Vertex, meaning “apex,” and System.",
+        "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+        "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+        "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-750-800",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-1500-1600-2000",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-1700",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-drifter-800",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-drifter-1500",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:vulcan-mean-streak",
+      "summary": {
+        "en": "Vulcan refers to a fire deity in mythology.",
+        "zh-CN": "Vulcan 指神话中的火神。",
+        "zh-TW": "Vulcan 指神話中的火神。",
+        "ja": "Vulcanは神話などに登場する火の神を意味する。"
+      },
+      "source_language": "ja",
+      "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:eliminator-450",
+      "summary": {
+        "en": "Eliminator means “one who eliminates”; Kawasaki linked it to the first model’s drag-racer concept.",
+        "zh-CN": "Eliminator 意为“排除者”；川崎将名称与首款车型的直线加速赛概念联系起来。",
+        "zh-TW": "Eliminator 意為「排除者」；川崎將名稱與首款車型的直線加速賽概念聯繫起來。",
+        "ja": "Eliminatorは「排除するもの」の意味。初代のドラッグレーサーを意識したコンセプトにちなむ。"
+      },
+      "source_language": "ja",
+      "source_title": "ELIMINATOR(エリミネーター)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/3886",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:d-tracker-250",
+      "summary": {
+        "en": "D-Tracker is a coined blend of “Dirt” and “Tracker.”",
+        "zh-CN": "D-Tracker 是 Dirt（泥地）与 Tracker 的组合造词。",
+        "zh-TW": "D-Tracker 是 Dirt（泥地）與 Tracker 的組合造詞。",
+        "ja": "Dirt（ダート）とTrackerを組み合わせた造語。"
+      },
+      "source_language": "ja",
+      "source_title": "D-TRACKER(ディートラッカー)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/4483",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:zephyr",
+      "summary": {
+        "en": "For this combined record’s Zephyr models, the name refers to Zephyros, the Greek god of the west wind, evoking a gentle breeze.",
+        "zh-CN": "此聚合记录中的 Zephyr 车型：名称源自希腊神话西风神 Zephyros，意象为轻柔的风。",
+        "zh-TW": "此聚合記錄中的 Zephyr 車型：名稱源自希臘神話西風神 Zephyros，意象為輕柔的風。",
+        "ja": "この統合レコードのZephyr各車について説明。ギリシャ神話の西風神Zephyrosに由来し、そよ風をイメージ。"
+      },
+      "source_language": "ja",
+      "source_title": "ZEPHYR(ゼファー)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/4595",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:estrella-250",
+      "summary": {
+        "en": "Estrella means “star” in Spanish.",
+        "zh-CN": "Estrella 在西班牙语中意为“星星”。",
+        "zh-TW": "Estrella 在西班牙語中意為「星星」。",
+        "ja": "Estrellaはスペイン語で「星」の意味。"
+      },
+      "source_language": "ja",
+      "source_title": "ESTRELLA(エストレヤ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/4482",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:estrella-350",
+      "summary": {
+        "en": "Estrella means “star” in Spanish.",
+        "zh-CN": "Estrella 在西班牙语中意为“星星”。",
+        "zh-TW": "Estrella 在西班牙語中意為「星星」。",
+        "ja": "Estrellaはスペイン語で「星」の意味。"
+      },
+      "source_language": "ja",
+      "source_title": "ESTRELLA(エストレヤ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/4482",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:kawasaki:meguro-s1",
+      "summary": {
+        "en": "Revives the Meguro motorcycle marque of Meguro Seisakusho, whose name came from its Tokyo location.",
+        "zh-CN": "Meguro 承自目黑制作所的摩托车品牌名；“目黑”与其东京工厂一带的地名有关。",
+        "zh-TW": "Meguro 承自目黑製作所的摩托車品牌名；「目黑」與其東京工廠一帶的地名有關。",
+        "ja": "目黒製作所の二輪ブランド名を復活。社名は東京・目黒の工場周辺の地名に由来。"
+      },
+      "source_language": "ja",
+      "source_title": "MEGURO(メグロ)の名前の由来は何ですか。",
+      "source_url": "https://faq.kawasaki-motors.com/faq/show/5888",
+      "canonical_name_column": "en"
+    }
+  ]
+}

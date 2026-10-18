@@ -87,6 +87,23 @@
     return escapeHtml(name);
   }
 
+  function nameOriginMarkup(model) {
+    const origin = model.name_origin;
+    const summary = origin?.summary?.[lang] || origin?.summary?.["zh-CN"];
+    if (!summary || !origin?.source_url) return "";
+    return '<details class="name-origin"><summary>' + escapeHtml(copy.nameOriginLabel) +
+      '</summary><div class="name-origin-body"><p>' + escapeHtml(summary) +
+      '</p><a href="' + escapeHtml(origin.source_url) + '" title="' + escapeHtml(origin.source_title || "") +
+      '" aria-label="' + escapeHtml(copy.officialSourceLabel + ": " + (origin.source_title || "")) + '" target="_blank" rel="noreferrer">' +
+      escapeHtml(copy.officialSourceLabel) + ' ↗</a></div></details>';
+  }
+
+  function nameOriginColumn(model) {
+    // Follow the model's canonical spelling column; source_language describes only the cited page.
+    return ["en", "zh-CN", "zh-TW", "ja"].includes(model.name_origin?.canonical_name_column)
+      ? model.name_origin.canonical_name_column : "en";
+  }
+
   function updateSummary(found, start, end) {
     if (previewActive && found === 0) {
       summary.textContent = fullFailed ? copy.previewEmptyFailed : copy.previewEmptyLoading;
@@ -110,14 +127,15 @@
       ? String(model.status) : "current";
     const stateLabel = copy.statuses[state] || state;
     const labels = copy.languageLabels;
+    const originColumn = model.name_origin ? nameOriginColumn(model) : "";
     return "<tr>" +
       '<td class="model-cell"><span class="brand">' + escapeHtml(model.brand || copy.unknownBrand) + "</span>" +
       '<span class="model-id">' + escapeHtml(model.id) + "</span>" +
       '<span class="status ' + state + '">' + escapeHtml(stateLabel) + "</span></td>" +
-      '<td class="name-cell" data-label="' + escapeHtml(labels[0]) + '">' + displayName(model.names?.en) + "</td>" +
-      '<td class="name-cell" data-label="' + escapeHtml(labels[1]) + '">' + displayName(model.names?.["zh-CN"]) + "</td>" +
-      '<td class="name-cell" data-label="' + escapeHtml(labels[2]) + '">' + displayName(model.names?.["zh-TW"]) + "</td>" +
-      '<td class="name-cell" data-label="' + escapeHtml(labels[3]) + '">' + displayName(model.names?.ja) + "</td>" +
+      '<td class="name-cell" data-label="' + escapeHtml(labels[0]) + '">' + displayName(model.names?.en) + (originColumn === "en" ? nameOriginMarkup(model) : "") + "</td>" +
+      '<td class="name-cell" data-label="' + escapeHtml(labels[1]) + '">' + displayName(model.names?.["zh-CN"]) + (originColumn === "zh-CN" ? nameOriginMarkup(model) : "") + "</td>" +
+      '<td class="name-cell" data-label="' + escapeHtml(labels[2]) + '">' + displayName(model.names?.["zh-TW"]) + (originColumn === "zh-TW" ? nameOriginMarkup(model) : "") + "</td>" +
+      '<td class="name-cell" data-label="' + escapeHtml(labels[3]) + '">' + displayName(model.names?.ja) + (originColumn === "ja" ? nameOriginMarkup(model) : "") + "</td>" +
       '<td class="year" data-label="' + escapeHtml(copy.years) + '">' + displayName(model.years) + "</td></tr>";
   }
 

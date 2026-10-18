@@ -5,7 +5,7 @@
     "database_version": "1.1.1",
     "updated": "2026-10-16",
     "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
-    "repository": "https://github.com/ixiehao/motorcycle-name",
+    "repository": "https://github.com/ixiehao/MotorcycleName",
     "languages": [
       "en",
       "zh-CN",
@@ -3971,7 +3971,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "659cc双缸RS660同平台，21/18辐条轮，达喀尔血统，硬派越野ADV",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia’s official page describes the Tuareg people as desert nomads and frames the name as a symbol of exploration and adventure.",
+            "zh-CN": "Aprilia 官方将 Tuareg 解释为沙漠游牧民族，并把这个名称塑造成探索与冒险的象征。",
+            "zh-TW": "Aprilia官方將Tuareg解釋為沙漠遊牧民族，並將這個名稱塑造成探索與冒險的象徵。",
+            "ja": "Aprilia公式ページはTuaregを砂漠の遊牧民として紹介し、探求と冒険の象徴としてこの名を位置付けています。"
+          },
+          "source_language": "it",
+          "source_title": "Explore Tuareg 660 — Il significato di Tuareg 660",
+          "source_url": "https://www.aprilia.com/it_IT/explore-tuareg-660/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuareg-660-rally",
@@ -4005,7 +4017,19 @@
         "status": "discontinued",
         "years": "2003–2010",
         "note": "2003年推出的公升级街车，RSV Mille的街车版，高把加小号整流罩，被多家媒体评为年度最佳街车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuono-457",
@@ -4022,7 +4046,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "2025年全新入门街车，457cc并列双缸48马力，铝合金车架干重157kg，RS 457同平台",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuono-660",
@@ -4039,7 +4075,19 @@
         "status": "current",
         "years": "2021–present",
         "note": "659cc并列双缸，RS660街车版，95马力，中量级运动街车新选择",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuono-660-factory",
@@ -4056,7 +4104,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "659cc并列双缸RS660同平台，95马力，半整流运动街车，Factory高规格",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuono-v4-factory",
@@ -4073,7 +4133,19 @@
         "status": "current",
         "years": "2021–present",
         "note": "1099cc 65°V4，175马力，RSV4街车版，Ohlins智能悬挂，顶级性能街车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:aprilia:tuono-v4-factory-2026",
@@ -4090,7 +4162,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "2026厂车版重大更新，1099cc V4，RSV4同源动力，Ohlins智能悬挂，旗舰性能街车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+            "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+            "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+            "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+          },
+          "source_language": "en",
+          "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+          "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ariel:ariel-3",
@@ -4515,7 +4599,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "2025年11月发布的全新双缸中排量探险车，可选离心式离合器，宝马两缸入门GS",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:f-800-gs",
@@ -4532,7 +4628,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "895cc并列双缸，2024年接替F 750 GS的中量级ADV，2026款更新电控与配色",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:f-900-gs",
@@ -4549,7 +4657,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "895cc并列双缸，2024年换代F 850 GS，轻量化车架，越野能力提升的中量级ADV",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:f-900-gs-adventure",
@@ -4566,7 +4686,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "895cc并列双缸，F 900 GS长途版，24L大油箱+护杠，2026款更新",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:g-310-rr",
@@ -4685,7 +4817,19 @@
         "status": "discontinued",
         "years": "1987–1996",
         "note": "GS系列扩至980cc，1990年升级Paralever后悬挂，双用途探险车的经典之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-100-rs",
@@ -4736,7 +4880,19 @@
         "status": "discontinued",
         "years": "1994–1999",
         "note": "现代GS时代开端，1085cc油冷拳击手，Telelever前悬挂，确立GS车系全球地位",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-12",
@@ -4804,7 +4960,19 @@
         "status": "discontinued",
         "years": "2004–2012",
         "note": "GS系列首款1170cc油冷拳击手，大幅减重并登顶全球ADV销量王，2012年被水冷版取代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-1300-gs",
@@ -4821,7 +4989,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "1300cc水平对置双缸，2024年接替R 1250 GS成为新一代探险旗舰，减重约12kg，电控全面升级",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-1300-gs-adventure",
@@ -4838,7 +5018,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "1300cc新一代GS长途版，30L大油箱，可选ASA自动离合器，2025年上市",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-17",
@@ -5093,7 +5285,19 @@
         "status": "discontinued",
         "years": "1980–1987",
         "note": "1980年推出的GS探险系列鼻祖，798cc拳击手，开创ADV细分市场，达喀尔赛场扬名",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW says G/S stands for German “Gelände/Straße”: off-road and road.",
+            "zh-CN": "宝马说明，G/S 是德语“Gelände/Straße”的缩写，意为越野／公路。",
+            "zh-TW": "BMW說明，G/S是德文「Gelände/Straße」的縮寫，意為越野／公路。",
+            "ja": "BMWによると、G/Sはドイツ語の「Gelände/Straße」（オフロード／オンロード）の略です。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:r-90-6",
@@ -5144,7 +5348,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "宝马2026款旗舰探险车更新，1300cc水平对置双缸，2025年7月发布2026版",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw-motorrad:s-1000-xr",
@@ -5212,7 +5428,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "853cc并列双缸，低坐高版本，公路取向ADV，电子悬挂可选",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:f-850-gs",
@@ -5229,7 +5457,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "853cc并列双缸，21寸前轮，越野能力更强，F系列GS标准版",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:f-850-gs-adventure",
@@ -5246,7 +5486,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "F850GS长途版，23L大油箱+护杠，越野强化，长途穿越利器",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:f-900-r",
@@ -5297,7 +5549,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "G310R同平台ADV，鸟嘴设计，入门探险，轻量化易操控",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:g-310-r",
@@ -5382,7 +5646,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "1254cc水平对置双缸ShiftCam，ADV销量王，公路越野全能，宝马灵魂车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:r-1250-gs-adventure",
@@ -5399,7 +5675,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "R1250GS长途版，30L大油箱+护杠，越野强化，环球摩旅首选",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+            "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+            "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+            "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:r-1250-r",
@@ -5450,7 +5738,19 @@
         "status": "current",
         "years": "2014–present",
         "note": "1170cc气冷油冷拳击手，模块化车架，Pure/Pure/Urban G/S多款复古衍生",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BMW introduced the R nineT to mark the 90th anniversary of BMW Motorrad.",
+            "zh-CN": "宝马推出 R nineT，以纪念 BMW Motorrad 创立 90 周年。",
+            "zh-TW": "BMW推出R nineT，以紀念BMW Motorrad創立90週年。",
+            "ja": "BMWはBMW Motorrad創立90周年を記念してR nineTを発表しました。"
+          },
+          "source_language": "en",
+          "source_title": "BMW Motorrad – 100 years of success",
+          "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bmw:s-1000-r",
@@ -5535,7 +5835,19 @@
         "status": "discontinued",
         "years": "1962–1963",
         "note": "Super Rocket双缸引擎装入Gold Star车架的特制运动版，仅生产两年即停产，美国市场称Gold Star Twin，收藏级珍品",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+            "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+            "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+            "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+          "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bsa:a50-royal-star",
@@ -5739,7 +6051,19 @@
         "status": "discontinued",
         "years": "1971–1973",
         "note": "BSA最后一款大排量一体化结构单缸，499cc街滑越野两用，1972年公司破产后由残余零件继续生产至1973年",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+            "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+            "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+            "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+          "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bsa:bantam-d1",
@@ -5858,7 +6182,19 @@
         "status": "current",
         "years": "2021–present",
         "note": "Mahindra收购BSA品牌后的复兴之作，652cc水冷单缸复古车，2021年发布，致敬传奇Gold Star之名",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+            "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+            "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+            "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+          "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bsa:gold-star-b32",
@@ -5875,7 +6211,19 @@
         "status": "discontinued",
         "years": "1946–1957",
         "note": "350cc版金牌之星，战后Gold Star系列的开端，以高转性能和出色操控著称",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+            "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+            "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+            "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+          "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bsa:gold-star-dbd34",
@@ -5892,7 +6240,19 @@
         "status": "discontinued",
         "years": "1956–1963",
         "note": "BSA最传奇的500cc单缸运动车，俱乐部赛无敌手，绰号金牌之星，如今是收藏市场的顶级英伦经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+            "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+            "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+            "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+          "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bsa:m20",
@@ -5977,7 +6337,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "复活经典车名的电动踏板车，2020年推出，锂电驱动，金属车身，印度高端电踏代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Bajaj says the Chetak scooter was named after Maharana Pratap’s legendary horse.",
+            "zh-CN": "Bajaj 官方称，Chetak 踏板车以 Maharana Pratap 的传奇战马 Chetak 命名。",
+            "zh-TW": "Bajaj 官方表示，Chetak 踏板車以 Maharana Pratap 的傳奇戰馬 Chetak 命名。",
+            "ja": "Bajajによると、スクーターのChetakはマハラナ・プラタップの伝説的な愛馬にちなんで名付けられました。"
+          },
+          "source_language": "en",
+          "source_title": "Chetak – Chetak Legacy",
+          "source_url": "https://www.chetak.com/our-presence",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:bajaj:ct-100",
@@ -6796,7 +7168,19 @@
         "status": "discontinued",
         "years": "1951–1966",
         "note": "1950年代最著名的\"小狮子\"，二冲程单缸轻骑，在Milan-Taranto等赛事屡获佳绩，现代Leoncino复古设计的灵感来源",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+            "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+            "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+            "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+          },
+          "source_language": "en",
+          "source_title": "Benelli Leoncino: What We Know So Far",
+          "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:benelli:leoncino-500",
@@ -6813,7 +7197,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "500cc双缸，幼狮复古攀爬，2017年上市，意式复古与现代结合",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+            "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+            "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+            "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+          },
+          "source_language": "en",
+          "source_title": "Benelli Leoncino: What We Know So Far",
+          "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:benelli:leoncino-800",
@@ -6830,7 +7226,19 @@
         "status": "current",
         "years": "2021–present",
         "note": "754cc双缸，幼狮800复古攀爬，2021年上市",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+            "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+            "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+            "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+          },
+          "source_language": "en",
+          "source_title": "Benelli Leoncino: What We Know So Far",
+          "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:benelli:letizia-125",
@@ -6881,7 +7289,19 @@
         "status": "current",
         "years": "2013–present",
         "note": "600cc直列四缸街车，Benelli经典四缸血统，意式运动街车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Benelli spells out TNT as “Tornado Naked Tre,” the naked-bike line derived from its Tornado Tre.",
+            "zh-CN": "Benelli 官方将 TNT 展开为 “Tornado Naked Tre”，即源自 Tornado Tre 的裸车系列。",
+            "zh-TW": "Benelli 官方將 TNT 展開為 “Tornado Naked Tre”，也就是源自 Tornado Tre 的街車系列。",
+            "ja": "Benelliによると、TNTは「Tornado Naked Tre」の略で、Tornado Treから派生したネイキッドシリーズです。"
+          },
+          "source_language": "de",
+          "source_title": "TNT – mehr Fun in der Boxengasse geht nicht",
+          "source_url": "https://www.benelli.com/de-de/news/tnt-mehr-fun-in-der-boxengasse-geht-nicht",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:benelli:tornado-302",
@@ -8615,7 +9035,19 @@
         "status": "discontinued",
         "years": "2015–2018",
         "note": "1285cc Superquadro V缸，205马力，双缸仿赛巅峰，2018年被Panigale V4取代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:250-mach-1",
@@ -8955,7 +9387,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "1260为Testastretta DVT双缸，Diavel V4为Granturismo V4，肌肉巡航运动",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Diavel comes from the Bolognese dialect word for “devil,” coined when someone saw the prototype’s silhouette.",
+            "zh-CN": "杜卡迪说明，Diavel 取自博洛尼亚方言中“魔鬼”一词；原型车亮相时，有人因其轮廓脱口而出这句话。",
+            "zh-TW": "Ducati說明，Diavel取自博洛尼亞方言中的「魔鬼」一詞；原型車亮相時，有人因其輪廓脫口而出這句話。",
+            "ja": "Ducatiによると、Diavelはボローニャ方言で「悪魔」を意味する言葉。試作車のシルエットを見た人の一言から生まれました。"
+          },
+          "source_language": "en",
+          "source_title": "The name is DIAVEL – The innovative new Ducati to be unveiled at the Milan show",
+          "source_url": "https://mediahouse.ducati.com/the-name-is-diavel-the-innovative-new-ducati-to-be-unveiled-at-the-milan-show/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:diavel-v4-rs",
@@ -9108,7 +9552,19 @@
         "status": "current",
         "years": "2021–present",
         "note": "937cc Testastretta 11° V缸，全新车架减重18kg，Monster系列新时代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati links the name Monster to the bike’s stripped-back idea: the essential elements, nothing more.",
+            "zh-CN": "杜卡迪将 Monster 之名与车型“只保留必要元素”的简洁理念相连。",
+            "zh-TW": "Ducati將Monster之名與車款「只保留必要元素」的簡潔理念相連。",
+            "ja": "DucatiはMonsterの名を「必要なものだけ、それ以上はない」というシンプルなコンセプトに結び付けています。"
+          },
+          "source_language": "en",
+          "source_title": "Light, Compact, Accessible And Fun: Ducati Presents New Monster",
+          "source_url": "https://mediahouse.ducati.com/light-compact-accessible-and-fun-ducati-presents-new-monster/?lang=eng",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:multistrada-950",
@@ -9125,7 +9581,19 @@
         "status": "discontinued",
         "years": "2017–2021",
         "note": "937cc Testastretta V缸，中量级揽途，公路探险兼顾，2021年停产",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+            "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+            "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+            "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "Multistrada: twenty years of emotions and innovation",
+          "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:multistrada-v2",
@@ -9142,7 +9610,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "V2为937cc双缸，V4 S为1158cc Granturismo V4，杜卡迪主力ADV",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+            "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+            "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+            "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "Multistrada: twenty years of emotions and innovation",
+          "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:multistrada-v2-2025",
@@ -9159,7 +9639,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "2025年换代，890cc全新V2引擎平台，减重约18kg，干重199kg",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+            "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+            "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+            "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "Multistrada: twenty years of emotions and innovation",
+          "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:multistrada-v4-rally",
@@ -9176,7 +9668,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "V4 Rally越野强化版，30L油箱，21寸前轮，Skyhook EVO悬挂，长行程",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+            "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+            "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+            "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "Multistrada: twenty years of emotions and innovation",
+          "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:multistrada-v4-rs",
@@ -9210,7 +9714,19 @@
         "status": "discontinued",
         "years": "2016–2019",
         "note": "955cc Superquadro V缸，Panigale 899后继车型，2019年被Panigale V2取代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:panigale-v2",
@@ -9227,7 +9743,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "955cc Superquadro V缸，155马力，V4小弟，电子悬挂，赛道利器",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:panigale-v2-2025",
@@ -9244,7 +9772,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "2025年换代，890cc全新V2引擎取代Superquadro，约120马力，大幅减重",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:panigale-v2-final-edition",
@@ -9261,7 +9801,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "Superquadro双缸最终版本，特别涂装+Ohlins，限量纪念车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:panigale-v4",
@@ -9278,7 +9830,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "1103cc Desmosedici Stradale V4，V4 S为Ohlins版，V4 R赛道版240马力",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:panigale-v4-2025",
@@ -9295,7 +9859,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "2025款新一代旗舰仿赛，1103cc Desmosedici V4升级，全新车架与空气动力学设计",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+            "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+            "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+            "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+          "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:pantah",
@@ -9329,7 +9905,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "1079cc L型双缸，大排量自游，复古攀爬，Sport Pro配Ohlins",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+            "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+            "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+            "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+          },
+          "source_language": "en",
+          "source_title": "The Motorcycle Diaries",
+          "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:scrambler-400",
@@ -9346,7 +9934,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "399cc单缸，印度市场入门自游，复古攀爬风格，2024年上市",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+            "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+            "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+            "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+          },
+          "source_language": "en",
+          "source_title": "The Motorcycle Diaries",
+          "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:scrambler-800-next-gen",
@@ -9363,7 +9963,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "803cc Desmodue气冷V缸，新一代自游，4寸TFT，Icon/Full Throttle/Nightshift三款",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+            "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+            "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+            "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+          },
+          "source_language": "en",
+          "source_title": "The Motorcycle Diaries",
+          "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:ducati:st2",
@@ -9533,7 +10145,19 @@
         "status": "discontinued",
         "years": "2017–2020",
         "note": "约109马力纯电街车，复古风格造型，后被Eva Ribelle取代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Energica says Eva EsseEsse9 takes its name from Via Emilia, the historic road through Italy’s Motor Valley.",
+            "zh-CN": "Energica 官方称，Eva EsseEsse9 的名称取自穿越意大利 Motor Valley 的历史道路 Via Emilia。",
+            "zh-TW": "Energica 官方表示，Eva EsseEsse9 的名稱取自穿越義大利 Motor Valley 的歷史道路 Via Emilia。",
+            "ja": "Energicaによると、Eva EsseEsse9の名はイタリアのモーターバレーを通る歴史的な道路、Via Emiliaに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Investor Presentation – March 2018",
+          "source_url": "https://www.energicamotor.com/wp-content/uploads/2022/01/investor-presentation-marzo-2018.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:energica:eva-ribelle",
@@ -10247,7 +10871,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "Milwaukee-Eight 114发动机，实心盘轮毂，《终结者》电影名车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Harley-Davidson says the name was meant to be unusual and irreverent; insiders saw the bike’s massive “fat” look, so marketing chose Fat Boy.",
+            "zh-CN": "哈雷官方解释称，这个名字刻意追求新奇、带点戏谑；内部人士觉得车身看起来很“厚实”，于是由市场团队定名 Fat Boy。",
+            "zh-TW": "哈雷官方解釋稱，這個名稱刻意追求新奇、帶點戲謔；內部人士覺得車身看起來很「厚實」，於是由行銷團隊定名Fat Boy。",
+            "ja": "ハーレー公式説明によると、意外性と少しの茶目っ気を狙った名前で、社内の人々が車体の大きく「太い」印象を見て、マーケティング部門がFat Boyと名付けました。"
+          },
+          "source_language": "en",
+          "source_title": "Harley-Davidson Reveals New Limited-Production Fat Boy Gray Ghost Model",
+          "source_url": "https://h-dmediakit.com/us/news-articles/harley-davidson-reveals-new-limited-production-fat-boy-gray-ghost-model.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:harley-davidson:flhs",
@@ -11284,7 +11920,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "本田2025年全新换代大黄蜂，999cc直列四缸（源自CBR1000RR-R），取代CB1000R，SP版配Ohlins电子悬挂",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Hornet refers to the wasp; Honda describes the original model’s body styling as inspired by the insect.",
+            "zh-CN": "“Hornet”意为黄蜂；本田称初代车型的车身线条取意于这种昆虫。",
+            "zh-TW": "「Hornet」意為黃蜂；本田稱初代車型的車身線條取意於這種昆蟲。",
+            "ja": "「Hornet（スズメバチ）」の名は、初代モデルのボディラインが飛ぶ昆虫を思わせることに由来。"
+          },
+          "source_language": "ja",
+          "canonical_name_column": "en",
+          "source_title": "ホーネット600 HORNET 600",
+          "source_url": "https://global.honda/content/dam/site/global-jp/news-new/cq_img/1997/10/2971000b.pdf"
+        }
       },
       {
         "id": "model:honda:cb1000f-2026",
@@ -11693,7 +12341,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "大黄蜂名号复活，755cc并列双缸270度曲轴，中量级运动街车新标杆",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Hornet refers to the wasp; Honda describes the original model’s body styling as inspired by the insect.",
+            "zh-CN": "“Hornet”意为黄蜂；本田称初代车型的车身线条取意于这种昆虫。",
+            "zh-TW": "「Hornet」意為黃蜂；本田稱初代車型的車身線條取意於這種昆蟲。",
+            "ja": "「Hornet（スズメバチ）」の名は、初代モデルのボディラインが飛ぶ昆虫を思わせることに由来。"
+          },
+          "source_language": "ja",
+          "canonical_name_column": "en",
+          "source_title": "ホーネット600 HORNET 600",
+          "source_url": "https://global.honda/content/dam/site/global-jp/news-new/cq_img/1997/10/2971000b.pdf"
+        }
       },
       {
         "id": "model:honda:cb750f-super-sport",
@@ -11812,7 +12472,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "旗舰公升仿赛，搭载RC213V-S赛用技术，Ohlins悬挂+Brembo卡钳",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Honda traces FireBlade to the CBR900RR’s European launch name, chosen not to foreground its 900cc displacement.",
+            "zh-CN": "本田将 FireBlade 追溯至 CBR900RR 的欧洲上市名称，当时为避免突出 900cc 排量而采用。",
+            "zh-TW": "Honda將FireBlade追溯至CBR900RR的歐洲上市名稱，當時為避免突出900cc排氣量而採用。",
+            "ja": "HondaはFireBladeの由来をCBR900RRの欧州発売時の名称に遡って説明しています。当初は900ccの排気量を前面に出さないために使われました。"
+          },
+          "source_language": "en",
+          "source_title": "CBR1000RR - History: Episode00",
+          "source_url": "https://global.honda/en/tech/Hondas_Flagship_Sports_Philosophy/archive/episode00.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:cbr1100xx",
@@ -11966,7 +12638,19 @@
         "status": "discontinued",
         "years": "1992–1999",
         "note": "1992年横空出世，893cc挑战公升级，超级运动车轻量化革命，火刃传奇开端",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Honda says Europe initially used FireBlade to avoid foregrounding the CBR900RR’s 900cc displacement.",
+            "zh-CN": "本田说明，欧洲市场最初采用 FireBlade 名称，是为避免突出 CBR900RR 的 900cc 排量。",
+            "zh-TW": "Honda說明，歐洲市場最初採用FireBlade名稱，是為避免突出CBR900RR的900cc排氣量。",
+            "ja": "Hondaによると、欧州ではCBR900RRの900ccという排気量を前面に出さないため、当初FireBladeの名で販売されました。"
+          },
+          "source_language": "en",
+          "source_title": "CBR1000RR - History: Episode00",
+          "source_url": "https://global.honda/en/tech/Hondas_Flagship_Sports_Philosophy/archive/episode00.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:cbx1000",
@@ -12272,7 +12956,19 @@
         "status": "discontinued",
         "years": "1967–2000",
         "note": "Super Cub家族中排量成员，72cc/86cc单缸弯梁，全球通勤代步神器，皮实耐用",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the Super Cub name: “Super” was added to “Cub F,” a name whose emblem design was reused.",
+            "zh-CN": "此聚合记录中的 Super Cub：沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+            "zh-TW": "此聚合記錄中的 Super Cub：沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+            "ja": "この統合レコードのSuper Cubについて説明。Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+          },
+          "source_language": "en",
+          "source_title": "Vol.1 The Birth of the Super Cub",
+          "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:cx500",
@@ -12357,7 +13053,19 @@
         "status": "discontinued",
         "years": "1969–1999",
         "note": "T形车架迷你车，人称长颈鹿/腊肠狗，与Monkey齐名的本田趣味小车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for its resemblance to a dachshund, with its long body and small wheels.",
+            "zh-CN": "车身细长、轮径较小，形似腊肠犬，因此取名 DAX。",
+            "zh-TW": "車身細長、輪徑較小，形似臘腸犬，因此取名 DAX。",
+            "ja": "小径タイヤと長い車体が胴長のダックスフントに似ていたことから命名。"
+          },
+          "source_language": "en",
+          "source_title": "Styling Design of 2022 Dax 125",
+          "source_url": "https://global.honda/en/RandD/activity/review/archives/technical_review_35/outline/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:dio",
@@ -12408,7 +13116,19 @@
         "status": "discontinued",
         "years": "1949–1951",
         "note": "本田第一款完整量产摩托车，98cc二冲程单缸，Dream梦之名的起源",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Dream D-Type name reflected Honda’s ambition to become a motorcycle manufacturer.",
+            "zh-CN": "Dream D 型的名称寄托着本田成为摩托车制造商的梦想。",
+            "zh-TW": "Dream D 型的名稱寄託著本田成為摩托車製造商的夢想。",
+            "ja": "Dream D型の名称には、二輪車メーカーを目指すHondaの夢が重ねられた。"
+          },
+          "source_language": "en",
+          "source_title": "The Appearance of a Full-fledged Motorcycle, the Dream D-Type / 1949",
+          "source_url": "https://global.honda/en/heritage/episodes/1949dtype.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:forza-750",
@@ -12918,7 +13638,19 @@
         "status": "discontinued",
         "years": "1958–1967",
         "note": "1958年问世的第一代Super Cub，49cc弯梁车，半自动离合开启全球销量神话",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Super” was added to “Cub F,” a name whose emblem design was reused for the new model.",
+            "zh-CN": "沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+            "zh-TW": "沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+            "ja": "Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+          },
+          "source_language": "en",
+          "source_title": "Vol.1 The Birth of the Super Cub",
+          "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:super-cub-c125",
@@ -12935,7 +13667,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "世界销量第一车型系列，累计超1亿台，经典弯梁设计",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Super” was added to “Cub F,” a name whose emblem design was reused for the new model.",
+            "zh-CN": "沿用 Cub F 的名称基础，并加上当时流行的 “Super”。",
+            "zh-TW": "沿用 Cub F 的名稱基礎，並加上當時流行的 “Super”。",
+            "ja": "Cub Fの名を基に、当時流行していた「Super」を加えて命名。"
+          },
+          "source_language": "en",
+          "source_title": "Vol.1 The Birth of the Super Cub",
+          "source_url": "https://global.honda/en/Cub/history/stories/vol1/p3.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:honda:vf1000f",
@@ -13785,7 +14529,19 @@
         "status": "discontinued",
         "years": "1916–1924",
         "note": "1916年推出的61立方英寸（1000cc）侧阀V缸，性能强劲，一战后印第安主力车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Indian says its PowerPlus engine name honors an original Indian motorcycle made from 1916 to 1924.",
+            "zh-CN": "Indian 官方称，PowerPlus 发动机名称是向 1916 至 1924 年生产的同名经典摩托致敬。",
+            "zh-TW": "Indian 官方表示，PowerPlus 引擎名稱是向 1916 至 1924 年生產的同名經典摩托車致敬。",
+            "ja": "Indianによると、PowerPlusエンジンの名称は1916～1924年に生産された同名の旧モデルにちなみます。"
+          },
+          "source_language": "en",
+          "source_title": "PowerPlus – Indian Motorcycle’s Most Powerful Engine",
+          "source_url": "https://www.indianmotorcycle.com/en-us/powerplus/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:indian:prince",
@@ -14295,7 +15051,19 @@
         "status": "discontinued",
         "years": "1946–1954",
         "note": "绰号弹簧人的250cc二冲程单缸，二战后的捷克国民摩托，摆动式后悬挂为其标志性设计",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "JAWA says its 1946 250 earned the “Pérák” designation for its progressive design.",
+            "zh-CN": "JAWA 官方称，1946 年的 250 车型因设计先进而获得 “Pérák” 这一称号。",
+            "zh-TW": "JAWA 官方表示，1946 年的 250 車款因設計先進而獲得 “Pérák” 這個稱號。",
+            "ja": "JAWAによると、1946年の250は先進的な設計が評価され、「Pérák」の名で呼ばれるようになりました。"
+          },
+          "source_language": "cs",
+          "source_title": "Historické mezníky (Historical Milestones)",
+          "source_url": "https://www.jawa.eu/historicke-mezniky",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:jawa:250-special",
@@ -16216,7 +16984,19 @@
         "status": "discontinued",
         "years": "2002–2009",
         "note": "KLX250同平台超级摩托，17寸公路轮+倒立前叉，日本本土特供的滑胎风格玩乐车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "D-Tracker is a coined blend of “Dirt” and “Tracker.”",
+            "zh-CN": "D-Tracker 是 Dirt（泥地）与 Tracker 的组合造词。",
+            "zh-TW": "D-Tracker 是 Dirt（泥地）與 Tracker 的組合造詞。",
+            "ja": "Dirt（ダート）とTrackerを組み合わせた造語。"
+          },
+          "source_language": "ja",
+          "source_title": "D-TRACKER(ディートラッカー)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/4483",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:eliminator-450",
@@ -16233,7 +17013,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "451cc并列双缸入门巡航，低座高，Eliminator名号复活之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Eliminator means “one who eliminates”; Kawasaki linked it to the first model’s drag-racer concept.",
+            "zh-CN": "Eliminator 意为“排除者”；川崎将名称与首款车型的直线加速赛概念联系起来。",
+            "zh-TW": "Eliminator 意為「排除者」；川崎將名稱與首款車型的直線加速賽概念聯繫起來。",
+            "ja": "Eliminatorは「排除するもの」の意味。初代のドラッグレーサーを意識したコンセプトにちなむ。"
+          },
+          "source_language": "ja",
+          "source_title": "ELIMINATOR(エリミネーター)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3886",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:en450",
@@ -16335,7 +17127,19 @@
         "status": "discontinued",
         "years": "1992–2008",
         "note": "249cc风冷单缸复古街车，日本本土长销16年，被称W800小兄弟",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Estrella means “star” in Spanish.",
+            "zh-CN": "Estrella 在西班牙语中意为“星星”。",
+            "zh-TW": "Estrella 在西班牙語中意為「星星」。",
+            "ja": "Estrellaはスペイン語で「星」の意味。"
+          },
+          "source_language": "ja",
+          "source_title": "ESTRELLA(エストレヤ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/4482",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:estrella-350",
@@ -16352,7 +17156,19 @@
         "status": "discontinued",
         "years": "1996–1999",
         "note": "348cc风冷单缸复古街车，Estrella 250的大排量版，仅在日本市场销售，生产周期较短",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Estrella means “star” in Spanish.",
+            "zh-CN": "Estrella 在西班牙语中意为“星星”。",
+            "zh-TW": "Estrella 在西班牙語中意為「星星」。",
+            "ja": "Estrellaはスペイン語で「星」の意味。"
+          },
+          "source_language": "ja",
+          "source_title": "ESTRELLA(エストレヤ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/4482",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:gpz1000rx",
@@ -16539,7 +17355,19 @@
         "status": "discontinued",
         "years": "1984–2003",
         "note": "908cc水冷四缸，Ninja名号开山之作，首款水冷四气门量产仿赛，电影《壮志凌云》座驾",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ninja was chosen for the GPZ900R’s North American launch to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时采用 Ninja 名称，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時採用 Ninja 名稱，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:h1-500",
@@ -17151,7 +17979,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "川崎2025年目黑品牌复兴之作，233cc风冷单缸，比W230更精致的轻量复古车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Revives the Meguro motorcycle marque of Meguro Seisakusho, whose name came from its Tokyo location.",
+            "zh-CN": "Meguro 承自目黑制作所的摩托车品牌名；“目黑”与其东京工厂一带的地名有关。",
+            "zh-TW": "Meguro 承自目黑製作所的摩托車品牌名；「目黑」與其東京工廠一帶的地名有關。",
+            "ja": "目黒製作所の二輪ブランド名を復活。社名は東京・目黒の工場周辺の地名に由来。"
+          },
+          "source_language": "ja",
+          "source_title": "MEGURO(メグロ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5888",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-1000sx",
@@ -17168,7 +18008,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "公升级四缸运动旅行，电子巡航+快排+加热把手，长途神器",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-1100sx",
@@ -17185,7 +18037,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "川崎2025年全新运动旅行车，1099cc直列四缸，取代Ninja 1000SX，2026款更新配色",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-250-400",
@@ -17202,7 +18066,19 @@
         "status": "current",
         "years": "2008–present",
         "note": "入门仿赛霸主，2018年升级Ninja400，赛事表现优异，销售冠军",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-500",
@@ -17219,7 +18095,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "Ninja 400换代升级，451cc并列双缸，TFT仪表，入门跑车新标杆",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-650",
@@ -17236,7 +18124,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "Z650同平台双缸跑车，全整流罩，舒适骑姿兼顾运动与旅行",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-7-hybrid",
@@ -17253,7 +18153,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "川崎首款高性能混合动力摩托车，451cc并列双缸+48V电机，2025年登陆美国市场",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-h2-h2r",
@@ -17270,7 +18182,19 @@
         "status": "current",
         "years": "2015–present",
         "note": "量产首台机械增压摩托，H2街道版231ps，H2R赛道版310ps，碳纤维外壳",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-zx-14r",
@@ -17287,7 +18211,19 @@
         "status": "discontinued",
         "years": "2012–2023",
         "note": "1441cc四缸超高速旗舰，曾是最快量产摩托之一，极速超300km/h",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-zx-25r",
@@ -17304,7 +18240,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "249cc直列四缸高转小排量仿赛，转速可达17000rpm，亚洲市场专属",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:ninja-zx-4rr",
@@ -17321,7 +18269,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "399cc直列四缸高转仿赛，转速可达15000rpm，400cc四缸复活之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:s1-s2-s3",
@@ -17372,7 +18332,19 @@
         "status": "current",
         "years": "2007–present",
         "note": "多功能探险车，双缸/四缸双平台，17寸公路取向，城市+长途皆宜",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "A coined name combining Vertex, meaning “apex,” and System.",
+            "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+            "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+            "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+          },
+          "source_language": "ja",
+          "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:versys-1100",
@@ -17389,7 +18361,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "川崎2025年全新公升级ADV，1099cc直列四缸，取代Versys 1000，SE版配电子控制悬挂",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "A coined name combining Vertex, meaning “apex,” and System.",
+            "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+            "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+            "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+          },
+          "source_language": "ja",
+          "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:versys-x-300",
@@ -17406,7 +18390,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "296cc并列双缸入门ADV，配边箱支架，低扭平顺，新手长途利器",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "A coined name combining Vertex, meaning “apex,” and System.",
+            "zh-CN": "由 Vertex（顶点）与 System 组合而成。",
+            "zh-TW": "由 Vertex（頂點）與 System 組合而成。",
+            "ja": "頂点を意味する「Vertex」と「System」を組み合わせた造語。"
+          },
+          "source_language": "ja",
+          "source_title": "VERSYS(ベルシス)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5889",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan",
@@ -17423,7 +18419,19 @@
         "status": "current",
         "years": "2015–present",
         "note": "美式巡航系列，Vulcan S 650cc并列双缸（EN650），900/1700 V缸大巡航",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-1500-1600-2000",
@@ -17440,7 +18448,19 @@
         "status": "discontinued",
         "years": "1987–2010",
         "note": "V缸大巡航，VN1500于1987年推出，2002年VN1600接棒，2003年旗舰VN2000以2053cc登场",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-1700",
@@ -17457,7 +18477,19 @@
         "status": "discontinued",
         "years": "2009–2016",
         "note": "1700cc V型双缸大巡航，含经典/旅行/定制版，VN2000后继，川崎末代V缸大排量巡航",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-750-800",
@@ -17474,7 +18506,19 @@
         "status": "discontinued",
         "years": "1986–2006",
         "note": "美式巡航，VN750于1986年推出轴传动V缸，VN800于1995年加入，川崎巡航车中坚力量",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-drifter-1500",
@@ -17491,7 +18535,19 @@
         "status": "discontinued",
         "years": "1999–2003",
         "note": "1470cc V型双缸大排量复古巡航，Drifter 800的大哥级，Indian Scout复古风格，美式巡航复古潮流代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-drifter-800",
@@ -17508,7 +18564,19 @@
         "status": "discontinued",
         "years": "1999–2001",
         "note": "805cc V型双缸复古巡航，致敬1940年代Indian Scout风格，全车镀铬+复古大灯，情怀之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:vulcan-mean-streak",
@@ -17525,7 +18593,19 @@
         "status": "discontinued",
         "years": "2002–2008",
         "note": "Vulcan 1500/1600为基础的运动巡航车，V缸大排量+运动化悬挂/刹车/轮胎，美式性能巡航先驱",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Vulcan refers to a fire deity in mythology.",
+            "zh-CN": "Vulcan 指神话中的火神。",
+            "zh-TW": "Vulcan 指神話中的火神。",
+            "ja": "Vulcanは神話などに登場する火の神を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "VULCAN(バルカン)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/3885",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:w1",
@@ -17627,7 +18707,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "全球量产唯一机械增压街车，998cc增压200ps，Z系列旗舰",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1",
@@ -17644,7 +18736,19 @@
         "status": "discontinued",
         "years": "1972–1976",
         "note": "903cc风冷四缸，1972年问世震惊世界，日系四缸街车始祖，传奇Z系列起点",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1000-2003",
@@ -17661,7 +18765,19 @@
         "status": "discontinued",
         "years": "2003–2020",
         "note": "953cc水冷四缸现代街车，2003年以Z1000之名复活，2014年大改款激进设计，2020年Z900接替，Z家族现代旗舰",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1000-mkii",
@@ -17678,7 +18794,19 @@
         "status": "discontinued",
         "years": "1977–1979",
         "note": "Z1000的改进版，1015cc风冷四缸，强化曲轴和变速箱，Z1/Z1000系列的终极进化",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1000-z1r",
@@ -17695,7 +18823,19 @@
         "status": "discontinued",
         "years": "1977–1981",
         "note": "Z1后继，1015cc风冷四缸，1978年推出带小整流罩的Z1-R运动版，川崎公升级街车经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the Z-series names in this combined record, Z symbolizes the ultimate as the alphabet’s final letter.",
+            "zh-CN": "此聚合记录中的 Z 系列名称：Z 是字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "此聚合記錄中的 Z 系列名稱：Z 是字母表最後一個字母，寓意「終極」。",
+            "ja": "この統合レコードのZ系名称について説明。Zはアルファベットの最後の文字で、究極を意味する。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1000r-eddie-lawson",
@@ -17712,7 +18852,19 @@
         "status": "discontinued",
         "years": "1984–1986",
         "note": "Eddie Lawson冠军纪念版，998cc风冷四缸，蓝色车身+荧光绿拉花，双圆灯设计，极具收藏价值",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1100",
@@ -17729,7 +18881,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "川崎2026年全新公升级街车，1099cc直列四缸，基于Ninja 1100SX平台，2025年9月发布",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1100-1981",
@@ -17746,7 +18910,19 @@
         "status": "discontinued",
         "years": "1981–1984",
         "note": "1089cc风冷四缸，Z系列最大排量风冷车型，SE版配双前碟刹+铸轮，Z1/Z1000血统的排量巅峰",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z1100gp",
@@ -17763,7 +18939,19 @@
         "status": "discontinued",
         "years": "1983–1985",
         "note": "Z1100的运动版，1089cc风冷四缸，配小风挡和更运动化的悬挂，GPz系列的先驱",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z125-pro",
@@ -17780,7 +18968,19 @@
         "status": "current",
         "years": "2016–present",
         "note": "125cc迷你街车，与Grom同级竞争，12寸小轮，改装玩乐属性强",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z2-750rs",
@@ -17797,7 +18997,19 @@
         "status": "discontinued",
         "years": "1973–1975",
         "note": "日本本土专属Z系列，738cc风冷四缸，Z1的日本国内版，因法规限制排量降至750cc，日版Z系列传奇之始",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z250-z400",
@@ -17814,7 +19026,19 @@
         "status": "current",
         "years": "2013–present",
         "note": "川崎小排量双缸街车，Z家族设计语言，2019年升级399cc Z400",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z300",
@@ -17831,7 +19055,19 @@
         "status": "discontinued",
         "years": "2015–2018",
         "note": "296cc并列双缸小排量街车，Ninja 300同平台，Z250的排量升级版，Z家族入门级",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z400-z500",
@@ -17848,7 +19084,19 @@
         "status": "discontinued",
         "years": "1979–1983",
         "note": "398cc/498cc风冷四缸街车，1979年推出，Z系列中小排量代表，四缸小型化的启蒙之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z500",
@@ -17865,7 +19113,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "Ninja 500同平台街车版，451cc双缸，Z家族设计语言，新手友好",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z650",
@@ -17882,7 +19142,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "649cc并列双缸，Z系列中流砥柱，2020年大改款电子油门+TFT仪表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z650-1976",
@@ -17899,7 +19171,19 @@
         "status": "discontinued",
         "years": "1976–1983",
         "note": "652cc风冷四缸街车，1976年问世，Z系列中排量始祖，轻快灵活的畅销经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z7-hybrid",
@@ -17916,7 +19200,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "Ninja 7 Hybrid街车版，451cc双缸+48V电机，e-Boost电子增压功能",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z750-1977",
@@ -17933,7 +19229,19 @@
         "status": "discontinued",
         "years": "1977–1981",
         "note": "738cc风冷四缸街车，1977年推出，Z系列750级别奠基之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z800",
@@ -17950,7 +19258,19 @@
         "status": "discontinued",
         "years": "2013–2017",
         "note": "806cc水冷四缸街车，Z750的后继者，Z900的前身，凶悍的Z家族设计语言开山之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z900",
@@ -17967,7 +19287,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "948cc直列四缸，Z系列四缸主力，性价比公升以下最强音",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:z900rs",
@@ -17984,7 +19316,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "致敬1972年Z1的复古街车，948cc四缸，Cafe版配猪头罩，经典与现代结合",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Z, the alphabet’s final letter, symbolizes the ultimate.",
+            "zh-CN": "Z 取字母表最后一个字母，寓意“终极”。",
+            "zh-TW": "Z 取字母表最後一個字母，寓意「終極」。",
+            "ja": "アルファベットの最後の文字「Z」に、究極の意味を込めた名前。"
+          },
+          "source_language": "ja",
+          "source_title": "Z(ゼット)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5892",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zephyr",
@@ -18001,7 +19345,19 @@
         "status": "discontinued",
         "years": "1989–2005",
         "note": "1989年Zephyr 400率先问世，掀起日本复古街车热潮，风冷四缸血统，ZRX前身，Zephyr 400延续至2005年",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For this combined record’s Zephyr models, the name refers to Zephyros, the Greek god of the west wind, evoking a gentle breeze.",
+            "zh-CN": "此聚合记录中的 Zephyr 车型：名称源自希腊神话西风神 Zephyros，意象为轻柔的风。",
+            "zh-TW": "此聚合記錄中的 Zephyr 車型：名稱源自希臘神話西風神 Zephyros，意象為輕柔的風。",
+            "ja": "この統合レコードのZephyr各車について説明。ギリシャ神話の西風神Zephyrosに由来し、そよ風をイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "ZEPHYR(ゼファー)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/4595",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zrx1100-zrx1200",
@@ -18086,7 +19442,19 @@
         "status": "discontinued",
         "years": "2000–2006",
         "note": "1199cc水冷四缸旗舰，2000年推出，单体车架，极速直逼300km/h，与铃木隼争锋的巅峰之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zx-14",
@@ -18103,7 +19471,19 @@
         "status": "discontinued",
         "years": "2006–2011",
         "note": "1352cc水冷四缸超高速旗舰，接替ZX-12R，2006年推出，2012年升级为ZX-14R（1441cc）",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zx-6r-636",
@@ -18137,7 +19517,19 @@
         "status": "discontinued",
         "years": "1988–2003",
         "note": "748cc水冷四缸仿赛，1988年ZXR750首发，北美市场称Ninja ZX-7，1996年进化ZX-7R延续至2003年",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zx-9r",
@@ -18154,7 +19546,19 @@
         "status": "discontinued",
         "years": "1994–2003",
         "note": "899cc水冷四缸仿赛，1994年推出，2003年停产前长期担任川崎当家超跑",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the GPZ900R’s North American launch, Kawasaki chose Ninja to evoke a swift, elusive image.",
+            "zh-CN": "GPZ900R 面向北美上市时，川崎采用 Ninja，取其迅捷、隐匿的忍者形象。",
+            "zh-TW": "GPZ900R 面向北美上市時，川崎採用 Ninja，取其迅捷、隱匿的忍者形象。",
+            "ja": "GPZ900Rの北米展開時、素早く姿を隠す忍者のイメージからNinjaを採用。"
+          },
+          "source_language": "ja",
+          "source_title": "Ninja(ニンジャ)の名前の由来は何ですか。",
+          "source_url": "https://faq.kawasaki-motors.com/faq/show/5891",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:kawasaki:zxr400",
@@ -18698,7 +20102,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "998cc直列四缸，208马力，带气动翼设计的高性能运动街车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+            "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+            "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+            "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "MV Agusta Brutale",
+          "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:mv-agusta:brutale-750-s",
@@ -18715,7 +20131,19 @@
         "status": "discontinued",
         "years": "2002–2006",
         "note": "F4为基础的749.5cc四缸运动街车，Brutale系列开山之作，标志性四出排气，开启MV街车新篇章",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+            "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+            "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+            "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "MV Agusta Brutale",
+          "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:mv-agusta:brutale-910",
@@ -18732,7 +20160,19 @@
         "status": "discontinued",
         "years": "2006–2008",
         "note": "910cc四缸运动街车，Brutale系列第二代，兼具暴力性能与艺术美感",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+            "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+            "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+            "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+          },
+          "source_language": "en",
+          "source_title": "MV Agusta Brutale",
+          "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:mv-agusta:dragster-800",
@@ -19684,7 +21124,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "1042cc横置V缸，V100同平台探险车，2024年上市，越野与公路兼顾",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Moto Guzzi says Stelvio honors the famous Italian Alpine pass, known to motorcyclists for its 48 bends.",
+            "zh-CN": "Moto Guzzi 说明，Stelvio 取名致敬意大利著名的斯泰尔维奥山口；那里的 48 个弯道深受骑士熟知。",
+            "zh-TW": "Moto Guzzi說明，Stelvio取名致敬義大利著名的斯泰爾維奧山口；當地的48個彎道深受騎士熟知。",
+            "ja": "Moto Guzziによると、Stelvioは有名なイタリアのステルヴィオ峠にちなむ名で、48のカーブで知られています。"
+          },
+          "source_language": "en",
+          "source_title": "Moto Guzzi Stelvio: Crossover Tourer Motorcycle",
+          "source_url": "https://www.motoguzzi.com/gb_EN/models/stelvio/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:moto-guzzi:stornello",
@@ -19871,7 +21323,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "853cc横置V缸，中量级探险车，致敬1985年V65 TT拉力赛车，鸟嘴设计",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Moto Guzzi presents V85 TT as the original “all-terrain” V85; the official Italian description calls it “tuttoterreno.”",
+            "zh-CN": "Moto Guzzi 将 V85 TT 称为原初的“全地形”V85；官方意大利语介绍用词为 “tuttoterreno”。",
+            "zh-TW": "Moto Guzzi將V85 TT稱為原初的「全地形」V85；官方義大利語介紹用詞為「tuttoterreno」。",
+            "ja": "Moto GuzziはV85 TTを「オールテレーン」のV85と紹介し、イタリア語公式説明では「tuttoterreno」と表現しています。"
+          },
+          "source_language": "en",
+          "source_title": "New Moto Guzzi V85 Range",
+          "source_url": "https://www.motoguzzi.com/en_EN/moto-guzzi-world/news-moto-guzzi/new-v85/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:moto-guzzi:v850-california",
@@ -21741,7 +23205,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "2024年发布的Scrambler车型，648cc并列双缸47马力，倒置前叉配19寸前轮",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Royal Enfield links the Bear 650’s name and character to the 1960 Big Bear Run story.",
+            "zh-CN": "Royal Enfield 将 Bear 650 的名称意象联系到 1960 年 Big Bear Run 赛事故事。",
+            "zh-TW": "Royal Enfield 將 Bear 650 的名稱意象連結至 1960 年 Big Bear Run 賽事故事。",
+            "ja": "Royal EnfieldはBear 650の名称と個性を、1960年のBig Bear Runの物語に結び付けている。"
+          },
+          "source_language": "en",
+          "source_title": "Bear 650 — In Gut We Trust",
+          "source_url": "https://www.royalenfield.com/in/en/motorcycles/in-gut-we-trust/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:bullet-350",
@@ -21860,7 +23336,19 @@
         "status": "discontinued",
         "years": "2013–2018",
         "note": "RE现代咖啡赛车先驱，535cc单缸UCE，2018年停产，为650双缸GT让路",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Continental GT 535 continues the name and lineage of the original Continental GT 250.",
+            "zh-CN": "Continental GT 535 延续了初代 Continental GT 250 的名称与车型谱系。",
+            "zh-TW": "Continental GT 535 延續了初代 Continental GT 250 的名稱與車系脈絡。",
+            "ja": "Continental GT 535は、初代Continental GT 250の名称と系譜を受け継ぐ。"
+          },
+          "source_language": "en",
+          "source_title": "Continental GT 650 Motorcycle Digital Guide",
+          "source_url": "https://www.royalenfield.com/in/en/support/digital-quickstart/continental-gt/landing/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:continental-gt-650",
@@ -21877,7 +23365,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "Interceptor 650同平台咖啡赛车，分离把，驼峰单座，油箱条纹涂装，现代Cafe Racer代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Continental GT 650 continues the original Continental GT 250 name through the GT 535.",
+            "zh-CN": "Continental GT 650 经由 GT 535，延续了初代 Continental GT 250 的名称。",
+            "zh-TW": "Continental GT 650 經由 GT 535，延續了初代 Continental GT 250 的名稱。",
+            "ja": "Continental GT 650はGT 535を経て、初代Continental GT 250の名を受け継ぐ。"
+          },
+          "source_language": "en",
+          "source_title": "Continental GT 650 Motorcycle Digital Guide",
+          "source_url": "https://www.royalenfield.com/in/en/support/digital-quickstart/continental-gt/landing/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:goan-classic-350",
@@ -21894,7 +23394,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "2025年全新Bobber风格车型，349cc J平台单缸，灵感源自印度果阿定制机车文化",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Goan” refers to Goa; the model pays tribute to the region’s 1970s–80s motorcycle culture.",
+            "zh-CN": "“Goan”指印度果阿；这款车致敬当地 20 世纪 70—80 年代的摩托车文化。",
+            "zh-TW": "「Goan」指印度果阿；這款車致敬當地 20 世紀 70 至 80 年代的機車文化。",
+            "ja": "「Goan」はインドのゴアを指し、1970～80年代の同地のモーターサイクル文化に敬意を表す。"
+          },
+          "source_language": "en",
+          "source_title": "The Royal Enfield Goan Classic 350 — a tribute to seventies Goan moto-culture",
+          "source_url": "https://www.royalenfield.com/in/en/our-world/media/press-releases/product-launches/the-royal-enfield-goan-classic-350/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:guerrilla-450",
@@ -21928,7 +23440,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "2023年全新换代，452cc液冷单缸40马力，21/17寸轮，以喜马拉雅山命名的探险车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Himalayas, the mountains Royal Enfield calls home.",
+            "zh-CN": "名称取自喜马拉雅山脉；官方称其为 Royal Enfield 的故乡山脉。",
+            "zh-TW": "名稱取自喜馬拉雅山脈；官方稱其為 Royal Enfield 的故鄉山脈。",
+            "ja": "Royal Enfieldが故郷と呼ぶ山々、ヒマラヤにちなんだ名称。"
+          },
+          "source_language": "en",
+          "source_title": "Royal Enfield expands footprint in APAC, enters South Korea",
+          "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/news/international/south-korea/korea-launch-press-release.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:himalayan-old",
@@ -21945,7 +23469,19 @@
         "status": "discontinued",
         "years": "2016–2023",
         "note": "老款喜马拉雅，411cc油冷单缸LS410发动机，ADV入门性价比之选，已被450取代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Himalayas, the mountains Royal Enfield calls home.",
+            "zh-CN": "名称取自喜马拉雅山脉；官方称其为 Royal Enfield 的故乡山脉。",
+            "zh-TW": "名稱取自喜馬拉雅山脈；官方稱其為 Royal Enfield 的故鄉山脈。",
+            "ja": "Royal Enfieldが故郷と呼ぶ山々、ヒマラヤにちなんだ名称。"
+          },
+          "source_language": "en",
+          "source_title": "Royal Enfield expands footprint in APAC, enters South Korea",
+          "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/news/international/south-korea/korea-launch-press-release.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:hunter-350",
@@ -21979,7 +23515,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "RE双缸时代开山之作，648cc并列双缸47马力，复古街车造型，性价比极高",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Interceptor 650 is named after a historic Royal Enfield model.",
+            "zh-CN": "Interceptor 650 沿用一款 Royal Enfield 历史车型的名称。",
+            "zh-TW": "Interceptor 650 沿用一款 Royal Enfield 歷史車型的名稱。",
+            "ja": "Interceptor 650は、Royal Enfieldの歴史的モデルの名を受け継ぐ。"
+          },
+          "source_language": "en",
+          "source_title": "Launch of the Interceptor INT 650 and Continental GT 650",
+          "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/Media-Section/Press-Release/Press-Release-Launch-of-Interceptor-INT-650-Continental-GT-650.pdf",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:meteor-350",
@@ -21996,7 +23544,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "入门巡航车，349cc单缸J平台，低坐高，脚前伸骑姿，Tripper导航模块首创",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Meteor 350 revives the name of Royal Enfield’s 1950s Meteor touring motorcycle.",
+            "zh-CN": "Meteor 350 沿用 Royal Enfield 于 1950 年代推出的 Meteor 旅行摩托车之名。",
+            "zh-TW": "Meteor 350 沿用 Royal Enfield 於 1950 年代推出的 Meteor 旅行機車之名。",
+            "ja": "Meteor 350は、1950年代のRoyal Enfield製ツーリングモデル「Meteor」の名を受け継ぐ。"
+          },
+          "source_language": "en",
+          "source_title": "Royal Enfield launches the all-new easy cruiser, the Meteor 350",
+          "source_url": "https://www.royalenfield.com/uk/en/our-world/media/news/product-launches/meteor-launch/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:scram-411",
@@ -22081,7 +23641,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "RE旗舰巡航，648cc并列双缸47马力，美式复古巡航风格，USD前叉，LED灯具",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The name revives Royal Enfield’s 1956 Super Meteor, a historic cruiser.",
+            "zh-CN": "名称承袭 Royal Enfield 于 1956 年推出的经典巡航车 Super Meteor。",
+            "zh-TW": "名稱承襲 Royal Enfield 於 1956 年推出的經典巡航車 Super Meteor。",
+            "ja": "名称は、1956年登場のRoyal Enfield製クルーザー「Super Meteor」を受け継ぐ。"
+          },
+          "source_language": "en",
+          "source_title": "Meteoric — 1952",
+          "source_url": "https://www.royalenfield.com/in/en/120-years-of-royal-enfield/1952-meteoric/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:royal-enfield:thunderbird-350",
@@ -22795,7 +24367,19 @@
         "status": "current",
         "years": "1992–present",
         "note": "日系通勤踏板代表，50/110/125cc多排量，日本本土畅销省油",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the Address name only: a blend of “add” and “dress,” evoking room for clothes and personal style.",
+            "zh-CN": "此合并记录仅解释 Address：由 add + dress 组合，寓意收纳衣物、随处展现风格。",
+            "zh-TW": "此合併記錄僅解釋 Address：由 add + dress 組合，寓意收納衣物、隨處展現風格。",
+            "ja": "この統合レコードではAddressのみを説明。add＋dressの造語で、衣類を収納し装うイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:avenis-125",
@@ -22812,7 +24396,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "124cc单缸运动风格通勤踏板，印度市场开发，油耗低配置全",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "A blend of “avenue” and “street,” for a scooter that moves freely around the city.",
+            "zh-CN": "由 Avenue（大道）与 Street（街道）组合，寓意自在穿行城市。",
+            "zh-TW": "由 Avenue（大道）與 Street（街道）組合，寓意自在穿行城市。",
+            "ja": "AVENUE（大通り）とSTREET（街路）を組み合わせ、街を自在に移動するイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:bandit",
@@ -22829,7 +24425,19 @@
         "status": "discontinued",
         "years": "1989–2016",
         "note": "GSX发动机街车化，250/400/600/650/1200/1250各排量，性价比街车代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Bandit” means a bandit or outlaw.",
+            "zh-CN": "Bandit 意为“山贼、无赖汉”。",
+            "zh-TW": "Bandit 意為「山賊、無賴漢」。",
+            "ja": "「山賊、無頼漢」という意味。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:boulevard-intruder",
@@ -22846,7 +24454,19 @@
         "status": "current",
         "years": "1985–present",
         "note": "美式V缸巡航系列，M50/M90/M109R各排量，大排量肌肉巡航代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "This combined record covers both names: Intruder (“one who enters”) and Boulevard (“main street”).",
+            "zh-CN": "此合并记录含两个名称：Intruder 意为“闯入者”；Boulevard 意为“大道”。",
+            "zh-TW": "此合併記錄含兩個名稱：Intruder 意為「闖入者」；Boulevard 意為「大道」。",
+            "ja": "この統合レコードには2名称を記載。Intruderは「侵入者」、Boulevardは「大通り」の意味。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:burgman",
@@ -22863,7 +24483,19 @@
         "status": "current",
         "years": "1998–present",
         "note": "大踏板先驱，650Executive配电动风挡+CVT手动模式，商务舒适取向",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Burgman” suggests an urban man, matching a stylish city scooter.",
+            "zh-CN": "意为“都市中的男人”，呼应适合城市使用的时尚踏板车。",
+            "zh-TW": "意為「都市中的男人」，呼應適合城市使用的時尚速克達。",
+            "ja": "「都会の男」の意味。街で使うスタイリッシュなスクーターをイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:choinori",
@@ -22880,7 +24512,19 @@
         "status": "discontinued",
         "years": "2003–2008",
         "note": "49cc单缸廉价通勤踏板，售价仅约10万日元，极简设计极低油耗，日本本土话题车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "From the Japanese “choi-nori,” meaning a casual, short ride nearby.",
+            "zh-CN": "来自日语“ちょい乗り”，意为轻松骑一小段路。",
+            "zh-TW": "來自日語「ちょい乗り」，意為輕鬆騎一小段路。",
+            "ja": "近距離を気軽に移動する「ちょい乗り」から。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:colleda-co",
@@ -22897,7 +24541,19 @@
         "status": "discontinued",
         "years": "1954–1955",
         "note": "1954年问世，90cc二冲程单缸，Colleda（コレダ）系列开山之作，铃木正式进军摩托车的标志",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Colleda” is a coined form of the Japanese phrase “kore da” — “this is the one.”",
+            "zh-CN": "Colleda 是日语“これだ”（就是这个）的造词写法。",
+            "zh-TW": "Colleda 是日語「これだ」（就是這個）的造詞寫法。",
+            "ja": "初代コレダは「これだ」という意味を込めて命名。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:colleda-st",
@@ -22914,7 +24570,19 @@
         "status": "discontinued",
         "years": "1955–1959",
         "note": "1955年首发90cc二冲程，ST1至ST6A多代演进，1950年代铃木主力车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Colleda” is a coined form of the Japanese phrase “kore da” — “this is the one.”",
+            "zh-CN": "Colleda 是日语“これだ”（就是这个）的造词写法。",
+            "zh-TW": "Colleda 是日語「これだ」（就是這個）的造詞寫法。",
+            "ja": "初代コレダは「これだ」という意味を込めて命名。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:djebel-250",
@@ -22931,7 +24599,19 @@
         "status": "discontinued",
         "years": "1992–1999",
         "note": "249cc水冷单缸林道两用车，沙丘越野风格设计，DR系列衍生经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Djebel means a mountain range, small mountain, or hill; its root is Arabic “jabal.”",
+            "zh-CN": "Djebel 指山脉、小山或丘，词源为阿拉伯语 Jabal。",
+            "zh-TW": "Djebel 指山脈、小山或丘，詞源為阿拉伯語 Jabal。",
+            "ja": "主に北アフリカで「山脈・小山・丘」の意味。語源はアラビア語JABAL。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:dr-z125",
@@ -23237,7 +24917,19 @@
         "status": "current",
         "years": "2014–present",
         "note": "印度市场开发，150/250cc单缸/双缸，街车版Gixxer+SF跑版，性价比高",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Gixxer” grew from an overseas nickname for Suzuki’s GSX sport bikes.",
+            "zh-CN": "GIXXER 源自海外对铃木 GSX 大型运动摩托的称呼，后成为广泛使用的昵称。",
+            "zh-TW": "GIXXER 源自海外對鈴木 GSX 大型運動摩托的稱呼，後成為廣泛使用的暱稱。",
+            "ja": "海外でGSXを「ジクサー」と呼ぶ愛称から。そのDNAを受け継ぐ名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gn125",
@@ -23696,7 +25388,19 @@
         "status": "discontinued",
         "years": "1981–1985",
         "note": "1074cc风冷四缸，1980年代经典刀锋造型，日系摩托车设计里程碑",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+            "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+            "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+            "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gsx1400",
@@ -23747,7 +25451,19 @@
         "status": "discontinued",
         "years": "1991–1994",
         "note": "249cc水冷四冲程双缸，KATANA家族小排量成员，全整流罩刀锋造型，日本本土限定",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+            "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+            "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+            "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gsx400-impulse",
@@ -23764,7 +25480,19 @@
         "status": "discontinued",
         "years": "1982–1994",
         "note": "398cc四冲程仿赛，搭载GSX-R400同源发动机，被誉为平民法赛的经典名号",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Impulse” means a sudden impact; the original model stood out with then-unusual equipment.",
+            "zh-CN": "Impulse 意为“冲击”，呼应初代车型当时少见的设计。",
+            "zh-TW": "Impulse 意為「衝擊」，呼應初代車型當時少見的設計。",
+            "ja": "「衝撃」の意味。当時珍しい集合マフラーやセパレートハンドルを備えた初代を表す。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gsx400e",
@@ -23798,7 +25526,19 @@
         "status": "discontinued",
         "years": "1988–1996",
         "note": "599cc水冷四冲程四缸，Katana家族全整流罩运动旅行车，中量级四缸高转利器",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+            "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+            "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+            "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gsx750",
@@ -23832,7 +25572,19 @@
         "status": "discontinued",
         "years": "1989–1997",
         "note": "748cc水冷四冲程四缸，GSX600F的大排量版，Katana刀锋造型运动旅行车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+            "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+            "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+            "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:gt125",
@@ -23968,7 +25720,19 @@
         "status": "current",
         "years": "1999–present",
         "note": "陆地速度之王，1340cc四缸，时速突破300km/h，2021年第三代大改款",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Hayabusa” is the peregrine falcon, whose effortless high speed fit Suzuki’s “Ultimate Sport” concept.",
+            "zh-CN": "Hayabusa 即“隼”；其轻松高速飞行的特性契合铃木的 Ultimate Sport 概念。",
+            "zh-TW": "Hayabusa 即「隼」；其輕鬆高速飛行的特性契合鈴木的 Ultimate Sport 概念。",
+            "ja": "隼の飛行特性が、スズキの考える「Ultimate Sport」のコンセプトに合致した。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:inazuma",
@@ -23985,7 +25749,19 @@
         "status": "discontinued",
         "years": "1997–2001",
         "note": "398cc水冷四冲程四缸街车，GSF400继承者，圆润车身加四缸声浪，90年代日系街车经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Japanese for “lightning,” evoking power and presence.",
+            "zh-CN": "日语意为“闪电”，取其力量感与气势。",
+            "zh-TW": "日語意為「閃電」，取其力量感與氣勢。",
+            "ja": "「稲妻」の意味。力強さと迫力をイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:katana",
@@ -24002,7 +25778,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "1980年代经典Katana复刻，GSX-S1000同平台四缸，复古外观现代内核",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Japanese sword’s blend of strength, sharpness, and functional beauty.",
+            "zh-CN": "取意于日本刀兼具刚柔、锋利与功能美的设计。",
+            "zh-TW": "取意於日本刀兼具剛柔、鋒利與功能美的設計。",
+            "ja": "刀の剛柔性、鋭さ、完成された機能美を車体に表現した名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:ls650-savage",
@@ -24019,7 +25807,19 @@
         "status": "discontinued",
         "years": "1986–2004",
         "note": "652cc风冷单缸巡航车，S40 Boulevard，结构简单，皮带传动，入门巡航经典，超长生命周期",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Savage” means fierce or wild, evoking the vitality of a wild animal.",
+            "zh-CN": "Savage 意为“凶猛、野性”，取意于野兽般的生命力。",
+            "zh-TW": "Savage 意為「兇猛、野性」，取意於野獸般的生命力。",
+            "ja": "「獰猛な」という意味。野生の獣のような生命感をイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:m109r-boulevard",
@@ -24036,7 +25836,19 @@
         "status": "current",
         "years": "2006–present",
         "note": "1783cc V型双缸肌肉巡航车，铃木最大排量巡航，粗犷美式风格，超强扭矩",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Boulevard” means a broad avenue, matching the urban image of this cruiser.",
+            "zh-CN": "Boulevard 意为“大道”，呼应这类车型的都会气质。",
+            "zh-TW": "Boulevard 意為「大道」，呼應此類車型的都會氣質。",
+            "ja": "「大通り」の意味。都会的で新しいコンセプトのクルーザーに合う名前。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:power-free",
@@ -24138,7 +25950,19 @@
         "status": "discontinued",
         "years": "1985–1988",
         "note": "398cc二冲程V型四缸仿赛，RG500的400cc本土限定版，水冷两冲巅峰之作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“RG” stands for “Racer of Grand Prix”; Gamma’s initial evokes glory and victory.",
+            "zh-CN": "RG 是 Racer of Grand Prix 的缩写；Gamma 取自表示“荣耀”的希腊语词首字母。",
+            "zh-TW": "RG 是 Racer of Grand Prix 的縮寫；Gamma 取自表示「榮耀」的希臘語詞首字母。",
+            "ja": "RGはRacer of Grand Prixの略。γは「栄光」を意味するギリシャ語の頭文字。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:rg500",
@@ -24597,7 +26421,19 @@
         "status": "discontinued",
         "years": "1971–1977",
         "note": "183cc二冲程单缸林道两用车，Hustler越野系列中坚，70年代越野热潮经典车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Hustler” means a gambler.",
+            "zh-CN": "Hustler 意为“赌徒”。",
+            "zh-TW": "Hustler 意為「賭徒」。",
+            "ja": "「ギャンブラー」という意味。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:ts250",
@@ -24682,7 +26518,19 @@
         "status": "current",
         "years": "2004–present",
         "note": "V缸ADV系列（250为并列双缸），性价比之选，长途舒适耐造",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“V” comes from “Versatile”; German “Strom” means a current or flow.",
+            "zh-CN": "V 取自 Versatile（多用途）；德语 Strom 意为“流、流水”。",
+            "zh-TW": "V 取自 Versatile（多用途）；德語 Strom 意為「流、流水」。",
+            "ja": "VはVersatile（多用途）、Stromはドイツ語で「流れ」。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:v-strom-800de",
@@ -24699,7 +26547,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "全新776cc并列双缸ADV，21寸前轮越野取向，Gravel碎石模式电子辅助",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“V” comes from “Versatile”; German “Strom” means a current or flow.",
+            "zh-CN": "V 取自 Versatile（多用途）；德语 Strom 意为“流、流水”。",
+            "zh-TW": "V 取自 Versatile（多用途）；德語 Strom 意為「流、流水」。",
+            "ja": "VはVersatile（多用途）、Stromはドイツ語で「流れ」。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:vanvan-200",
@@ -24716,7 +26576,19 @@
         "status": "current",
         "years": "2002–present",
         "note": "199cc单缸+超宽胖胎，复古休闲造型，沙滩越野通勤皆可玩",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The original VanVan name suggested riding “brrm-brrm” over rough ground, anywhere.",
+            "zh-CN": "初代因能通过崎岖路面，以“到处都能尽情骑行”之意命名。",
+            "zh-TW": "初代因能通過崎嶇路面，以「到處都能盡情騎乘」之意命名。",
+            "ja": "不整地でもどこでも走れるという初代のイメージから名付けられた。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:vs1400-intruder",
@@ -24733,7 +26605,19 @@
         "status": "discontinued",
         "years": "1987–2004",
         "note": "1360cc V型双缸大型巡航车，Intruder旗舰，粗犷美式风格，扭矩浑厚",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+            "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+            "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+            "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:vs750-intruder",
@@ -24750,7 +26634,19 @@
         "status": "discontinued",
         "years": "1985–1992",
         "note": "747cc V型双缸巡航车，Intruder系列元祖车型，美式巡航风潮代表作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+            "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+            "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+            "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:vs800-intruder",
@@ -24767,7 +26663,19 @@
         "status": "discontinued",
         "years": "1992–2004",
         "note": "805cc V型双缸巡航车，VS750的后继车型，九十年代铃木美式巡航代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Intruder” means one who enters; Suzuki linked it to a Japanese cruiser acclaimed in America.",
+            "zh-CN": "Intruder 意为“闯入者”，铃木将其联系到获美国认可的日式美式巡航车。",
+            "zh-TW": "Intruder 意為「闖入者」，鈴木將其聯繫到獲美國認可的日式美式巡航車。",
+            "ja": "「侵入者」の意味。アメリカに認められた日本のアメリカンというイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:vx800",
@@ -24801,7 +26709,19 @@
         "status": "discontinued",
         "years": "1991–1995",
         "note": "124cc/198cc二冲程单缸运动车，两冲时代的平民运动车，90年代初本土畅销",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Wolf” evokes strength and speed.",
+            "zh-CN": "Wolf 意为“狼”，取其力量与速度感。",
+            "zh-TW": "Wolf 意為「狼」，取其力量與速度感。",
+            "ja": "Wolfは「オオカミ」。力強さとスピードをイメージ。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:suzuki:x6-hustler",
@@ -24818,7 +26738,19 @@
         "status": "discontinued",
         "years": "1966–1968",
         "note": "247cc风冷二冲程双缸，1960年代日本二冲程运动车热潮代表作",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Hustler” means a gambler.",
+            "zh-CN": "Hustler 意为“赌徒”。",
+            "zh-TW": "Hustler 意為「賭徒」。",
+            "ja": "「ギャンブラー」という意味。"
+          },
+          "source_language": "ja",
+          "source_title": "スズキ二輪車 車名の由来",
+          "source_url": "https://www.suzuki.co.jp/corporate/faq/motor/name.html",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:tvs:apache-rr-310",
@@ -24852,7 +26784,19 @@
         "status": "current",
         "years": "2011–present",
         "note": "TVS最成功的运动街车系列，159.7cc单缸，名字取自Racing Throttle Response，印度运动通勤标杆",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+            "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+            "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+            "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+          },
+          "source_language": "en",
+          "source_title": "TVS Apache Celebrates its 20th Anniversary",
+          "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:tvs:apache-rtr-200",
@@ -24869,7 +26813,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "Apache系列性能街车，197.75cc单缸油冷4气门，21马力，同级运动性能标杆",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+            "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+            "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+            "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+          },
+          "source_language": "en",
+          "source_title": "TVS Apache Celebrates its 20th Anniversary",
+          "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:tvs:apache-rtr-310",
@@ -24886,7 +26842,19 @@
         "status": "current",
         "years": "2023–present",
         "note": "RTR街车旗舰，312.2cc单缸水冷35马力，TFT仪表，电子快排与巡航控制",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+            "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+            "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+            "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+          },
+          "source_language": "en",
+          "source_title": "TVS Apache Celebrates its 20th Anniversary",
+          "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:tvs:iqube",
@@ -25209,7 +27177,19 @@
         "status": "current",
         "years": "2018–present",
         "note": "1200cc并列双缸，低座巡航造型，复古镀铬细节，英伦巡航车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+            "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+            "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+            "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:bonneville-t100",
@@ -25226,7 +27206,19 @@
         "status": "current",
         "years": "2017–present",
         "note": "900cc并列双缸，经典博纳维尔，双仪表圆灯，英伦复古入门代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+            "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+            "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+            "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:bonneville-t120",
@@ -25243,7 +27235,19 @@
         "status": "current",
         "years": "2016–present",
         "note": "凯旋经典复古标杆，1200cc并列双缸，盐滩赛车命名，英伦风格",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph named Bonneville after Utah’s Bonneville Salt Flats; the T120’s “120” referred to an intended 120 mph top speed for its era.",
+            "zh-CN": "凯旋以犹他州 Bonneville 盐滩命名；T120 中的“120”寓意当时令人惊叹的 120 英里／小时目标极速。",
+            "zh-TW": "凱旋以猶他州 Bonneville 鹽灘命名；T120中的「120」寓意當時令人驚嘆的每小時120英里目標極速。",
+            "ja": "Bonnevilleはユタ州のボンネビル・ソルトフラッツに由来し、T120の「120」は当時の目標最高速120mphを示しました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:bonneville-t120-650",
@@ -25260,7 +27264,19 @@
         "status": "discontinued",
         "years": "1959–1975",
         "note": "凯旋最传奇的650cc双缸，为纪念盐湖城创纪录而命名，曾是007邦德座驾，1969年马恩岛TT大赛首破百英里均速",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+            "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+            "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+            "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:bonneville-t140",
@@ -25277,7 +27293,19 @@
         "status": "discontinued",
         "years": "1973–1983",
         "note": "750cc博纳维尔继任者，Meriden工厂时代的最后经典，工厂关闭后停产",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+            "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+            "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+            "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:daytona-660",
@@ -25294,7 +27322,19 @@
         "status": "current",
         "years": "2024–present",
         "note": "戴通纳系列复活，660cc三缸95马力，Trident同平台，全整流罩仿赛",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+            "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+            "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+            "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:daytona-900",
@@ -25311,7 +27351,19 @@
         "status": "discontinued",
         "years": "1992–1997",
         "note": "885cc三缸运动车，早期Hinckley跑车，高速长途巡航稳健扎实",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+            "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+            "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+            "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:daytona-955i",
@@ -25328,7 +27380,19 @@
         "status": "discontinued",
         "years": "1999–2006",
         "note": "由T595改名而来，955cc三缸，铝合金车架与单摇臂，Hinckley新世代首款真跑车",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+            "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+            "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+            "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:daytona-t100r",
@@ -25345,7 +27409,19 @@
         "status": "discontinued",
         "years": "1966–1974",
         "note": "500cc公路版赛车，为对抗本田Black Bomber而生，实测时速可超110英里",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+            "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+            "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+            "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+          },
+          "source_language": "en",
+          "source_title": "Our Story",
+          "source_url": "https://www.triumphmotorcycles.com/our-story",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:legend-tt",
@@ -25719,7 +27795,19 @@
         "status": "discontinued",
         "years": "1938–1973",
         "note": "500cc运动版双缸，Tiger系列鼻祖，以时速100英里命名，赛场成绩辉煌",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-110",
@@ -25736,7 +27824,19 @@
         "status": "discontinued",
         "years": "1953–1961",
         "note": "649cc运动双缸，凯旋当时最快的量产车，1956年改装车在盐湖城创时速214英里纪录，Bonneville由此命名",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-1200-alpine-desert",
@@ -25753,7 +27853,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "2026款全新特别版，1160cc三缸约150马力，Alpine/Desert两种涂装风格",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-1200-gt-explorer",
@@ -25770,7 +27882,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "1160cc三缸，30L大油箱长途版，GT公路探险旗舰，150马力",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-1200-rally-explorer",
@@ -25787,7 +27911,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "凯旋大探险旗舰，1160cc三缸150马力，21/18寸轮，30升油箱，TFT仪表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-885",
@@ -25804,7 +27940,19 @@
         "status": "discontinued",
         "years": "1993–1998",
         "note": "1993年推出的沙漠赛车风格探险车，复兴时代Tiger系列的开端",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-900-alpine-desert",
@@ -25821,7 +27969,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "2026款全新特别版，888cc三缸，Alpine公路取向/Desert越野取向两种规格",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-900-gt-pro",
@@ -25838,7 +27998,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "888cc三缸，公路取向探险车，19寸铸造前轮，电子悬挂可选",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-900-rally-pro",
@@ -25855,7 +28027,19 @@
         "status": "current",
         "years": "2020–present",
         "note": "Tiger 900系列越野版，888cc三缸，21/18寸辐条轮，全地形轮胎",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-cub",
@@ -25872,7 +28056,19 @@
         "status": "discontinued",
         "years": "1954–1968",
         "note": "200cc单缸轻量车，由Terrier发展而来，销量巨大，至今保有量可观，入门车经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-sport-660",
@@ -25889,7 +28085,19 @@
         "status": "current",
         "years": "2022–present",
         "note": "Trident 660同平台运动探险车，17寸轮，公路取向，大风挡",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tiger-sport-800",
@@ -25906,7 +28114,19 @@
         "status": "current",
         "years": "2025–present",
         "note": "2025年全新车型，798cc三缸，17寸公路轮，公路运动旅行取向",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+            "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+            "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+            "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+          },
+          "source_language": "en",
+          "source_title": "Reasons to Ride the Tiger 900",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:triumph:tr5-trophy",
@@ -26110,7 +28330,19 @@
         "status": "discontinued",
         "years": "1965–1969",
         "note": "1965年推出的小框架125cc运动款，Super定位操控轻巧，欧洲市场热销",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:180-ss",
@@ -26127,7 +28359,19 @@
         "status": "discontinued",
         "years": "1964–1968",
         "note": "1964年推出的Super Sport旗舰，180cc大排量二冲程，极速出众的运动风格车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:cosa-200",
@@ -26144,7 +28388,19 @@
         "status": "discontinued",
         "years": "1988–1995",
         "note": "1988年推出的Cosa系列200cc，全新设计大框架，前液压悬挂与数字仪表，现代化尝试",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:elettrica",
@@ -26178,7 +28434,19 @@
         "status": "discontinued",
         "years": "1997–2005",
         "note": "1997年推出的现代化自动挡50cc二冲程，圆润新潮车身，开启Vespa现代化新纪元",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:et4-125",
@@ -26195,7 +28463,19 @@
         "status": "discontinued",
         "years": "1996–2005",
         "note": "1996年推出的ET系列四冲程125，全自动变速，现代Vespa复兴的开端车型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:gs-150",
@@ -26212,7 +28492,19 @@
         "status": "discontinued",
         "years": "1955–1961",
         "note": "1955年推出的Gran Sport运动款，150cc强化二冲程引擎，长座垫配整流罩车头，运动踏板先驱",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:gs-160",
@@ -26229,7 +28521,19 @@
         "status": "discontinued",
         "years": "1962–1964",
         "note": "1962年推出的GS系列强化版，160cc动力提升，整流罩车头，60年代运动踏板代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:gt-200",
@@ -26246,7 +28550,19 @@
         "status": "discontinued",
         "years": "2003–2008",
         "note": "2003年推出的GT大框架系列，200cc四冲程引擎，12英寸大轮径，主打长途舒适骑行",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:gts-250",
@@ -26263,7 +28579,19 @@
         "status": "discontinued",
         "years": "2005–2010",
         "note": "2005年推出的GTS系列初代，250cc电喷引擎，现代Vespa大踏板旗舰的开端",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:gts-300",
@@ -26314,7 +28642,19 @@
         "status": "discontinued",
         "years": "1978–1982",
         "note": "1978年P系列首代125cc，全新设计语言，方形车头与尾灯，开启P系列时代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:p150x",
@@ -26331,7 +28671,19 @@
         "status": "discontinued",
         "years": "1978–1982",
         "note": "1978年P系列首代150cc，P125X兄弟车型，动力更充沛",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:pk-125",
@@ -26348,7 +28700,19 @@
         "status": "discontinued",
         "years": "1982–1996",
         "note": "1982年推出的PK系列125cc，小框架平台继承者，S/XLS/FL2多代演进，含自动变速版本",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:primavera-125",
@@ -26382,7 +28746,19 @@
         "status": "discontinued",
         "years": "1968–1973",
         "note": "1968年推出的经典小框架125，圆润车身与圆灯造型，全球畅销名车，现代Primavera前身",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:primavera-50",
@@ -26433,7 +28809,19 @@
         "status": "discontinued",
         "years": "1968–1973",
         "note": "1968年推出的运动版，180cc强劲动力，车头下置大灯致敬初代设计，收藏热门",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:sprint-150",
@@ -26467,7 +28855,19 @@
         "status": "discontinued",
         "years": "1965–1979",
         "note": "1965年推出的VLB系列运动款150，经典短尾造型，60-70年代Mod亚文化图腾",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:super-150",
@@ -26484,7 +28884,19 @@
         "status": "discontinued",
         "years": "1965–1969",
         "note": "1965年推出的150cc大框架经典，接替VBB成为主力，现代化车头造型",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:t5",
@@ -26501,7 +28913,19 @@
         "status": "discontinued",
         "years": "1985–1990",
         "note": "1985年推出的P系列高性能125，5扫气口竞赛级引擎，方形运动车头，经典收藏款",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vba-125",
@@ -26518,7 +28942,19 @@
         "status": "discontinued",
         "years": "1953–1957",
         "note": "1953年推出的125cc宽框架车型，大灯移至车把，经典圆润造型，战后大众通勤主力",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vbb-150",
@@ -26535,7 +28971,19 @@
         "status": "discontinued",
         "years": "1957–1965",
         "note": "1957年推出的150cc宽框架车型，动力充沛造型优雅，长销至60年代中期的意大利经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vespa-125",
@@ -26552,7 +29000,19 @@
         "status": "discontinued",
         "years": "1948–1957",
         "note": "1948年推出的125cc版本，首配后轮悬挂与改良前悬，因《罗马假日》电影闻名全球",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vespa-50",
@@ -26569,7 +29029,19 @@
         "status": "discontinued",
         "years": "1963–1971",
         "note": "1963年推出的小框架50cc轻便车型，省油易驾，开启Vespa小排量时代，欧洲通勤经典",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vespa-90",
@@ -26586,7 +29058,19 @@
         "status": "discontinued",
         "years": "1965–1971",
         "note": "1965年推出的小框架90cc轻便车型，与50同平台，经济实用，欧洲青少年热门",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:vespa:vespa-946",
@@ -26620,7 +29104,19 @@
         "status": "discontinued",
         "years": "1946–1948",
         "note": "1946年推出的全球首款Vespa，源自MP6原型，98cc二冲程三速引擎，开创世界踏板车时代",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+            "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+            "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+            "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+          },
+          "source_language": "en",
+          "source_title": "Vespa Primavera",
+          "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:voge:650ds",
@@ -27215,7 +29711,19 @@
         "status": "discontinued",
         "years": "1973–1983",
         "note": "1973年上市的50cc休闲小摩托，圆润龟壳造型，自动挡轻巧易骑，日本家庭用车文化代表",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "“Chappy” came from O-chappi, Japanese slang describing a vivacious young woman.",
+            "zh-CN": "Chappy 取自日语俗语 O-chappi，用来形容活泼开朗的年轻女性。",
+            "zh-TW": "Chappy 取自日語俗語 O-chappi，用來形容活潑開朗的年輕女性。",
+            "ja": "「チャッピィ」は、活発な若い女性を表す俗語「おチャッピ」に由来。"
+          },
+          "source_language": "en",
+          "source_title": "1965–1974",
+          "source_url": "https://global.yamaha-motor.com/design_technology/design/motordesign-history/history/from1965/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:cygnus-x",
@@ -27521,7 +30029,19 @@
         "status": "discontinued",
         "years": "1965–2008",
         "note": "50cc弯梁商务车，搭载Autolube自动分离润滑，日本邮政、配送与家庭通勤国民车，生产长达43年",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "The Mate name was selected from suggestions submitted by the public.",
+            "zh-CN": "Mate 这个名称由公众投稿建议选出；官方未给出更深的词义解释。",
+            "zh-TW": "Mate 這個名稱由公眾投稿建議選出；官方未提供更深的詞義解釋。",
+            "ja": "Mateの名は一般公募の応募案から選ばれた。公式資料に語義の説明はない。"
+          },
+          "source_language": "en",
+          "source_title": "1965 Mate (U5)",
+          "source_url": "https://global.yamaha-motor.com/showroom/cp/collection/mate_u5/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:mt-03",
@@ -27912,7 +30432,19 @@
         "status": "discontinued",
         "years": "2010–2021",
         "note": "1200cc并列双缸大ADV，轴传动，达喀尔赛事技术下放",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+            "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+            "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+            "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+          },
+          "source_language": "en",
+          "source_title": "Forty Years of Admiration for the Big Single",
+          "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:tdm850",
@@ -27963,7 +30495,19 @@
         "status": "current",
         "years": "2019–present",
         "note": "硬派ADV标杆，MT-07同款双缸，钢管车架，专注越野性能",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Named for the Ténéré desert region of Niger and Chad; Yamaha also glosses the word as “desert, vast plain.”",
+            "zh-CN": "名称取自尼日尔、乍得一带的特内雷沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+            "zh-TW": "名稱取自尼日爾、查德一帶的特內雷沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+            "ja": "ニジェールとチャドに広がるテネレ砂漠に由来。ヤマハ公式資料では「砂漠・広大な平原」とも説明。"
+          },
+          "source_language": "en",
+          "source_title": "Forty Years of Admiration for the Big Single",
+          "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:tenere-700-world-raid-2026",
@@ -27980,7 +30524,19 @@
         "status": "current",
         "years": "2026–present",
         "note": "2026款Ténéré 700 World Raid，689cc CP2双缸，首次搭载6轴IMU与弯道ABS，升级全可调悬挂与大容量油箱",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+            "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+            "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+            "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+          },
+          "source_language": "en",
+          "source_title": "Forty Years of Admiration for the Big Single",
+          "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:tmax-560",
@@ -28133,7 +30689,19 @@
         "status": "current",
         "years": "1997–present",
         "note": "1997年上市的古着风格50cc踏板车，复古圆灯圆润车身，由二冲程演变为四冲程水冷，至今仍在生产",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Italian for “wine”; Yamaha says the name expresses a bright, glamorous, refined Latin feel.",
+            "zh-CN": "意大利语意为“葡萄酒”；雅马哈表示此名意在传达明快、华丽、优雅的拉丁气息。",
+            "zh-TW": "意大利語意為「葡萄酒」；山葉表示此名意在傳達明快、華麗、優雅的拉丁氣息。",
+            "ja": "イタリア語で「ワイン」。ヤマハは、ラテンの明るさ・華やかさ・上品さを表現したと説明。"
+          },
+          "source_language": "ja",
+          "canonical_name_column": "en",
+          "source_title": "レトロ感覚と優れた実用機能を調和させた50ccスクーター ヤマハスクーター『Vino』（ビーノ）新発売",
+          "source_url": "https://global.yamaha-motor.com/jp/news/1997/0220/vino.html"
+        }
       },
       {
         "id": "model:yamaha:vmax",
@@ -28677,7 +31245,19 @@
         "status": "discontinued",
         "years": "1991–1999",
         "note": "659cc水冷单缸探险车，Ténéré系列中量级版，XTZ750单缸缩小版，轻量化穿越之选",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+            "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+            "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+            "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+          },
+          "source_language": "en",
+          "source_title": "Forty Years of Admiration for the Big Single",
+          "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xtz750",
@@ -28694,7 +31274,19 @@
         "status": "discontinued",
         "years": "1989–1996",
         "note": "749cc水冷双缸探险车，1991年巴黎达喀尔冠军，Super Ténéré传奇的开端，TDM850发动机的源头",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "Ténéré is named for the desert region of Niger and Chad; Yamaha also glosses it as “desert, vast plain.”",
+            "zh-CN": "Ténéré 取自尼日尔、乍得一带的沙漠地名；雅马哈也将其释为“沙漠、广阔平原”。",
+            "zh-TW": "Ténéré 取自尼日爾、查德一帶的沙漠地名；山葉也將其釋為「沙漠、廣闊平原」。",
+            "ja": "テネレはニジェールとチャドに広がる砂漠地名に由来。公式資料では「砂漠・広大な平原」とも説明。"
+          },
+          "source_language": "en",
+          "source_title": "Forty Years of Admiration for the Big Single",
+          "source_url": "https://global.yamaha-motor.com/design_technology/technology/power_source/006/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xv1100",
@@ -28711,7 +31303,19 @@
         "status": "discontinued",
         "years": "1985–1999",
         "note": "1063cc风冷V型双缸，Virago系列公升级旗舰，Virago家族最大排量，美式巡航风格浓郁",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+            "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+            "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+            "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+          },
+          "source_language": "ja",
+          "source_title": "XV750 Special 開発者インタビュー",
+          "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xv250",
@@ -28728,7 +31332,19 @@
         "status": "discontinued",
         "years": "1988–2010",
         "note": "249cc风冷V型双缸，Virago系列最小排量，入门级巡航车代表，轻巧低座高，适合新手",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+            "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+            "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+            "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+          },
+          "source_language": "ja",
+          "source_title": "XV750 Special 開発者インタビュー",
+          "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xv535",
@@ -28745,7 +31361,19 @@
         "status": "discontinued",
         "years": "1988–2003",
         "note": "535cc风冷V型双缸，Virago系列中量级畅销型号，日系美式巡航经典之选",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+            "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+            "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+            "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+          },
+          "source_language": "ja",
+          "source_title": "XV750 Special 開発者インタビュー",
+          "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xv750",
@@ -28762,7 +31390,19 @@
         "status": "discontinued",
         "years": "1981–1999",
         "note": "748cc V型双缸Virago巡航车，日系美式巡航先驱",
-        "verified": "verified"
+        "verified": "verified",
+        "name_origin": {
+          "summary": {
+            "en": "For the V-twin series, Yamaha chose a V-starting name; Virago denotes a strong-minded, masculine woman.",
+            "zh-CN": "因 V 型双缸而挑选以 V 开头的名称；Virago 指性格强悍、带男子气概的女子。",
+            "zh-TW": "因 V 型雙缸而挑選以 V 開頭的名稱；Virago 指性格強悍、帶男子氣概的女子。",
+            "ja": "V型ツインにちなみVで始まる名を選択。Viragoは「男勝りの女性」などの意味。"
+          },
+          "source_language": "ja",
+          "source_title": "XV750 Special 開発者インタビュー",
+          "source_url": "https://global.yamaha-motor.com/jp/showroom/cp/collection/xv750special/story/interview/",
+          "canonical_name_column": "en"
+        }
       },
       {
         "id": "model:yamaha:xvs650",

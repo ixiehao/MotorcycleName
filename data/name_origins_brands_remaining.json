@@ -1,0 +1,186 @@
+{
+  "models": [
+    {
+      "id": "model:bajaj:chetak",
+      "summary": {
+        "en": "Bajaj says the Chetak scooter was named after Maharana Pratap’s legendary horse.",
+        "zh-CN": "Bajaj 官方称，Chetak 踏板车以 Maharana Pratap 的传奇战马 Chetak 命名。",
+        "zh-TW": "Bajaj 官方表示，Chetak 踏板車以 Maharana Pratap 的傳奇戰馬 Chetak 命名。",
+        "ja": "Bajajによると、スクーターのChetakはマハラナ・プラタップの伝説的な愛馬にちなんで名付けられました。"
+      },
+      "source_language": "en",
+      "source_title": "Chetak – Chetak Legacy",
+      "source_url": "https://www.chetak.com/our-presence",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:tvs:apache-rtr-160",
+      "summary": {
+        "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+        "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+        "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+        "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+      },
+      "source_language": "en",
+      "source_title": "TVS Apache Celebrates its 20th Anniversary",
+      "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:tvs:apache-rtr-200",
+      "summary": {
+        "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+        "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+        "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+        "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+      },
+      "source_language": "en",
+      "source_title": "TVS Apache Celebrates its 20th Anniversary",
+      "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:tvs:apache-rtr-310",
+      "summary": {
+        "en": "TVS states that RTR in the Apache name stands for “Racing Throttle Response.”",
+        "zh-CN": "TVS 官方说明，Apache 名称中的 RTR 是 “Racing Throttle Response”（竞速油门响应）的缩写。",
+        "zh-TW": "TVS 官方說明，Apache 名稱中的 RTR 是 “Racing Throttle Response”（競速油門反應）的縮寫。",
+        "ja": "TVSによると、Apacheの名称にあるRTRは「Racing Throttle Response」の略です。"
+      },
+      "source_language": "en",
+      "source_title": "TVS Apache Celebrates its 20th Anniversary",
+      "source_url": "https://www.tvsmotor.com/media/blog/tvs-apache-20th-anniversary-6-million-sales",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:benelli:leoncino-125",
+      "summary": {
+        "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+        "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+        "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+        "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+      },
+      "source_language": "en",
+      "source_title": "Benelli Leoncino: What We Know So Far",
+      "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:benelli:leoncino-500",
+      "summary": {
+        "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+        "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+        "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+        "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+      },
+      "source_language": "en",
+      "source_title": "Benelli Leoncino: What We Know So Far",
+      "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:benelli:leoncino-800",
+      "summary": {
+        "en": "Benelli links the Leoncino line to its “Lion Cub” models and the little lion emblem on the front fender.",
+        "zh-CN": "Benelli 将 Leoncino 系列与其“小狮子（Lion Cub）”车型传统联系起来，前挡泥板的小狮子徽标也与之呼应。",
+        "zh-TW": "Benelli 將 Leoncino 系列與其「小獅子（Lion Cub）」車款傳統連結起來，前土除的小獅子徽章也與之呼應。",
+        "ja": "BenelliはLeoncinoシリーズを、往年の「Lion Cub」モデルとフロントフェンダーの小さなライオンのエンブレムに結び付けています。"
+      },
+      "source_language": "en",
+      "source_title": "Benelli Leoncino: What We Know So Far",
+      "source_url": "https://www.benelli.com/in-en/news/benelli-leoncino-what-we-know-so-far",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:benelli:tnt-600",
+      "summary": {
+        "en": "Benelli spells out TNT as “Tornado Naked Tre,” the naked-bike line derived from its Tornado Tre.",
+        "zh-CN": "Benelli 官方将 TNT 展开为 “Tornado Naked Tre”，即源自 Tornado Tre 的裸车系列。",
+        "zh-TW": "Benelli 官方將 TNT 展開為 “Tornado Naked Tre”，也就是源自 Tornado Tre 的街車系列。",
+        "ja": "Benelliによると、TNTは「Tornado Naked Tre」の略で、Tornado Treから派生したネイキッドシリーズです。"
+      },
+      "source_language": "de",
+      "source_title": "TNT – mehr Fun in der Boxengasse geht nicht",
+      "source_url": "https://www.benelli.com/de-de/news/tnt-mehr-fun-in-der-boxengasse-geht-nicht",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:jawa:250-perak",
+      "summary": {
+        "en": "JAWA says its 1946 250 earned the “Pérák” designation for its progressive design.",
+        "zh-CN": "JAWA 官方称，1946 年的 250 车型因设计先进而获得 “Pérák” 这一称号。",
+        "zh-TW": "JAWA 官方表示，1946 年的 250 車款因設計先進而獲得 “Pérák” 這個稱號。",
+        "ja": "JAWAによると、1946年の250は先進的な設計が評価され、「Pérák」の名で呼ばれるようになりました。"
+      },
+      "source_language": "cs",
+      "source_title": "Historické mezníky (Historical Milestones)",
+      "source_url": "https://www.jawa.eu/historicke-mezniky",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mv-agusta:brutale-750-s",
+      "summary": {
+        "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+        "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+        "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+        "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "MV Agusta Brutale",
+      "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mv-agusta:brutale-910",
+      "summary": {
+        "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+        "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+        "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+        "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "MV Agusta Brutale",
+      "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:mv-agusta:brutale-1000",
+      "summary": {
+        "en": "MV Agusta says Brutale is Italian for “brutal,” reflecting the naked bike’s aggressive character.",
+        "zh-CN": "MV Agusta 说明，Brutale 在意大利语中意为“粗犷／强悍”，呼应其裸车的凌厉风格。",
+        "zh-TW": "MV Agusta 說明，Brutale 在義大利語中意為「粗獷／強悍」，呼應其街車的凌厲風格。",
+        "ja": "MV Agustaによると、Brutaleはイタリア語で「荒々しい」を意味し、ネイキッドバイクのアグレッシブな性格を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "MV Agusta Brutale",
+      "source_url": "https://www.mvagusta.com/mx/en/models/brutale",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:indian:powerplus",
+      "summary": {
+        "en": "Indian says its PowerPlus engine name honors an original Indian motorcycle made from 1916 to 1924.",
+        "zh-CN": "Indian 官方称，PowerPlus 发动机名称是向 1916 至 1924 年生产的同名经典摩托致敬。",
+        "zh-TW": "Indian 官方表示，PowerPlus 引擎名稱是向 1916 至 1924 年生產的同名經典摩托車致敬。",
+        "ja": "Indianによると、PowerPlusエンジンの名称は1916～1924年に生産された同名の旧モデルにちなみます。"
+      },
+      "source_language": "en",
+      "source_title": "PowerPlus – Indian Motorcycle’s Most Powerful Engine",
+      "source_url": "https://www.indianmotorcycle.com/en-us/powerplus/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:energica:eva-esseesse9",
+      "summary": {
+        "en": "Energica says Eva EsseEsse9 takes its name from Via Emilia, the historic road through Italy’s Motor Valley.",
+        "zh-CN": "Energica 官方称，Eva EsseEsse9 的名称取自穿越意大利 Motor Valley 的历史道路 Via Emilia。",
+        "zh-TW": "Energica 官方表示，Eva EsseEsse9 的名稱取自穿越義大利 Motor Valley 的歷史道路 Via Emilia。",
+        "ja": "Energicaによると、Eva EsseEsse9の名はイタリアのモーターバレーを通る歴史的な道路、Via Emiliaに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Investor Presentation – March 2018",
+      "source_url": "https://www.energicamotor.com/wp-content/uploads/2022/01/investor-presentation-marzo-2018.pdf",
+      "canonical_name_column": "en"
+    }
+  ]
+}

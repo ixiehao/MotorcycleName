@@ -1,0 +1,875 @@
+{
+  "models": [
+    {
+      "id": "model:bmw:g-310-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:f-750-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:f-850-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:f-850-gs-adventure",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:r-1250-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:r-1250-gs-adventure",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1300-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:f-900-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-100-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1100-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1200-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r1300gs-2026",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1300-gs-adventure",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:f-800-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:f-900-gs-adventure",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:f-450-gs",
+      "summary": {
+        "en": "BMW explains GS as German “Gelände/Straße” (off-road/road), reflecting the bikes’ dual-purpose roots.",
+        "zh-CN": "宝马解释，GS 源自德语“Gelände/Straße”，意为越野／公路，体现车型兼顾两种路况的定位。",
+        "zh-TW": "BMW解釋，GS源自德文「Gelände/Straße」，意為越野／公路，體現車款兼顧兩種路況的定位。",
+        "ja": "BMWによると、GSはドイツ語の「Gelände/Straße」（オフロード／オンロード）に由来し、両方の走行環境に対応するコンセプトを表します。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bsa:gold-star-b32",
+      "summary": {
+        "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+        "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+        "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+        "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+      "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bsa:gold-star-dbd34",
+      "summary": {
+        "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+        "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+        "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+        "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+      "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bsa:b50-gold-star",
+      "summary": {
+        "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+        "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+        "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+        "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+      "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bsa:a10-rocket-gold-star",
+      "summary": {
+        "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+        "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+        "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+        "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+      "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bsa:gold-star-650",
+      "summary": {
+        "en": "BSA traces Gold Star to Wal Handley’s 1937 gold-star pin for lapping Brooklands at over 100 mph.",
+        "zh-CN": "BSA 追溯称，Gold Star 名称源自 Wal Handley 于 1937 年在 Brooklands 跑出超过 100 英里/小时后获得的金星徽章。",
+        "zh-TW": "BSA追溯稱，Gold Star名稱源自Wal Handley於1937年在Brooklands跑出超過100英里／小時後獲得的金星徽章。",
+        "ja": "BSAによると、Gold Starの名は、Wal Handleyが1937年にBrooklandsで時速100マイル超を記録して授与された金星バッジに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "BSA Motorcycles unveil the new generation model at Motorcycle Live",
+      "source_url": "https://www.bsacompany.co.uk/wp-content/uploads/2022/03/BSA-press-release_embargoed-until-4-Dec-2-3.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:scrambler-1100",
+      "summary": {
+        "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+        "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+        "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+        "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+      },
+      "source_language": "en",
+      "source_title": "The Motorcycle Diaries",
+      "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:scrambler-800-next-gen",
+      "summary": {
+        "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+        "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+        "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+        "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+      },
+      "source_language": "en",
+      "source_title": "The Motorcycle Diaries",
+      "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:scrambler-400",
+      "summary": {
+        "en": "Ducati says Scrambler recalls the overland scrambles racing popular in the 1960s.",
+        "zh-CN": "杜卡迪称，Scrambler 名称呼应 20 世纪 60 年代流行的越野 scramble 赛事。",
+        "zh-TW": "Ducati表示，Scrambler名稱呼應20世紀60年代流行的越野scramble賽事。",
+        "ja": "Ducatiによると、Scramblerの名は1960年代に人気を集めたオフロードのスクランブルレースを想起させます。"
+      },
+      "source_language": "en",
+      "source_title": "The Motorcycle Diaries",
+      "source_url": "https://www.ducati.com/us/en/news/the-motorcycle-diaries",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-sport-660",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-900-rally-pro",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-1200-rally-explorer",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-900-gt-pro",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-1200-gt-explorer",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-100",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-cub",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-110",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-885",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-sport-800",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-900-alpine-desert",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:tiger-1200-alpine-desert",
+      "summary": {
+        "en": "Triumph traces the Tiger line to its 1930s off-road bikes; Tiger 100 later helped shape the adventure-bike story.",
+        "zh-CN": "凯旋将 Tiger 车系追溯至 20 世纪 30 年代的越野车型；官方称 Tiger 100 后来推动了探险摩托的发展。",
+        "zh-TW": "Triumph將Tiger車系追溯至20世紀30年代的越野車款；官方稱Tiger 100後來推動了冒險機車的發展。",
+        "ja": "TriumphはTigerの系譜を1930年代のオフロード車まで遡ります。公式によると、Tiger 100は後のアドベンチャーバイクの発展にも影響しました。"
+      },
+      "source_language": "en",
+      "source_title": "Reasons to Ride the Tiger 900",
+      "source_url": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/reasons-to-ride",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vespa-98",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vespa-125",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vba-125",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:gs-150",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vbb-150",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:gs-160",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vespa-50",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:180-ss",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:vespa-90",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:125-super",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:super-150",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:sprint-150-classic",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:primavera-125-classic",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:rally-180",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:p125x",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:p150x",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:pk-125",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:t5",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:cosa-200",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:et2-50",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:et4-125",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:gt-200",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:vespa:gts-250",
+      "summary": {
+        "en": "Piaggio says the name Vespa was inspired by the first prototype’s resemblance to a wasp.",
+        "zh-CN": "比亚乔说明，Vespa（意大利语“黄蜂”）之名，来自首台原型车形似黄蜂。",
+        "zh-TW": "Piaggio說明，Vespa（義大利語「黃蜂」）之名，來自首台原型車形似黃蜂。",
+        "ja": "Piaggioによると、Vespa（イタリア語で「スズメバチ」）の名は、初期プロトタイプが蜂に似ていたことに由来します。"
+      },
+      "source_language": "en",
+      "source_title": "Vespa Primavera",
+      "source_url": "https://www.piaggiogroup.com/en/archive/press-releases/vespa-primavera",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:cbr900rr-fireblade",
+      "summary": {
+        "en": "Honda says Europe initially used FireBlade to avoid foregrounding the CBR900RR’s 900cc displacement.",
+        "zh-CN": "本田说明，欧洲市场最初采用 FireBlade 名称，是为避免突出 CBR900RR 的 900cc 排量。",
+        "zh-TW": "Honda說明，歐洲市場最初採用FireBlade名稱，是為避免突出CBR900RR的900cc排氣量。",
+        "ja": "Hondaによると、欧州ではCBR900RRの900ccという排気量を前面に出さないため、当初FireBladeの名で販売されました。"
+      },
+      "source_language": "en",
+      "source_title": "CBR1000RR - History: Episode00",
+      "source_url": "https://global.honda/en/tech/Hondas_Flagship_Sports_Philosophy/archive/episode00.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:honda:cbr1000rr-r-fireblade-sp",
+      "summary": {
+        "en": "Honda traces FireBlade to the CBR900RR’s European launch name, chosen not to foreground its 900cc displacement.",
+        "zh-CN": "本田将 FireBlade 追溯至 CBR900RR 的欧洲上市名称，当时为避免突出 900cc 排量而采用。",
+        "zh-TW": "Honda將FireBlade追溯至CBR900RR的歐洲上市名稱，當時為避免突出900cc排氣量而採用。",
+        "ja": "HondaはFireBladeの由来をCBR900RRの欧州発売時の名称に遡って説明しています。当初は900ccの排気量を前面に出さないために使われました。"
+      },
+      "source_language": "en",
+      "source_title": "CBR1000RR - History: Episode00",
+      "source_url": "https://global.honda/en/tech/Hondas_Flagship_Sports_Philosophy/archive/episode00.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-660-factory",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-v4-factory",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-660",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-1000r",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-457",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuono-v4-factory-2026",
+      "summary": {
+        "en": "Aprilia explains Tuono as Italian for “thunder,” the name of its naked-bike line.",
+        "zh-CN": "Aprilia 说明，Tuono 在意大利语中意为“雷鸣”，是其街车车系名称。",
+        "zh-TW": "Aprilia說明，Tuono在義大利語中意為「雷鳴」，是其街車車系名稱。",
+        "ja": "Apriliaによると、Tuonoはイタリア語で「雷鳴」を意味し、同社のネイキッドバイクシリーズ名です。"
+      },
+      "source_language": "en",
+      "source_title": "15 years for the Aprilia Tuono: power in its DNA",
+      "source_url": "https://wide.piaggiogroup.com/en/articles/products/15-years-for-the-aprilia-tuono-power-in-its-dna/index.html",
+      "canonical_name_column": "en"
+    }
+  ]
+}

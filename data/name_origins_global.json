@@ -1,0 +1,368 @@
+{
+  "models": [
+    {
+      "id": "model:harley-davidson:fat-boy-114",
+      "summary": {
+        "en": "Harley-Davidson says the name was meant to be unusual and irreverent; insiders saw the bike’s massive “fat” look, so marketing chose Fat Boy.",
+        "zh-CN": "哈雷官方解释称，这个名字刻意追求新奇、带点戏谑；内部人士觉得车身看起来很“厚实”，于是由市场团队定名 Fat Boy。",
+        "zh-TW": "哈雷官方解釋稱，這個名稱刻意追求新奇、帶點戲謔；內部人士覺得車身看起來很「厚實」，於是由行銷團隊定名Fat Boy。",
+        "ja": "ハーレー公式説明によると、意外性と少しの茶目っ気を狙った名前で、社内の人々が車体の大きく「太い」印象を見て、マーケティング部門がFat Boyと名付けました。"
+      },
+      "source_language": "en",
+      "source_title": "Harley-Davidson Reveals New Limited-Production Fat Boy Gray Ghost Model",
+      "source_url": "https://h-dmediakit.com/us/news-articles/harley-davidson-reveals-new-limited-production-fat-boy-gray-ghost-model.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw-motorrad:r-80-g-s",
+      "summary": {
+        "en": "BMW says G/S stands for German “Gelände/Straße”: off-road and road.",
+        "zh-CN": "宝马说明，G/S 是德语“Gelände/Straße”的缩写，意为越野／公路。",
+        "zh-TW": "BMW說明，G/S是德文「Gelände/Straße」的縮寫，意為越野／公路。",
+        "ja": "BMWによると、G/Sはドイツ語の「Gelände/Straße」（オフロード／オンロード）の略です。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:bmw:r-ninet",
+      "summary": {
+        "en": "BMW introduced the R nineT to mark the 90th anniversary of BMW Motorrad.",
+        "zh-CN": "宝马推出 R nineT，以纪念 BMW Motorrad 创立 90 周年。",
+        "zh-TW": "BMW推出R nineT，以紀念BMW Motorrad創立90週年。",
+        "ja": "BMWはBMW Motorrad創立90周年を記念してR nineTを発表しました。"
+      },
+      "source_language": "en",
+      "source_title": "BMW Motorrad – 100 years of success",
+      "source_url": "https://www.bmwgroup.com/en/news/general/2023/100-years-bmw-motorrad.html",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:bonneville-t100",
+      "summary": {
+        "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+        "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+        "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+        "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:bonneville-t120",
+      "summary": {
+        "en": "Triumph named Bonneville after Utah’s Bonneville Salt Flats; the T120’s “120” referred to an intended 120 mph top speed for its era.",
+        "zh-CN": "凯旋以犹他州 Bonneville 盐滩命名；T120 中的“120”寓意当时令人惊叹的 120 英里／小时目标极速。",
+        "zh-TW": "凱旋以猶他州 Bonneville 鹽灘命名；T120中的「120」寓意當時令人驚嘆的每小時120英里目標極速。",
+        "ja": "Bonnevilleはユタ州のボンネビル・ソルトフラッツに由来し、T120の「120」は当時の目標最高速120mphを示しました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:bonneville-speedmaster",
+      "summary": {
+        "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+        "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+        "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+        "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:bonneville-t120-650",
+      "summary": {
+        "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+        "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+        "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+        "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:bonneville-t140",
+      "summary": {
+        "en": "Triumph named the Bonneville after Utah’s Bonneville Salt Flats, where it set a land-speed record.",
+        "zh-CN": "凯旋以美国犹他州的 Bonneville 盐滩命名此车系；品牌曾在那里创造陆上速度纪录。",
+        "zh-TW": "凱旋以美國猶他州的 Bonneville 鹽灘命名此車系；品牌曾在那裡創下陸上速度紀錄。",
+        "ja": "Triumphは、地上速度記録に挑んだ米ユタ州のボンネビル・ソルトフラッツにちなみ命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:daytona-660",
+      "summary": {
+        "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+        "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+        "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+        "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:daytona-t100r",
+      "summary": {
+        "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+        "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+        "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+        "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:daytona-900",
+      "summary": {
+        "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+        "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+        "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+        "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:triumph:daytona-955i",
+      "summary": {
+        "en": "Triumph says the Daytona name began with a 1966 race win at the Daytona 200 and was later revived for its sportbikes.",
+        "zh-CN": "凯旋说明，Daytona 之名始于 1966 年 Tiger 100 赢得 Daytona 200 赛事，后来沿用于运动型车系。",
+        "zh-TW": "凱旋說明，Daytona之名始於1966年Tiger 100贏得Daytona 200賽事，後來沿用於運動型車系。",
+        "ja": "Triumphによると、Daytonaの名は1966年のDaytona 200優勝を機に生まれ、その後スポーツモデルに受け継がれました。"
+      },
+      "source_language": "en",
+      "source_title": "Our Story",
+      "source_url": "https://www.triumphmotorcycles.com/our-story",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:1299-panigale",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-959",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-v2",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-v2-2025",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-v2-final-edition",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-v4",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:panigale-v4-2025",
+      "summary": {
+        "en": "Ducati named the Panigale superbike after Borgo Panigale, the Bologna district where the company is based.",
+        "zh-CN": "杜卡迪以公司所在地博洛尼亚的 Borgo Panigale 区为 Panigale 超级摩托车命名。",
+        "zh-TW": "Ducati以公司所在地博洛尼亞的Borgo Panigale區為Panigale超級摩托車命名。",
+        "ja": "Ducatiは、本拠地ボローニャの地区名Borgo Panigaleにちなみ、スーパーバイクを命名しました。"
+      },
+      "source_language": "en",
+      "source_title": "Ducati announces 2012 Superbike name as Ducati 1199 Panigale",
+      "source_url": "https://mediahouse.ducati.com/ducati-announces-2012-superbike-name-as-ducati-1199-panigale/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:multistrada-950",
+      "summary": {
+        "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+        "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+        "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+        "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "Multistrada: twenty years of emotions and innovation",
+      "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:multistrada-v2",
+      "summary": {
+        "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+        "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+        "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+        "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "Multistrada: twenty years of emotions and innovation",
+      "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:multistrada-v2-2025",
+      "summary": {
+        "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+        "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+        "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+        "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "Multistrada: twenty years of emotions and innovation",
+      "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:multistrada-v4-rally",
+      "summary": {
+        "en": "Ducati says Multistrada means “multi-road” in Italian, reflecting a motorcycle made for varied roads and terrain.",
+        "zh-CN": "杜卡迪说明，Multistrada 在意大利语中意为“多种道路”，呼应车型适应多种路况的定位。",
+        "zh-TW": "Ducati說明，Multistrada在義大利語中意為「多種道路」，呼應車款適應多種路況的定位。",
+        "ja": "Ducatiによると、Multistradaはイタリア語で「多様な道」を意味し、さまざまな路面を走る車種を表しています。"
+      },
+      "source_language": "en",
+      "source_title": "Multistrada: twenty years of emotions and innovation",
+      "source_url": "https://www.ducati.com/au/en/news/multistrada-twenty-years-of-emotions-and-innovation",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:diavel-1260",
+      "summary": {
+        "en": "Ducati says Diavel comes from the Bolognese dialect word for “devil,” coined when someone saw the prototype’s silhouette.",
+        "zh-CN": "杜卡迪说明，Diavel 取自博洛尼亚方言中“魔鬼”一词；原型车亮相时，有人因其轮廓脱口而出这句话。",
+        "zh-TW": "Ducati說明，Diavel取自博洛尼亞方言中的「魔鬼」一詞；原型車亮相時，有人因其輪廓脫口而出這句話。",
+        "ja": "Ducatiによると、Diavelはボローニャ方言で「悪魔」を意味する言葉。試作車のシルエットを見た人の一言から生まれました。"
+      },
+      "source_language": "en",
+      "source_title": "The name is DIAVEL – The innovative new Ducati to be unveiled at the Milan show",
+      "source_url": "https://mediahouse.ducati.com/the-name-is-diavel-the-innovative-new-ducati-to-be-unveiled-at-the-milan-show/?lang=oci",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:ducati:monster-937",
+      "summary": {
+        "en": "Ducati links the name Monster to the bike’s stripped-back idea: the essential elements, nothing more.",
+        "zh-CN": "杜卡迪将 Monster 之名与车型“只保留必要元素”的简洁理念相连。",
+        "zh-TW": "Ducati將Monster之名與車款「只保留必要元素」的簡潔理念相連。",
+        "ja": "DucatiはMonsterの名を「必要なものだけ、それ以上はない」というシンプルなコンセプトに結び付けています。"
+      },
+      "source_language": "en",
+      "source_title": "Light, Compact, Accessible And Fun: Ducati Presents New Monster",
+      "source_url": "https://mediahouse.ducati.com/light-compact-accessible-and-fun-ducati-presents-new-monster/?lang=eng",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:aprilia:tuareg-660",
+      "summary": {
+        "en": "Aprilia’s official page describes the Tuareg people as desert nomads and frames the name as a symbol of exploration and adventure.",
+        "zh-CN": "Aprilia 官方将 Tuareg 解释为沙漠游牧民族，并把这个名称塑造成探索与冒险的象征。",
+        "zh-TW": "Aprilia官方將Tuareg解釋為沙漠遊牧民族，並將這個名稱塑造成探索與冒險的象徵。",
+        "ja": "Aprilia公式ページはTuaregを砂漠の遊牧民として紹介し、探求と冒険の象徴としてこの名を位置付けています。"
+      },
+      "source_language": "it",
+      "source_title": "Explore Tuareg 660 — Il significato di Tuareg 660",
+      "source_url": "https://www.aprilia.com/it_IT/explore-tuareg-660/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:moto-guzzi:stelvio",
+      "summary": {
+        "en": "Moto Guzzi says Stelvio honors the famous Italian Alpine pass, known to motorcyclists for its 48 bends.",
+        "zh-CN": "Moto Guzzi 说明，Stelvio 取名致敬意大利著名的斯泰尔维奥山口；那里的 48 个弯道深受骑士熟知。",
+        "zh-TW": "Moto Guzzi說明，Stelvio取名致敬義大利著名的斯泰爾維奧山口；當地的48個彎道深受騎士熟知。",
+        "ja": "Moto Guzziによると、Stelvioは有名なイタリアのステルヴィオ峠にちなむ名で、48のカーブで知られています。"
+      },
+      "source_language": "en",
+      "source_title": "Moto Guzzi Stelvio: Crossover Tourer Motorcycle",
+      "source_url": "https://www.motoguzzi.com/gb_EN/models/stelvio/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:moto-guzzi:v85-tt",
+      "summary": {
+        "en": "Moto Guzzi presents V85 TT as the original “all-terrain” V85; the official Italian description calls it “tuttoterreno.”",
+        "zh-CN": "Moto Guzzi 将 V85 TT 称为原初的“全地形”V85；官方意大利语介绍用词为 “tuttoterreno”。",
+        "zh-TW": "Moto Guzzi將V85 TT稱為原初的「全地形」V85；官方義大利語介紹用詞為「tuttoterreno」。",
+        "ja": "Moto GuzziはV85 TTを「オールテレーン」のV85と紹介し、イタリア語公式説明では「tuttoterreno」と表現しています。"
+      },
+      "source_language": "en",
+      "source_title": "New Moto Guzzi V85 Range",
+      "source_url": "https://www.motoguzzi.com/en_EN/moto-guzzi-world/news-moto-guzzi/new-v85/",
+      "canonical_name_column": "en"
+    }
+  ]
+}

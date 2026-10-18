@@ -21,15 +21,40 @@ validate.py — 数据完整性校验
 许可: 本仓库整体采用 CC BY-SA 4.0;本脚本额外可按 MIT 使用。
 """
 import json
+import glob
 import os
 import re
 import sys
+from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 MODELS_DIR = os.path.join(DATA_DIR, "models")
 LANGS = ("en", "zh-CN", "zh-TW", "ja")
 VALID_STATUS = ("current", "discontinued", "concept")
+OFFICIAL_ORIGIN_HOSTS = {
+    "Suzuki": {"www.suzuki.co.jp"},
+    "Honda": {"global.honda", "www.honda.co.jp"},
+    "Yamaha": {"global.yamaha-motor.com"},
+    "Kawasaki": {"faq.kawasaki-motors.com"},
+    "Harley-Davidson": {"www.harley-davidson.com", "h-dmediakit.com"},
+    "BMW Motorrad": {"www.bmwgroup.com", "www.press.bmwgroup.com"},
+    "Triumph": {"www.triumphmotorcycles.com"},
+    "Ducati": {"mediahouse.ducati.com", "www.ducati.com"},
+    "Aprilia": {"www.aprilia.com", "wide.piaggiogroup.com"},
+    "Moto Guzzi": {"www.motoguzzi.com"},
+    "Royal Enfield": {"www.royalenfield.com"},
+    "BSA": {"www.bsacompany.co.uk"},
+    "Vespa": {"www.piaggiogroup.com"},
+    "Piaggio": {"www.piaggiogroup.com"},
+    "Bajaj": {"www.chetak.com"},
+    "TVS": {"www.tvsmotor.com"},
+    "Benelli": {"www.benelli.com"},
+    "Jawa": {"www.jawa.eu"},
+    "MV Agusta": {"www.mvagusta.com"},
+    "Indian": {"www.indianmotorcycle.com"},
+    "Energica": {"www.energicamotor.com"},
+}
 
 _DISCORD = str.maketrans({"ë": "e", "é": "e", "è": "e", "ü": "u", "ç": "c", "ä": "a", "ö": "o", "š": "s", "ß": "ss"})
 
@@ -181,6 +206,7 @@ def main():
     # --- 车型 ---
     models = collect_models()
     model_ids = set()
+    models_by_id = {}
     for m in models:
         src = f"{m.get('__srcfile','?')}#L{m.get('__srcline','?')}"
         # 必填字段
@@ -191,6 +217,7 @@ def main():
         if mid in model_ids:
             errors.append(f"车型 id 重复: {mid} (@ {src})")
         model_ids.add(mid)
+        models_by_id[mid] = m
         # brand 必须存在
         bname = m.get("brand", "").strip()
         if bname.lower() not in brand_en:
@@ -217,6 +244,52 @@ def main():
         st = m.get("status")
         if st not in VALID_STATUS:
             errors.append(f"车型 {mid} status={st} 非法, 必须是 {VALID_STATUS} (@ {src})")
+
+    # 官方车名释义：只允许可追溯、按车型 ID 精确绑定的人工核验记录。
+    origin_entries = []
+    origin_paths = sorted(glob.glob(os.path.join(DATA_DIR, "name_origins*.json")))
+    if not origin_paths:
+        errors.append("缺少 name_origins*.json 车名释义清单")
+    for path in origin_paths:
+        origins_doc = load_json(path)
+        if not isinstance(origins_doc, dict) or not isinstance(origins_doc.get("models"), list):
+            errors.append(f"{os.path.basename(path)} 必须包含 models 数组")
+        else:
+            origin_entries.extend(origins_doc["models"])
+    if origin_entries:
+        origin_ids = set()
+        for origin in origin_entries:
+            if not isinstance(origin, dict):
+                errors.append("name_origins.json 中的条目必须是对象")
+                continue
+            mid = origin.get("id", "")
+            if not mid or mid in origin_ids:
+                errors.append(f"车名释义 ID 缺失或重复: {mid}")
+            origin_ids.add(mid)
+            model = models_by_id.get(mid)
+            if model is None:
+                errors.append(f"车名释义引用不存在的车型: {mid}")
+            summary = origin.get("summary")
+            if not isinstance(summary, dict) or any(
+                not isinstance(summary.get(language), str) or not summary[language].strip()
+                for language in LANGS
+            ):
+                errors.append(f"车名释义 {mid} 必须提供四种语言的非空简述")
+            if not isinstance(origin.get("source_language"), str) or not re.fullmatch(r"[a-z]{2}(?:-[A-Z]{2})?", origin["source_language"]):
+                errors.append(f"车名释义 {mid} 的 source_language 无效")
+            if origin.get("canonical_name_column") not in LANGS:
+                errors.append(f"车名释义 {mid} 的 canonical_name_column 必须是四种名称列之一")
+            if not isinstance(origin.get("source_title"), str) or not origin["source_title"].strip():
+                errors.append(f"车名释义 {mid} 缺少 source_title")
+            source_url = origin.get("source_url")
+            parsed_url = urlparse(source_url) if isinstance(source_url, str) else None
+            allowed_hosts = OFFICIAL_ORIGIN_HOSTS.get(model.get("brand"), set()) if model else set()
+            if (
+                parsed_url is None
+                or parsed_url.scheme != "https"
+                or parsed_url.hostname not in allowed_hosts
+            ):
+                errors.append(f"车名释义 {mid} 的来源必须是该品牌许可的 HTTPS 官方域名")
 
     # --- 结果输出 ---
     print("=" * 60)

@@ -19,6 +19,7 @@ build.py — 合并 data/ 拆分数据,生成 dist/ 合并产物
 许可: 本仓库整体采用 CC BY-SA 4.0;构建脚本额外可按 MIT 使用。
 """
 import argparse
+import glob
 import json
 import os
 import re
@@ -50,6 +51,33 @@ def collect_models():
             models.extend(data)
     # 稳定排序,便于 diff
     models.sort(key=lambda m: (m.get("brand", ""), m.get("id", "")))
+    return models
+
+
+def apply_name_origins(models):
+    """把人工核验的车名释义按稳定车型 ID 合并进数据库。"""
+    by_id = {}
+    paths = sorted(glob.glob(os.path.join(DATA_DIR, "name_origins*.json")))
+    for path in paths:
+        document = load_json(path)
+        entries = document.get("models", []) if isinstance(document, dict) else []
+        if not isinstance(entries, list):
+            raise ValueError(f"车名释义文件必须包含 models 数组: {os.path.basename(path)}")
+        for entry in entries:
+            model_id = entry.get("id")
+            if not model_id or model_id in by_id:
+                raise ValueError(f"车名释义 ID 缺失或重复: {model_id} ({os.path.basename(path)})")
+            by_id[model_id] = entry
+
+    models_by_id = {model.get("id"): model for model in models}
+    unknown_ids = sorted(set(by_id) - set(models_by_id))
+    if unknown_ids:
+        raise ValueError(f"车名释义引用了不存在的车型: {', '.join(unknown_ids)}")
+
+    for model_id, entry in by_id.items():
+        models_by_id[model_id]["name_origin"] = {
+            key: value for key, value in entry.items() if key != "id"
+        }
     return models
 
 
@@ -233,7 +261,7 @@ def main():
     brands = load_json(os.path.join(DATA_DIR, "brands.json"))
     cross_market = load_json(os.path.join(MODELS_DIR, "cross_market.json"))
     pending = load_json(os.path.join(DATA_DIR, "pending_verification.json"))
-    models = collect_models()
+    models = apply_name_origins(collect_models())
 
     # 统计分类条目数
     n_classes = 0

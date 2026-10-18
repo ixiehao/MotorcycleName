@@ -1,0 +1,121 @@
+{
+  "models": [
+    {
+      "id": "model:royal-enfield:himalayan-old",
+      "summary": {
+        "en": "Named for the Himalayas, the mountains Royal Enfield calls home.",
+        "zh-CN": "名称取自喜马拉雅山脉；官方称其为 Royal Enfield 的故乡山脉。",
+        "zh-TW": "名稱取自喜馬拉雅山脈；官方稱其為 Royal Enfield 的故鄉山脈。",
+        "ja": "Royal Enfieldが故郷と呼ぶ山々、ヒマラヤにちなんだ名称。"
+      },
+      "source_language": "en",
+      "source_title": "Royal Enfield expands footprint in APAC, enters South Korea",
+      "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/news/international/south-korea/korea-launch-press-release.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:himalayan-450",
+      "summary": {
+        "en": "Named for the Himalayas, the mountains Royal Enfield calls home.",
+        "zh-CN": "名称取自喜马拉雅山脉；官方称其为 Royal Enfield 的故乡山脉。",
+        "zh-TW": "名稱取自喜馬拉雅山脈；官方稱其為 Royal Enfield 的故鄉山脈。",
+        "ja": "Royal Enfieldが故郷と呼ぶ山々、ヒマラヤにちなんだ名称。"
+      },
+      "source_language": "en",
+      "source_title": "Royal Enfield expands footprint in APAC, enters South Korea",
+      "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/news/international/south-korea/korea-launch-press-release.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:meteor-350",
+      "summary": {
+        "en": "The Meteor 350 revives the name of Royal Enfield’s 1950s Meteor touring motorcycle.",
+        "zh-CN": "Meteor 350 沿用 Royal Enfield 于 1950 年代推出的 Meteor 旅行摩托车之名。",
+        "zh-TW": "Meteor 350 沿用 Royal Enfield 於 1950 年代推出的 Meteor 旅行機車之名。",
+        "ja": "Meteor 350は、1950年代のRoyal Enfield製ツーリングモデル「Meteor」の名を受け継ぐ。"
+      },
+      "source_language": "en",
+      "source_title": "Royal Enfield launches the all-new easy cruiser, the Meteor 350",
+      "source_url": "https://www.royalenfield.com/uk/en/our-world/media/news/product-launches/meteor-launch/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:super-meteor-650",
+      "summary": {
+        "en": "The name revives Royal Enfield’s 1956 Super Meteor, a historic cruiser.",
+        "zh-CN": "名称承袭 Royal Enfield 于 1956 年推出的经典巡航车 Super Meteor。",
+        "zh-TW": "名稱承襲 Royal Enfield 於 1956 年推出的經典巡航車 Super Meteor。",
+        "ja": "名称は、1956年登場のRoyal Enfield製クルーザー「Super Meteor」を受け継ぐ。"
+      },
+      "source_language": "en",
+      "source_title": "Meteoric — 1952",
+      "source_url": "https://www.royalenfield.com/in/en/120-years-of-royal-enfield/1952-meteoric/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:goan-classic-350",
+      "summary": {
+        "en": "“Goan” refers to Goa; the model pays tribute to the region’s 1970s–80s motorcycle culture.",
+        "zh-CN": "“Goan”指印度果阿；这款车致敬当地 20 世纪 70—80 年代的摩托车文化。",
+        "zh-TW": "「Goan」指印度果阿；這款車致敬當地 20 世紀 70 至 80 年代的機車文化。",
+        "ja": "「Goan」はインドのゴアを指し、1970～80年代の同地のモーターサイクル文化に敬意を表す。"
+      },
+      "source_language": "en",
+      "source_title": "The Royal Enfield Goan Classic 350 — a tribute to seventies Goan moto-culture",
+      "source_url": "https://www.royalenfield.com/in/en/our-world/media/press-releases/product-launches/the-royal-enfield-goan-classic-350/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:bear-650",
+      "summary": {
+        "en": "Royal Enfield links the Bear 650’s name and character to the 1960 Big Bear Run story.",
+        "zh-CN": "Royal Enfield 将 Bear 650 的名称意象联系到 1960 年 Big Bear Run 赛事故事。",
+        "zh-TW": "Royal Enfield 將 Bear 650 的名稱意象連結至 1960 年 Big Bear Run 賽事故事。",
+        "ja": "Royal EnfieldはBear 650の名称と個性を、1960年のBig Bear Runの物語に結び付けている。"
+      },
+      "source_language": "en",
+      "source_title": "Bear 650 — In Gut We Trust",
+      "source_url": "https://www.royalenfield.com/in/en/motorcycles/in-gut-we-trust/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:interceptor-650",
+      "summary": {
+        "en": "The Interceptor 650 is named after a historic Royal Enfield model.",
+        "zh-CN": "Interceptor 650 沿用一款 Royal Enfield 历史车型的名称。",
+        "zh-TW": "Interceptor 650 沿用一款 Royal Enfield 歷史車型的名稱。",
+        "ja": "Interceptor 650は、Royal Enfieldの歴史的モデルの名を受け継ぐ。"
+      },
+      "source_language": "en",
+      "source_title": "Launch of the Interceptor INT 650 and Continental GT 650",
+      "source_url": "https://www.royalenfield.com/content/dam/re-platform-images/Media-Section/Press-Release/Press-Release-Launch-of-Interceptor-INT-650-Continental-GT-650.pdf",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:continental-gt-535",
+      "summary": {
+        "en": "The Continental GT 535 continues the name and lineage of the original Continental GT 250.",
+        "zh-CN": "Continental GT 535 延续了初代 Continental GT 250 的名称与车型谱系。",
+        "zh-TW": "Continental GT 535 延續了初代 Continental GT 250 的名稱與車系脈絡。",
+        "ja": "Continental GT 535は、初代Continental GT 250の名称と系譜を受け継ぐ。"
+      },
+      "source_language": "en",
+      "source_title": "Continental GT 650 Motorcycle Digital Guide",
+      "source_url": "https://www.royalenfield.com/in/en/support/digital-quickstart/continental-gt/landing/",
+      "canonical_name_column": "en"
+    },
+    {
+      "id": "model:royal-enfield:continental-gt-650",
+      "summary": {
+        "en": "The Continental GT 650 continues the original Continental GT 250 name through the GT 535.",
+        "zh-CN": "Continental GT 650 经由 GT 535，延续了初代 Continental GT 250 的名称。",
+        "zh-TW": "Continental GT 650 經由 GT 535，延續了初代 Continental GT 250 的名稱。",
+        "ja": "Continental GT 650はGT 535を経て、初代Continental GT 250の名を受け継ぐ。"
+      },
+      "source_language": "en",
+      "source_title": "Continental GT 650 Motorcycle Digital Guide",
+      "source_url": "https://www.royalenfield.com/in/en/support/digital-quickstart/continental-gt/landing/",
+      "canonical_name_column": "en"
+    }
+  ]
+}
