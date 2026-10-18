@@ -296,18 +296,29 @@ h1 {
   background: var(--surface);
 }
 .filters label { display: grid; min-width: 0; gap: 7px; color: var(--muted); font-size: 11px; font-weight: 690; }
+.select-wrap { position: relative; display: block; min-width: 0; }
 .filters select {
+  display: block;
   width: 100%;
-  min-height: 43px;
-  padding: 0 37px 0 12px;
+  min-height: 46px;
+  padding: 0 48px 0 14px;
+  appearance: none;
+  -webkit-appearance: none;
   border: 1px solid var(--line);
-  border-radius: 10px;
+  border-radius: 12px;
   color: var(--ink);
-  background: #fff;
+  background: linear-gradient(180deg,#fff 0%,#fbfdfc 100%);
+  box-shadow: 0 1px 2px rgba(23,61,67,.035);
   font-size: 13px;
-  font-weight: 570;
+  font-weight: 620;
+  transition: border-color .16s ease,box-shadow .16s ease,background .16s ease;
 }
-.filters select:hover { border-color: var(--line-strong); }
+.filters select:hover { border-color: var(--line-strong); background: #fff; }
+.filters select:focus-visible { outline: 0; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(36,125,119,.14); }
+.select-indicator { position: absolute; top: 50%; right: 9px; display: grid; width: 28px; height: 28px; place-items: center; transform: translateY(-50%); border-radius: 9px; color: var(--accent-deep); background: var(--accent-soft); pointer-events: none; transition: color .16s ease,background .16s ease; }
+.select-chevron { width: 16px; height: 16px; stroke-width: 2; }
+.filters select:hover + .select-indicator { background: #d7ebe6; }
+.filters select:focus-visible + .select-indicator { color: #fff; background: var(--accent); }
 .reset-button, .retry-button {
   min-height: 43px;
   padding: 0 14px;
@@ -475,7 +486,8 @@ tbody tr:not(.loading-row):not(.empty-row):hover { background: #fbf8f5; }
   .section-heading > p { margin-top: 9px; font-size: 12px; }
   .filters { grid-template-columns: 1fr 1fr; gap: 9px; padding: 11px; border-radius: 12px; }
   .filters label { gap: 5px; font-size: 10px; }
-  .filters select { min-height: 40px; padding-left: 9px; font-size: 12px; }
+  .filters select { min-height: 42px; padding: 0 39px 0 10px; font-size: 12px; }
+  .select-indicator { right: 7px; width: 25px; height: 25px; border-radius: 8px; }
   .reset-button { grid-column: 1 / -1; min-height: 36px; }
   .results-toolbar { min-height: 52px; flex-wrap: wrap; gap: 4px 10px; padding-block: 9px; }
   .results-toolbar > p { flex-basis: calc(100% - 100px); font-size: 11px; }

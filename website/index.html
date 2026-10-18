@@ -24,7 +24,7 @@
     <link rel="alternate" hreflang="x-default" href="https://ixiehao.github.io/MotorcycleName/?lang=en" />
     <title>摩托车名称资料库｜MotorcycleName</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-    <link rel="stylesheet" href="styles.css?v=20261018-redesign2" />
+    <link rel="stylesheet" href="styles.css?v=20261018-select" />
     <script src="promotion.js?v=20261018-redesign2" defer></script>
     <script src="app.js?v=20261018-redesign2" defer></script>
   </head>
@@ -108,16 +108,26 @@
         <div class="filters" aria-label="筛选条件">
           <label for="brand">
             <span id="brand-label">品牌</span>
-            <select id="brand"><option value="">全部品牌</option></select>
+            <span class="select-wrap">
+              <select id="brand"><option value="">全部品牌</option></select>
+              <span class="select-indicator" aria-hidden="true">
+                <svg class="tabler-icon select-chevron" viewBox="0 0 24 24" focusable="false"><use href="tabler-icons.svg?v=20261018-select#chevron-down"></use></svg>
+              </span>
+            </span>
           </label>
           <label for="status">
             <span id="status-label">车型状态</span>
-            <select id="status">
-              <option value="">全部状态</option>
-              <option value="current">在售</option>
-              <option value="discontinued">停产</option>
-              <option value="concept">概念</option>
-            </select>
+            <span class="select-wrap">
+              <select id="status">
+                <option value="">全部状态</option>
+                <option value="current">在售</option>
+                <option value="discontinued">停产</option>
+                <option value="concept">概念</option>
+              </select>
+              <span class="select-indicator" aria-hidden="true">
+                <svg class="tabler-icon select-chevron" viewBox="0 0 24 24" focusable="false"><use href="tabler-icons.svg?v=20261018-select#chevron-down"></use></svg>
+              </span>
+            </span>
           </label>
           <button class="reset-button" id="reset" type="button">清除条件</button>
         </div>
