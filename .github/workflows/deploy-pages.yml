@@ -8,6 +8,12 @@ on:
       - 'dist/motorcycle-names-database.json'
       - 'scripts/build_pages_preview.py'
       - '.github/workflows/deploy-pages.yml'
+  pull_request:
+    paths:
+      - 'website/**'
+      - 'dist/**'
+      - 'scripts/**'
+      - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -20,16 +26,35 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Validate data and generate site preview
+        run: |
+          python3 scripts/validate.py
+          mkdir -p _site/data
+          cp -R website/. _site/
+          cp dist/motorcycle-names-database.json _site/data/motorcycle-names-database.json
+          python3 scripts/build_pages_preview.py dist/motorcycle-names-database.json _site/data/motorcycle-names-preview.json
+      - name: Verify Pages artifact upload
+        uses: actions/upload-pages-artifact@v5
+        with:
+          name: validation-pages
+          path: _site
   deploy:
+    needs: verify
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           enablement: true
       - name: Prepare Pages artifact
@@ -39,9 +64,9 @@ jobs:
           cp dist/motorcycle-names-database.json _site/data/motorcycle-names-database.json
           python3 scripts/build_pages_preview.py dist/motorcycle-names-database.json _site/data/motorcycle-names-preview.json
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
